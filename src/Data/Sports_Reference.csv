@@ -1,0 +1,28 @@
+CFB / MBB / WBB — COMPETITIVE BALANCE DASHBOARD,,,,
+All three revenue sports compared | Pre-NIL vs Post-NIL | Power vs Non-Power,,,,
+,,,,
+PRE-NIL vs POST-NIL — POWER CONFERENCE AVG WIN %,,,,
+Sport,Pre-NIL Avg Win %,Post-NIL Avg Win %,Change (pp),Direction
+CFB (Football),0.5523,0.5612,0.00890000000000002,→ Slight increase
+MBB (Men's Basketball),0.5942,0.5814,-0.0127999999999999,→ Slight decrease
+WBB (Women's Basketball),0.5897,0.5921,0.00239999999999996,→ Slight increase
+,,,,
+PRE-NIL vs POST-NIL — NON-POWER AVG WIN %,,,,
+Sport,Pre-NIL Avg Win %,Post-NIL Avg Win %,Change (pp),Direction
+CFB — Group of 5,0.4899,0.4809,-0.00900000000000001,
+MBB — Low/Mid-Major,0.5087,0.5188,0.0101,
+WBB — Low/Mid-Major,0.4763,0.4753,-0.001,
+,,,,
+POWER vs NON-POWER WIN % GAP — TREND (ALL 3 SPORTS),,,,
+Year,CFB Gap,MBB Gap,WBB Gap,
+2015,0.1042,0.1423,0.1088,
+2016,0.0718,0.1387,0.1148,
+2017,0.086,0.0931,0.1195,
+2018,0.076,0.0956,0.1061,
+2019,0.049,0.0755,0.1208,
+2020,0.0221,,,
+2021,0.0487,0.0419,0.0742,
+2022,0.078,0.0615,0.0984,
+2023,0.0764,,0.1297,
+2024,0.0842,0.0636,0.12,
+2025,0.0826,,0.1187,

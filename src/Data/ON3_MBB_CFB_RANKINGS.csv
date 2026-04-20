@@ -1,0 +1,2849 @@
+Sport,Year,Rank,Team,5-Star,4-Star,3-Star,Total Commits,Avg Rating,Avg NIL,Score
+Football,2026,1,USC,2,20,13,35,91.22,$210K,93.862
+Football,2026,2,Notre Dame,3,18,9,30,91.1,$96K,92.958
+Football,2026,3,Ohio State,2,16,10,28,91.44,$156K,92.772
+Football,2026,4,Oregon,4,12,7,23,92.06,$212K,92.753
+Football,2026,5,Georgia,1,20,11,32,90.52,$169K,92.67
+Football,2026,6,Alabama,3,11,13,27,91.24,$217K,92.62
+Football,2026,7,Texas A&M,1,18,8,27,91.01,$85K,92.039
+Football,2026,8,Miami,1,19,11,32,90.07,$155K,91.987
+Football,2026,9,Tennessee,2,12,17,31,89.87,$164K,91.95
+Football,2026,10,Texas,3,12,9,24,90.33,$234K,91.632
+Football,2026,11,Michigan,2,10,13,26,89.42,$75K,90.885
+Football,2026,12,LSU,2,10,6,18,91.17,$211K,90.836
+Football,2026,13,Florida,0,13,7,20,90.09,$128K,90.056
+Football,2026,14,Washington,0,10,15,25,89.08,$63K,90.055
+Football,2026,15,Florida State,0,11,23,34,88.28,$60K,89.854
+Football,2026,16,Oklahoma,0,9,16,25,88.89,$67K,89.757
+Football,2026,17,North Carolina,0,10,30,40,87.88,$34K,89.635
+Football,2026,18,South Carolina,0,9,9,18,89.92,$86K,89.585
+Football,2026,19,Texas Tech,2,6,13,22,88.85,$107K,89.276
+Football,2026,20,West Virginia,0,4,45,49,86.94,$21K,89.082
+Football,2026,21,Clemson,0,9,14,23,88.25,$45K,89.01
+Football,2026,22,Illinois,0,5,28,33,87.37,$22K,88.777
+Football,2026,23,Iowa,0,7,11,18,88.94,$47K,88.607
+Football,2026,24,SMU,0,4,19,23,88.08,$23K,88.53
+Football,2026,25,BYU,0,7,15,22,88.15,$57K,88.502
+Football,2026,26,Ole Miss,0,6,16,23,87.71,$52K,88.336
+Football,2026,27,Missouri,0,4,19,23,87.94,$25K,88.268
+Football,2026,28,Mississippi State,0,3,26,29,87.21,$24K,88.245
+Football,2026,29,Virginia Tech,0,7,16,23,87.59,$29K,88.228
+Football,2026,30,Indiana,0,7,15,22,87.95,$27K,88.129
+Football,2026,31,Vanderbilt,1,1,20,22,87.76,$98K,88.045
+Football,2026,32,Minnesota,0,5,26,31,87.1,$20K,87.995
+Football,2026,33,Syracuse,0,2,25,28,86.69,$23K,87.867
+Football,2026,34,Arizona State,0,5,16,21,87.72,$44K,87.716
+Football,2026,35,Utah,1,0,18,19,87.77,$63K,87.622
+Football,2026,36,Houston,1,2,15,18,87.93,$76K,87.596
+Football,2026,37,Rutgers,0,2,21,23,87.16,$17.1K,87.451
+Football,2026,38,Georgia Tech,0,1,23,24,86.93,$18.3K,87.415
+Football,2026,39,Stanford,0,3,21,24,86.82,$23K,87.412
+Football,2026,40,Maryland,1,0,16,17,87.99,$58K,87.391
+Football,2026,41,Wake Forest,0,2,28,30,86.39,$16.8K,87.186
+Football,2026,42,Auburn,0,5,16,21,87.16,$65K,87.159
+Football,2026,43,TCU,0,2,20,22,86.81,$18.3K,87.15
+Football,2026,44,Pittsburgh,0,1,20,21,87.09,$19.7K,87.088
+Football,2026,45,Arizona,0,4,16,20,87.07,$29K,87.038
+Football,2026,46,Arkansas,0,2,21,23,86.49,$22K,87.034
+Football,2026,47,Kansas State,0,0,21,21,87.03,$13.1K,87.034
+Football,2026,48,NC State,0,1,26,27,86.52,$14.7K,87.028
+Football,2026,49,Louisville,0,3,17,20,86.97,$27K,86.935
+Football,2026,50,Purdue,0,0,25,25,86.1,$14.1K,86.589
+Football,2026,51,Boise State,0,0,34,34,85.24,$12.3K,86.546
+Football,2026,52,California,0,2,16,18,86.76,$15K,86.422
+Football,2026,53,Kentucky,0,3,13,16,87.37,$35K,86.419
+Football,2026,54,Northwestern,0,1,21,22,86.12,$14.7K,86.355
+Football,2026,55,Boston College,0,0,24,24,85.96,$11.7K,86.32
+Football,2026,56,Iowa State,0,0,27,27,85.59,$10.3K,86.277
+Football,2026,57,Michigan State,0,3,17,21,86.19,$27K,86.189
+Football,2026,58,Kansas,0,1,17,18,86.43,$15.6K,86.094
+Football,2026,59,Baylor,0,2,13,15,87.47,$20K,86.074
+Football,2026,60,Cincinnati,0,1,24,25,85.57,$11.8K,85.992
+Football,2026,61,Troy,0,0,35,36,84.68,$15.8K,85.89
+Football,2026,62,Appalachian State,0,0,29,29,84.99,$12.6K,85.883
+Football,2026,63,UCF,0,2,14,16,86.81,$26K,85.856
+Football,2026,64,Penn State,0,2,13,15,87.22,$35K,85.827
+Football,2026,65,Wisconsin,0,0,15,15,87.17,$13.2K,85.777
+Football,2026,66,Colorado,0,2,16,18,86.05,$18K,85.717
+Football,2026,67,UCLA,0,0,19,20,85.69,$15.3K,85.656
+Football,2026,68,Temple,0,0,33,33,84.72,$11.7K,85.583
+Football,2026,69,UNLV,0,0,23,28,84.41,$12.4K,85.578
+Football,2026,70,Oklahoma State,0,0,22,23,85.18,$10.9K,85.551
+Football,2026,71,Duke,0,2,13,15,86.87,$18.5K,85.475
+Football,2026,72,Texas State,0,0,21,22,84.86,$10.3K,85.093
+Football,2026,73,Tulane,0,0,18,19,85.21,$11.9K,85.064
+Football,2026,74,Colorado State,0,0,28,28,84.44,$13.2K,85.044
+Football,2026,75,Memphis,0,0,21,21,84.89,$12.1K,84.886
+Football,2026,76,Fresno State,0,0,22,24,84.35,$19K,84.835
+Football,2026,77,South Alabama,0,0,31,31,84.13,$10.8K,84.774
+Football,2026,78,UTSA,0,0,19,20,84.77,$8.3K,84.73
+Football,2026,79,San Diego State,0,0,23,24,84.16,$10.4K,84.568
+Football,2026,80,Tulsa,0,0,21,21,84.52,$11K,84.521
+Football,2026,81,Western Kentucky,0,0,22,24,84.01,$13.1K,84.516
+Football,2026,82,Bowling Green,0,0,27,27,83.93,$10.2K,84.449
+Football,2026,83,New Mexico,0,0,23,31,83.14,$9.9K,84.443
+Football,2026,84,USF,0,0,17,18,84.72,$11.9K,84.386
+Football,2026,85,Charlotte,0,0,27,28,83.81,$10.4K,84.372
+Football,2026,86,Arkansas State,0,0,25,28,83.53,$9.3K,84.362
+Football,2026,87,James Madison,0,0,19,21,84.19,$12.1K,84.194
+Football,2026,88,Oregon State,0,0,16,16,84.96,$13.1K,84.006
+Football,2026,89,Georgia State,0,0,20,22,83.77,$9.9K,83.946
+Football,2026,90,Northern Illinois,0,0,25,32,82.82,$9.6K,83.937
+Football,2026,91,East Carolina,0,0,17,18,84.26,$12.4K,83.923
+Football,2026,92,Virginia,0,0,15,15,85.3,$15.9K,83.902
+Football,2026,93,Southern Miss,0,0,19,21,83.81,$11.5K,83.812
+Football,2026,94,Eastern Michigan,0,0,33,37,82.74,$11.1K,83.811
+Football,2026,95,FIU,0,0,21,21,83.77,$11.3K,83.775
+Football,2026,96,Utah State,0,0,20,20,83.81,$10.6K,83.771
+Football,2026,97,Old Dominion,0,0,24,30,82.77,$12.7K,83.77
+Football,2026,98,Nebraska,0,3,8,11,87.91,$40K,83.767
+Football,2026,99,Miami (OH),0,0,18,18,84.09,$13.4K,83.751
+Football,2026,100,Central Michigan,0,0,31,38,82.51,$9K,83.696
+Football,2026,101,UTEP,0,0,24,29,82.67,$9.6K,83.563
+Football,2026,102,Ohio,0,0,16,18,83.87,$11.6K,83.538
+Football,2026,103,Connecticut,0,0,15,15,84.74,$13K,83.346
+Football,2026,104,Rice,0,0,23,25,82.89,$9.7K,83.329
+Football,2026,105,Delaware,0,0,20,20,83.33,$10.5K,83.292
+Football,2026,106,Buffalo,0,0,18,23,83.01,$11.8K,83.292
+Football,2026,107,Jacksonville State,0,0,18,30,82.29,$11.6K,83.27
+Football,2026,108,Nevada,0,0,19,27,82.52,$10K,83.253
+Football,2026,109,Liberty,0,0,16,19,83.34,$10.8K,83.189
+Football,2026,110,Louisiana Tech,0,0,18,26,82.5,$8.9K,83.101
+Football,2026,111,Western Michigan,0,0,19,23,82.83,$8.8K,83.095
+Football,2026,112,Louisiana-Monroe,0,0,20,25,82.51,$18.1K,82.992
+Football,2026,113,Middle Tennessee State,0,0,16,18,83.3,$11.2K,82.965
+Football,2026,114,Marshall,0,0,18,20,82.98,$10K,82.948
+Football,2026,115,Massachusetts,0,0,19,20,82.97,$10.4K,82.929
+Football,2026,116,Coastal Carolina,0,0,15,17,83.53,$12.2K,82.926
+Football,2026,117,Wyoming,0,0,18,22,82.7,$9.8K,82.828
+Football,2026,118,Kent State,0,0,19,20,82.81,$8.1K,82.777
+Football,2026,119,Georgia Southern,0,0,16,22,82.55,$9.3K,82.668
+Football,2026,120,Kennesaw State,0,0,15,18,82.96,$12.3K,82.626
+Football,2026,121,Toledo,0,0,15,16,83.51,$9.2K,82.557
+Football,2026,122,Florida Atlantic,0,0,13,14,84.39,$12.4K,82.464
+Football,2026,123,Louisiana,0,0,12,23,82.2,$10.6K,82.448
+Football,2026,124,Sam Houston State,0,0,13,18,82.61,$9.6K,82.278
+Football,2026,125,Ball State,0,0,12,24,81.96,$9.5K,82.234
+Football,2026,126,Hawaii,0,0,15,19,82.32,$12.9K,82.175
+Football,2026,127,Sacramento State,0,0,18,29,81.51,$11K,82.082
+Football,2026,128,San Jose State,0,0,12,15,83.16,$10.9K,81.766
+Football,2026,129,Washington State,0,0,13,13,84.24,$10K,81.679
+Football,2026,130,Missouri State University,0,0,8,18,81.73,$12K,81.394
+Football,2026,131,North Dakota State,0,0,5,29,80.49,$8.3K,80.671
+Football,2026,132,Navy,0,0,3,36,80.35,$10.8K,80.603
+Football,2026,133,Akron,0,0,8,14,82.5,$13.3K,80.578
+Football,2026,134,Idaho,0,0,6,17,80.96,$8.3K,80.36
+Football,2026,135,Army,0,0,2,23,80.25,$11.8K,80.278
+Football,2026,136,Air Force,0,0,1,17,80.1,$13.6K,79.496
+Football,2026,137,South Dakota State,0,0,5,14,80.94,$15.8K,79.009
+Football,2026,138,UAB,0,0,8,12,82.09,$11.4K,78.8
+Football,2026,139,New Mexico State,0,0,6,11,82.04,$9.6K,77.898
+Football,2026,140,North Texas,0,0,5,10,82.18,$9.4K,77.069
+Football,2026,141,Cal Poly,0,0,1,12,80,$6.9K,76.705
+Football,2026,142,North Carolina Central,0,0,1,11,80.18,$9.4K,76.038
+Football,2026,143,North Dakota,0,0,2,9,80.68,$8.7K,74.462
+Football,2026,144,UC Davis,0,0,0,9,80,-,73.784
+Football,2026,145,Harvard,0,0,3,8,81.17,$14.5K,73.702
+Football,2026,146,Central Arkansas,0,0,2,8,80.64,$12.1K,73.174
+Football,2026,147,Prairie View A&M,0,0,0,7,80,-,71.124
+Football,2026,148,Idaho State,0,0,2,6,81.04,$11.2K,70.566
+Football,2026,149,West Georgia,0,0,4,5,82.84,$12.5K,70.551
+Football,2026,150,Tarleton State,0,0,1,6,80.96,$10K,70.488
+Football,2026,151,Portland State,0,0,3,5,82.71,$21K,70.417
+Football,2026,152,Florida A&M,0,0,2,6,80.67,$7.4K,70.193
+Football,2026,153,South Carolina State,0,0,2,6,80.5,$14K,70.027
+Football,2026,154,Montana State,0,0,1,6,80.44,$9.3K,69.971
+Football,2026,155,Princeton,0,0,0,6,80,-,69.527
+Football,2026,156,East Tennessee State,0,0,0,6,80,$16.6K,69.527
+Football,2026,157,Samford,0,0,0,6,80,-,69.527
+Football,2026,158,South Dakota,0,0,0,6,80,$10.3K,69.527
+Football,2026,159,Richmond,0,0,1,5,80.98,$10K,68.691
+Football,2026,160,Murray State,0,0,2,5,80.88,$9.8K,68.591
+Football,2026,161,Eastern Washington,0,0,2,5,80.8,$7.5K,68.511
+Football,2026,162,William & Mary,0,0,1,5,80.13,$12.3K,67.844
+Football,2026,163,Northern Colorado,0,0,0,5,80,-,67.711
+Football,2026,164,Norfolk State,0,0,0,5,80,$12.6K,67.711
+Football,2026,165,Wofford,0,0,2,4,82,$11.4K,67.629
+Football,2026,166,Southern University,0,0,1,4,81.15,$10K,66.779
+Football,2026,167,Eastern Kentucky,0,0,2,4,80.92,$14.4K,66.546
+Football,2026,168,UT Martin,0,0,1,4,80.73,$15.8K,66.362
+Football,2026,169,Abilene Christian,0,0,1,4,80.58,$7.5K,66.212
+Football,2026,170,McNeese State,0,0,1,4,80.58,$7.2K,66.212
+Football,2026,171,Brown,0,0,1,4,80.5,$9.1K,66.129
+Football,2026,172,Northern Arizona,0,0,0,4,80,-,65.629
+Football,2026,173,Dartmouth,0,0,0,4,80,-,65.629
+Football,2026,174,Southern Utah,0,0,0,4,80,-,65.629
+Football,2026,175,Monmouth,0,0,0,4,80,-,65.629
+Football,2026,176,Stephen F. Austin,0,0,3,3,81.67,$10.8K,64.872
+Football,2026,177,Southeastern Louisiana,0,0,1,3,81.6,$13.8K,64.805
+Football,2026,178,Utah Tech,0,0,1,3,81.38,$14.9K,64.583
+Football,2026,179,Mercer,0,0,1,3,81,$23K,64.205
+Football,2026,180,Austin Peay,0,0,1,3,80.78,$25K,63.983
+Football,2026,181,Howard,0,0,1,3,80.44,$11.4K,63.649
+Football,2026,182,Youngstown State,0,0,1,3,80.22,$17.9K,63.427
+Football,2026,183,Albany,0,0,0,3,80,-,63.205
+Football,2026,184,Western Illinois,0,0,0,3,80,-,63.205
+Football,2026,185,Illinois State,0,0,0,3,80,$13.6K,63.205
+Football,2026,186,Northern Iowa,0,0,0,3,80,$14.8K,63.205
+Football,2026,187,Lafayette,0,0,0,3,80,$10.9K,63.205
+Football,2026,188,Eastern Illinois,0,0,0,3,80,-,63.205
+Football,2026,189,Virginia Military Institute,0,0,0,3,80,-,63.205
+Football,2026,190,Valparaiso,0,0,0,3,80,$13.6K,63.205
+Football,2026,191,Bryant University,0,0,0,3,80,$11.2K,63.205
+Football,2026,192,East Texas A&M Commerce,0,0,0,3,80,-,63.205
+Football,2026,193,Colgate,0,0,0,3,80,-,63.205
+Football,2026,194,Virginia Union,0,0,0,3,80,-,63.205
+Football,2026,-,Pennsylvania,0,0,1,2,84,-,64.295
+Football,2026,-,North Carolina A&T,0,0,1,2,83.22,$10K,63.512
+Football,2026,-,Pittsburg State,0,0,1,2,82.88,$20K,63.179
+Football,2026,-,Jackson State,0,0,2,2,82.4,$22K,62.695
+Football,2026,-,Nicholls State,0,0,1,2,82.1,$14.7K,62.395
+Football,2026,-,Weber State,0,0,1,2,82.07,$14.9K,62.362
+Football,2026,-,Indianapolis,0,0,1,2,81.67,$7.5K,61.962
+Football,2026,-,Grand Valley State,0,0,1,2,81.62,$7.5K,61.912
+Football,2026,-,Lindenwood University,0,0,1,2,81.33,$21K,61.629
+Football,2026,-,Delaware State,0,0,1,2,81.28,-,61.579
+Football,2026,-,Towson,0,0,1,2,80.67,$13.3K,60.962
+Football,2026,-,Tennessee State,0,0,1,2,80.5,$7.5K,60.795
+Football,2026,-,Maine,0,0,0,2,80,-,60.295
+Football,2026,-,UNC Pembroke,0,0,0,2,80,-,60.295
+Football,2026,-,Chattanooga,0,0,0,2,80,-,60.295
+Football,2026,-,Furman,0,0,0,2,80,$10.7K,60.295
+Football,2026,-,New Hampshire,0,0,0,2,80,-,60.295
+Football,2026,-,Sacred Heart,0,0,0,2,80,-,60.295
+Football,2026,-,Stetson,0,0,0,2,80,$8.5K,60.295
+Football,2026,-,Southern Illinois,0,0,0,2,80,$9.6K,60.295
+Football,2026,-,Lamar,0,0,0,2,80,-,60.295
+Football,2026,-,Incarnate Word,0,0,0,2,80,$6.9K,60.295
+Football,2026,-,West Virginia State,0,0,0,2,80,-,60.295
+Football,2026,-,Alabama State,0,0,0,2,80,-,60.295
+Football,2026,-,Ferris State,0,0,1,1,83.5,$21K,60.047
+Football,2026,-,Southern Arkansas,0,0,1,1,82.9,$14.2K,59.447
+Football,2026,-,Hampden-Sydney,0,0,1,1,82.33,$7.5K,58.88
+Football,2026,-,Fordham,0,0,1,1,81,$21K,57.547
+Football,2026,-,West Chester,0,0,1,1,81,$7.5K,57.547
+Football,2026,-,Western New Mexico,0,0,1,1,80.67,$7.5K,57.213
+Football,2026,-,Livingstone College,0,0,0,1,80,-,56.547
+Football,2026,-,Emporia State,0,0,0,1,80,-,56.547
+Football,2026,-,Elon,0,0,0,1,80,-,56.547
+Football,2026,-,Davidson,0,0,0,1,80,$15.3K,56.547
+Football,2026,-,Dayton,0,0,0,1,80,-,56.547
+Football,2026,-,Drake,0,0,0,1,80,-,56.547
+Football,2026,-,East Central University,0,0,0,1,80,-,56.547
+Football,2026,-,Miles College,0,0,0,1,80,-,56.547
+Football,2026,-,Savannah State,0,0,0,1,80,-,56.547
+Football,2026,-,San Diego,0,0,0,1,80,-,56.547
+Football,2026,-,Marist,0,0,0,1,80,-,56.547
+Football,2026,-,Minnesota State Mankato,0,0,0,1,80,$9.8K,56.547
+Football,2026,-,Minnesota State University Moorhead,0,0,0,1,80,-,56.547
+Football,2026,-,Lehigh,0,0,0,1,80,-,56.547
+Football,2026,-,Northern State,0,0,0,1,80,-,56.547
+Football,2026,-,Rhode Island,0,0,0,1,80,-,56.547
+Football,2026,-,Indiana State,0,0,0,1,80,-,56.547
+Football,2026,-,Hampton,0,0,0,1,80,-,56.547
+Football,2026,-,Houston Christian,0,0,0,1,80,-,56.547
+Football,2026,-,Howard Payne,0,0,0,1,80,-,56.547
+Football,2026,-,Presbyterian,0,0,0,1,80,-,56.547
+Football,2026,-,Yale,0,0,0,1,80,-,56.547
+Football,2026,-,William Penn,0,0,0,1,80,-,56.547
+Football,2026,-,Wingate,0,0,0,1,80,-,56.547
+Football,2026,-,Arkansas-Pine Bluff,0,0,0,1,80,-,56.547
+Football,2026,-,Amherst College,0,0,0,1,80,-,56.547
+Football,2026,-,Bethune-Cookman,0,0,0,1,80,$15.7K,56.547
+Football,2026,-,Christopher Newport University,0,0,0,1,80,-,56.547
+Football,2026,-,Westminster College Missouri,0,0,0,1,80,-,56.547
+Football,2026,-,Edward Waters College,0,0,0,1,80,-,56.547
+Football,2026,-,Trine University,0,0,0,1,80,$17.9K,56.547
+Football,2026,-,Edinboro,0,0,0,1,80,-,56.547
+Football,2026,-,Mars Hill University,0,0,0,1,80,-,56.547
+Football,2026,-,Central Missouri State,0,0,0,1,80,-,56.547
+Football,2026,-,Columbia,0,0,0,1,80,-,56.547
+Football,2026,-,Chicago State,0,0,0,1,80,$15.4K,56.547
+Football,2026,-,Texas-Permian Basin,0,0,0,1,80,-,56.547
+Football,2026,-,Colby College,0,0,0,1,80,-,56.547
+Football,2026,-,Charleston Southern,0,0,0,1,80,$11.6K,56.547
+Football,2026,-,Mississippi Valley State,0,0,0,1,80,-,56.547
+Football,2026,-,Wagner,0,0,0,1,80,-,56.547
+Football,2026,-,Washington & Lee,0,0,0,1,80,-,56.547
+Football,2026,-,Benedict College,0,0,0,1,80,-,56.547
+Football,2026,-,Bucknell,0,0,0,1,80,-,56.547
+Football,2026,-,Grand View,0,0,0,1,80,-,56.547
+Football,2026,-,Fort Valley State,0,0,0,1,80,-,56.547
+Football,2026,-,Shepherd,0,0,0,1,80,-,56.547
+Football,2026,-,Missouri Western State,0,0,0,1,80,-,56.547
+Football,2026,-,Southeast Missouri State,0,0,0,1,80,-,56.547
+Football,2026,-,Morehead State,0,0,0,1,80,-,56.547
+Football,2026,-,Montana,0,0,0,1,80,-,56.547
+Football,2026,-,Montana Tech,0,0,0,1,80,-,56.547
+Football,2026,-,Nebraska Kearney,0,0,0,1,80,-,56.547
+Football,2026,-,Sioux Falls,0,0,0,1,80,-,56.547
+Football,2025,1,Texas,5,13,7,25,92.79,$199K,94.143
+Football,2025,2,Georgia,4,19,5,28,92.18,$158K,93.616
+Football,2025,3,Alabama,3,14,4,21,92.72,$230K,93.343
+Football,2025,4,Oregon,3,14,1,18,93.38,$254K,93.229
+Football,2025,5,Ohio State,3,15,8,26,91.82,$198K,93
+Football,2025,6,Michigan,2,14,8,24,91.59,$267K,92.588
+Football,2025,7,Texas A&M,2,17,6,25,91.35,$123K,92.369
+Football,2025,8,Auburn,1,15,10,26,90.89,$120K,92.348
+Football,2025,9,LSU,2,13,8,23,91.75,$129K,92.286
+Football,2025,10,Florida,1,15,11,27,90.29,$121K,92.191
+Football,2025,11,Tennessee,2,14,9,25,91.13,$165K,91.919
+Football,2025,12,Notre Dame,1,13,11,25,90.41,$86K,91.473
+Football,2025,13,Penn State,0,16,12,28,89.98,$122K,90.912
+Football,2025,14,Miami,0,12,9,21,90.6,$165K,90.854
+Football,2025,15,USC,1,9,15,25,89.8,$94K,90.77
+Football,2025,16,Oklahoma,1,10,7,18,90.35,$135K,90.193
+Football,2025,17,South Carolina,0,12,14,26,88.7,$45K,90.03
+Football,2025,18,Missouri,0,11,6,18,90.16,$88K,90.008
+Football,2025,19,Ole Miss,0,9,14,23,89.47,$71K,89.994
+Football,2025,20,Florida State,0,9,14,23,88.9,$115K,89.817
+Football,2025,21,Nebraska,0,9,11,21,88.99,$49K,89.437
+Football,2025,22,Mississippi State,0,5,23,29,87.88,$53K,89.063
+Football,2025,23,Clemson,1,6,8,15,89.98,$65K,88.98
+Football,2025,24,Georgia Tech,0,6,18,24,87.91,$46K,88.824
+Football,2025,25,Washington,0,4,23,28,87.66,$47K,88.766
+Football,2025,26,TCU,0,5,26,31,87.45,$32K,88.754
+Football,2025,27,Wisconsin,0,4,19,23,88.16,$48K,88.663
+Football,2025,28,Kentucky,0,6,16,22,88.06,$46K,88.403
+Football,2025,29,Rutgers,0,2,27,30,87.11,$26K,88.165
+Football,2025,30,Arkansas,0,3,20,23,87.37,$35K,87.994
+Football,2025,31,SMU,0,5,18,25,86.84,$42K,87.863
+Football,2025,32,Maryland,0,5,16,21,87.39,$154K,87.636
+Football,2025,33,Iowa,0,4,12,16,88.21,$46K,87.58
+Football,2025,34,Duke,0,3,25,28,86.33,$39K,87.509
+Football,2025,35,Colorado,0,7,7,14,88.89,$123K,87.417
+Football,2025,36,NC State,0,2,21,23,87,$25K,87.412
+Football,2025,37,Kansas State,0,2,23,25,86.59,$30K,87.109
+Football,2025,38,Virginia Tech,0,2,18,20,87.05,$26K,87.048
+Football,2025,39,Baylor,0,3,18,22,86.39,$39K,87.043
+Football,2025,40,UCLA,0,1,21,22,86.55,$27K,86.987
+Football,2025,41,Oklahoma State,0,0,21,21,86.76,$21K,86.962
+Football,2025,42,Utah,0,0,24,24,86.33,$20K,86.933
+Football,2025,43,Texas Tech,0,2,16,18,86.99,$26K,86.838
+Football,2025,44,North Carolina,0,2,28,30,85.49,$35K,86.754
+Football,2025,45,Illinois,0,0,22,23,86.15,$22K,86.714
+Football,2025,46,Arizona State,0,2,21,24,85.97,$25K,86.589
+Football,2025,47,Michigan State,0,1,18,19,86.59,$25K,86.547
+Football,2025,48,West Virginia,0,1,21,29,84.64,$23K,86.515
+Football,2025,49,Arizona,0,1,27,28,85.81,$19.8K,86.504
+Football,2025,50,Syracuse,0,1,34,35,85.37,$25K,86.478
+Football,2025,51,Minnesota,0,2,20,22,85.8,$23K,86.401
+Football,2025,52,Houston,0,1,18,19,86.43,$18.7K,86.393
+Football,2025,53,Indiana,0,1,22,23,86.05,$23K,86.381
+Football,2025,54,Pittsburgh,0,0,22,22,86.14,$131K,86.376
+Football,2025,55,BYU,0,2,22,24,85.78,$20K,86.365
+Football,2025,56,California,0,2,17,19,86.37,$19.7K,86.334
+Football,2025,57,Stanford,0,1,16,17,86.57,$22K,86.214
+Football,2025,58,Iowa State,0,1,19,21,85.77,$26K,86.062
+Football,2025,59,Boston College,0,0,27,27,85.24,$35K,85.841
+Football,2025,60,Virginia,0,0,19,20,85.83,$21K,85.835
+Football,2025,61,Memphis,0,1,19,21,85.55,$31K,85.826
+Football,2025,62,Wake Forest,0,0,22,24,84.76,$17K,85.411
+Football,2025,63,Oregon State,0,0,20,20,85.34,$18.1K,85.341
+Football,2025,64,Cincinnati,0,0,19,19,85.36,$17.2K,85.318
+Football,2025,65,Northwestern,0,0,20,20,85.25,$14.5K,85.246
+Football,2025,66,Boise State,0,0,27,27,84.58,$12.6K,85.218
+Football,2025,67,USF,0,0,27,27,84.42,$15.5K,85.093
+Football,2025,68,Louisville,0,0,15,15,86.07,$26K,85.067
+Football,2025,69,UCF,0,1,12,14,86.47,$20K,84.999
+Football,2025,70,Georgia State,0,0,32,34,83.83,$14K,84.896
+Football,2025,71,Kansas,0,0,15,16,85.48,$22K,84.852
+Football,2025,72,Vanderbilt,0,2,11,13,86.85,$18.9K,84.812
+Football,2025,73,Washington State,0,1,34,35,83.51,$11.9K,84.627
+Football,2025,74,Tulane,0,0,19,20,84.51,$14.6K,84.509
+Football,2025,75,Old Dominion,0,0,29,31,83.31,$12.5K,84.35
+Football,2025,76,Arkansas State,0,0,28,28,83.63,$15.7K,84.3
+Football,2025,77,UTEP,0,0,31,34,83.09,$13.4K,84.296
+Football,2025,78,East Carolina,0,0,22,22,84.07,$17.4K,84.227
+Football,2025,79,Toledo,0,0,20,23,83.67,$14.9K,84.219
+Football,2025,80,Coastal Carolina,0,0,22,24,83.56,$14.6K,84.146
+Football,2025,81,UNLV,0,0,17,18,84.27,$17.8K,84.12
+Football,2025,82,San Diego State,0,0,20,21,83.87,$12.9K,84.065
+Football,2025,83,Louisiana,0,0,20,20,83.91,$13.2K,83.911
+Football,2025,84,Georgia Southern,0,0,22,22,83.51,$13.7K,83.855
+Football,2025,85,Eastern Michigan,0,0,22,24,83.21,$15.8K,83.715
+Football,2025,86,Texas State,0,0,22,22,83.44,$11.7K,83.642
+Football,2025,87,Troy,0,0,16,17,83.98,$17.4K,83.633
+Football,2025,88,South Alabama,0,0,17,17,83.94,$12.7K,83.587
+Football,2025,89,Louisiana Tech,0,0,24,29,82.62,$15.3K,83.483
+Football,2025,90,Purdue,0,1,14,16,84.11,$19K,83.474
+Football,2025,91,Wyoming,0,0,27,29,82.56,$12.5K,83.469
+Football,2025,92,Fresno State,0,0,20,20,83.4,$13.2K,83.403
+Football,2025,93,Liberty,0,1,13,15,84.39,$18.7K,83.39
+Football,2025,94,Rice,0,0,21,22,83.04,$12.8K,83.32
+Football,2025,95,Northern Illinois,0,0,25,27,82.6,$10.7K,83.298
+Football,2025,96,Florida Atlantic,0,0,17,17,83.55,$17.6K,83.201
+Football,2025,97,Miami (OH),0,0,20,20,83.11,$13.3K,83.106
+Football,2025,98,Utah State,0,0,27,37,81.87,$10.4K,83.047
+Football,2025,99,Western Kentucky,0,0,16,23,82.65,$17K,83.046
+Football,2025,100,Bowling Green,0,0,22,26,82.41,$14.1K,83.036
+Football,2025,101,New Mexico State,0,0,18,23,82.5,$12.3K,83.03
+Football,2025,102,Jacksonville State,0,0,18,22,82.61,$14.1K,82.873
+Football,2025,103,Nevada,0,0,29,31,82.07,$11.7K,82.814
+Football,2025,104,FIU,0,0,21,23,82.45,$13.4K,82.796
+Football,2025,105,Middle Tennessee State,0,0,18,21,82.63,$15.7K,82.783
+Football,2025,106,Appalachian State,0,0,13,17,83.09,$15.1K,82.743
+Football,2025,107,Southern Miss,0,0,15,17,83.09,$11.1K,82.736
+Football,2025,108,San Jose State,0,0,16,18,82.79,$15.6K,82.64
+Football,2025,109,Buffalo,0,0,18,18,82.75,$11.2K,82.592
+Football,2025,110,Connecticut,0,0,14,18,82.75,$15.6K,82.592
+Football,2025,111,James Madison,0,0,16,18,82.73,$16.4K,82.579
+Football,2025,112,Kent State,0,0,21,21,82.14,$13.8K,82.297
+Football,2025,113,Western Michigan,0,0,15,16,82.89,$11.7K,82.255
+Football,2025,114,Louisiana-Monroe,0,0,14,14,83.65,$12.3K,82.183
+Football,2025,115,UTSA,0,0,13,13,84.2,$15K,82.17
+Football,2025,116,Tulsa,0,0,16,20,82.04,$13K,82.042
+Football,2025,117,Hawaii,0,0,14,16,82.35,$12K,81.717
+Football,2025,118,Colorado State,0,0,13,14,83.1,$13.9K,81.632
+Football,2025,119,Temple,0,0,12,14,82.92,$15.5K,81.452
+Football,2025,120,Missouri State University,0,0,10,19,81.28,$15.8K,81.246
+Football,2025,121,Ball State,0,0,14,17,81.45,$13.4K,81.101
+Football,2025,122,North Texas,0,0,12,12,83.69,$77K,80.985
+Football,2025,123,New Mexico,0,0,8,23,80.78,$10.1K,80.902
+Football,2025,124,Delaware,0,0,9,19,80.94,$15.7K,80.9
+Football,2025,125,Ohio,0,0,13,14,82.27,$13.9K,80.804
+Football,2025,126,Army,0,0,6,70,80.13,$11.1K,80.516
+Football,2025,127,Central Michigan,0,0,14,14,81.92,$13.3K,80.454
+Football,2025,128,Marshall,0,0,11,14,81.87,$10.7K,80.396
+Football,2025,129,North Dakota State,0,0,2,20,80.39,$9.3K,80.385
+Football,2025,130,Akron,0,0,12,14,81.83,$11.2K,80.356
+Football,2025,131,UAB,0,0,9,13,82.32,$12.1K,80.289
+Football,2025,132,Navy,0,0,6,49,80.06,$11.7K,80.169
+Football,2025,133,Air Force,0,0,2,65,80.02,$9.2K,80.076
+Football,2025,134,Kennesaw State,0,0,4,16,80.69,$16.3K,80.056
+Football,2025,135,Sam Houston State,0,0,9,12,82.24,$14K,79.533
+Football,2025,136,Charlotte,0,0,5,12,81.65,$11.1K,78.942
+Football,2025,137,Cumberland,0,0,0,13,80,-,77.965
+Football,2025,138,Massachusetts,0,0,7,10,81.44,$11.3K,77.05
+Football,2025,139,Idaho,0,0,1,10,80.25,$15.4K,75.855
+Football,2025,140,Sacramento State,0,0,3,8,81.78,$17.8K,75.164
+Football,2025,141,Harvard,0,0,0,9,80,$11.1K,74.569
+Football,2025,142,Wofford,0,0,2,8,80.29,$13.2K,73.67
+Football,2025,143,Cornell,0,0,0,8,80,$9.2K,73.384
+Football,2025,144,Mercer,0,0,0,8,80,$9.1K,73.384
+Football,2025,145,Howard,0,0,1,7,80.85,$13.5K,72.888
+Football,2025,146,Yale,0,0,0,7,80,$8.7K,72.036
+Football,2025,147,Holy Cross,0,0,0,7,80,$8K,72.036
+Football,2025,148,Princeton,0,0,0,7,80,$9.4K,72.036
+Football,2025,149,Fordham,0,0,0,7,80,$8.1K,72.036
+Football,2025,150,UC Davis,0,0,0,7,80,$10.5K,72.036
+Football,2025,151,Austin Peay,0,0,1,6,81.28,$10.2K,71.782
+Football,2025,152,Montana State,0,0,0,6,80,$13.7K,70.502
+Football,2025,153,Furman,0,0,0,6,80,$11.5K,70.502
+Football,2025,154,Chattanooga,0,0,1,5,80.57,$10.5K,69.322
+Football,2025,155,Towson,0,0,2,4,82.48,$11.9K,69.216
+Football,2025,156,Richmond,0,0,0,5,80,$10.6K,68.75
+Football,2025,157,Northern Iowa,0,0,0,5,80,$8.8K,68.75
+Football,2025,158,Eastern Washington,0,0,0,5,80,$13.6K,68.75
+Football,2025,159,South Dakota State,0,0,1,4,81.58,$10.4K,68.308
+Football,2025,160,Tennessee State,0,0,2,4,81.01,$11.1K,67.746
+Football,2025,161,Grand Valley State,0,0,1,4,80.92,$16K,67.658
+Football,2025,162,West Georgia,0,0,1,4,80.87,$14.6K,67.603
+Football,2025,163,Samford,0,0,1,4,80.7,$10.1K,67.433
+Football,2025,164,South Dakota,0,0,1,4,80.53,$7.5K,67.258
+Football,2025,165,North Dakota,0,0,0,4,80,$25K,66.733
+Football,2025,166,Lindenwood University,0,0,0,4,80,$7.3K,66.733
+Football,2025,167,Elon,0,0,0,4,80,$9.8K,66.733
+Football,2025,168,Dartmouth,0,0,0,4,80,$11.3K,66.733
+Football,2025,169,Montana,0,0,0,4,80,-,66.733
+Football,2025,170,Columbia,0,0,0,4,80,-,66.733
+Football,2025,171,East Tennessee State,0,0,1,4,79.94,$11.2K,66.675
+Football,2025,172,William & Mary,0,0,1,3,80.77,$10.4K,65.143
+Football,2025,173,Illinois State,0,0,1,3,80.12,-,64.493
+Football,2025,174,Pennsylvania,0,0,0,3,80,$6.6K,64.376
+Football,2025,175,Portland State,0,0,0,3,80,-,64.376
+Football,2025,176,Indiana State,0,0,0,3,80,-,64.376
+Football,2025,177,Nicholls State,0,0,0,3,80,-,64.376
+Football,2025,-,Stephen F. Austin,0,0,1,2,82.55,$14.9K,64.088
+Football,2025,-,Duquesne,0,0,1,2,82.54,$13.3K,64.078
+Football,2025,-,Grambling State,0,0,1,2,82.18,$15.6K,63.718
+Football,2025,-,Cal Poly,0,0,1,2,81.58,$9.9K,63.113
+Football,2025,-,Bryant University,0,0,1,2,81.54,$12.2K,63.078
+Football,2025,-,Eastern Kentucky,0,0,1,2,81.06,$12.8K,62.593
+Football,2025,-,Lamar,0,0,0,2,80,-,61.538
+Football,2025,-,Colgate,0,0,0,2,80,$10.2K,61.538
+Football,2025,-,Texas Southern,0,0,0,2,80,-,61.538
+Football,2025,-,Charleston Southern,0,0,0,2,80,$13.9K,61.538
+Football,2025,-,Brown,0,0,0,2,80,$15.5K,61.538
+Football,2025,-,Weber State,0,0,0,2,80,$8.1K,61.538
+Football,2025,-,New Hampshire,0,0,0,2,80,$7.2K,61.538
+Football,2025,-,Southeast Missouri State,0,0,0,2,80,$6.7K,61.538
+Football,2025,-,Murray State,0,0,0,2,80,$5.1K,61.538
+Football,2025,-,Southern Illinois,0,0,0,2,80,$9.5K,61.538
+Football,2025,-,Eastern Illinois,0,0,0,2,80,$10K,61.538
+Football,2025,-,Lafayette,0,0,0,2,80,$10.8K,61.538
+Football,2025,-,Lehigh,0,0,0,2,80,-,61.538
+Football,2025,-,Northwest Missouri State,0,0,0,2,80,$9.7K,61.538
+Football,2025,-,Idaho State,0,0,0,2,80,$16.3K,61.538
+Football,2025,-,Alabama State,0,0,0,2,80,$6.7K,61.538
+Football,2025,-,Central Arkansas,0,0,1,1,85.4,$21K,63.273
+Football,2025,-,Delaware State,0,0,1,1,84.96,$34K,62.833
+Football,2025,-,Southern Utah,0,0,1,1,84.83,$21K,62.703
+Football,2025,-,Minnesota Duluth,0,0,1,1,84.68,$10K,62.553
+Football,2025,-,Western Carolina,0,0,1,1,84.5,$10K,62.373
+Football,2025,-,Saint Francis (PA),0,0,1,1,84.35,$30K,62.223
+Football,2025,-,Southeastern Louisiana,0,0,1,1,83.15,$28K,61.023
+Football,2025,-,Southern University,0,0,1,1,83.08,-,60.951
+Football,2025,-,McNeese State,0,0,1,1,82.5,$12.3K,60.373
+Football,2025,-,Gardner-Webb,0,0,1,1,82.1,$22K,59.973
+Football,2025,-,West Florida,0,0,1,1,82.02,$20K,59.893
+Football,2025,-,Hampton,0,0,1,1,81.81,$19.2K,59.682
+Football,2025,-,North Carolina Central,0,0,1,1,81.05,$22K,58.923
+Football,2025,-,North Alabama,0,0,0,1,80,-,57.873
+Football,2025,-,South Carolina State,0,0,0,1,80,$6.6K,57.873
+Football,2025,-,Nebraska Kearney,0,0,0,1,80,-,57.873
+Football,2025,-,Monmouth,0,0,0,1,80,-,57.873
+Football,2025,-,Grinnell,0,0,0,1,80,-,57.873
+Football,2025,-,Ferris State,0,0,0,1,80,-,57.873
+Football,2025,-,Bucknell,0,0,0,1,80,-,57.873
+Football,2025,-,Campbell,0,0,0,1,80,-,57.873
+Football,2025,-,Wayne State,0,0,0,1,80,-,57.873
+Football,2025,-,Tuskegee,0,0,0,1,80,-,57.873
+Football,2025,-,UTRGV,0,0,0,1,80,$11K,57.873
+Football,2025,-,Maryville College,0,0,0,1,80,-,57.873
+Football,2025,-,Michigan Tech,0,0,0,1,80,-,57.873
+Football,2025,-,Saginaw Valley State,0,0,0,1,80,-,57.873
+Football,2025,-,Marist,0,0,0,1,80,-,57.873
+Football,2025,-,Southwestern College,0,0,0,1,80,-,57.873
+Football,2025,-,Mercyhurst College,0,0,0,1,80,$6.6K,57.873
+Football,2025,-,Northern Arizona,0,0,0,1,80,-,57.873
+Football,2025,-,Rhode Island,0,0,0,1,80,$16.5K,57.873
+Football,2025,-,Quincy,0,0,0,1,80,-,57.873
+Football,2025,-,Jackson State,0,0,0,1,80,-,57.873
+Football,2025,-,Western Illinois,0,0,0,1,80,-,57.873
+Football,2025,-,Youngstown State,0,0,0,1,80,$6.2K,57.873
+Football,2025,-,Arkansas-Monticello,0,0,0,1,80,-,57.873
+Football,2024,1,Georgia,5,18,6,29,92.44,$162K,95.078
+Football,2024,2,Alabama,4,16,5,26,92.06,$194K,94.137
+Football,2024,3,Oregon,1,18,8,27,91.65,$44K,93.457
+Football,2024,4,Ohio State,2,14,6,23,91.88,$258K,93.453
+Football,2024,5,Miami,3,11,13,27,90.43,$86K,92.827
+Football,2024,6,Texas,1,16,5,22,91.59,$256K,92.708
+Football,2024,7,LSU,2,17,9,29,90.39,$98K,92.499
+Football,2024,8,Auburn,1,11,9,21,91.22,$211K,92.124
+Football,2024,9,Oklahoma,1,15,11,27,90.6,$157K,92.032
+Football,2024,10,Florida,2,13,6,21,91.16,$177K,92.008
+Football,2024,11,Notre Dame,0,13,10,23,91.08,$245K,91.95
+Football,2024,12,Florida State,0,14,9,23,90.16,$63K,91.695
+Football,2024,13,Tennessee,2,10,9,21,90.79,$159K,91.521
+Football,2024,14,Clemson,2,10,9,21,90.18,$110K,91.477
+Football,2024,15,Penn State,0,13,13,26,90.25,$45K,91.389
+Football,2024,16,Michigan,0,13,12,26,89.65,$101K,91.282
+Football,2024,17,Texas A&M,1,12,4,17,91.11,$66K,91.068
+Football,2024,18,USC,0,12,10,22,89.82,$71K,90.6
+Football,2024,19,South Carolina,1,9,6,16,90.29,$245K,90.122
+Football,2024,20,Ole Miss,0,10,12,23,88.89,$104K,89.983
+Football,2024,21,Missouri,1,7,13,21,89.27,$109K,89.904
+Football,2024,22,Wisconsin,0,8,14,22,89.13,$44K,89.759
+Football,2024,23,Texas Tech,1,5,15,21,89.15,$90K,89.704
+Football,2024,24,Nebraska,1,5,22,29,87.77,$72K,89.612
+Football,2024,25,Kentucky,0,7,17,26,87.53,$75K,89.185
+Football,2024,26,Mississippi State,0,5,19,26,87.18,$89K,88.798
+Football,2024,27,North Carolina,0,3,24,27,87.49,$29K,88.637
+Football,2024,28,NC State,0,3,21,24,87.43,$131K,88.407
+Football,2024,29,Iowa,0,5,16,21,87.76,$19.2K,88.357
+Football,2024,30,Purdue,0,3,24,27,87.02,$16.7K,88.322
+Football,2024,31,Virginia Tech,0,2,14,16,87.93,$70K,87.762
+Football,2024,32,Arkansas,0,3,14,19,87.34,$21K,87.744
+Football,2024,33,Georgia Tech,0,3,20,23,86.93,$17.4K,87.552
+Football,2024,34,Minnesota,0,3,16,20,87,$84K,87.548
+Football,2024,35,TCU,0,3,18,21,86.64,$11.9K,87.515
+Football,2024,36,Stanford,0,2,23,25,86.56,$13.6K,87.504
+Football,2024,37,Syracuse,0,3,19,24,85.93,$14.7K,87.47
+Football,2024,38,UCF,0,2,16,21,86.29,$18.3K,87.344
+Football,2024,39,Vanderbilt,0,2,19,21,86.81,$14.7K,87.265
+Football,2024,40,Rutgers,0,3,22,25,86.49,$81K,87.26
+Football,2024,41,Kansas,0,3,14,17,87.26,$31K,87.22
+Football,2024,42,Kansas State,0,1,15,16,87.37,$12.7K,87.202
+Football,2024,43,Michigan State,0,2,18,20,86.58,$36K,86.893
+Football,2024,44,Maryland,0,1,23,24,86.21,$33K,86.879
+Football,2024,45,Pittsburgh,0,1,21,22,86.38,$12K,86.838
+Football,2024,46,Utah,0,2,13,15,87.1,$18.7K,86.709
+Football,2024,47,BYU,0,2,23,25,85.63,$14K,86.629
+Football,2024,48,Washington,0,2,13,15,87.02,$21K,86.628
+Football,2024,49,West Virginia,0,0,23,23,85.91,$15K,86.363
+Football,2024,50,Oklahoma State,0,0,18,19,85.98,$15K,86.315
+Football,2024,51,Wake Forest,0,1,20,21,85.86,$11.5K,86.303
+Football,2024,52,Illinois,0,0,18,20,85.66,$15.9K,86.29
+Football,2024,53,Cincinnati,0,0,21,21,85.84,$13.5K,86.25
+Football,2024,54,Arizona State,0,1,19,21,85.53,$15.5K,86.226
+Football,2024,55,California,0,0,19,19,85.79,$14.3K,86.16
+Football,2024,56,Louisville,0,1,14,16,86.08,$75K,85.903
+Football,2024,57,Iowa State,0,0,22,22,85.47,$26K,85.868
+Football,2024,58,Duke,0,0,16,16,85.92,$9.9K,85.747
+Football,2024,59,USF,0,1,25,28,84.38,$12.1K,85.686
+Football,2024,60,Indiana,0,1,16,17,85.5,$119K,85.453
+Football,2024,61,Houston,0,0,16,18,85.44,$18.6K,85.443
+Football,2024,62,Baylor,0,1,14,17,85.47,$15.3K,85.43
+Football,2024,63,Tulsa,0,0,24,29,83.97,$11.8K,85.412
+Football,2024,64,Boise State,0,1,21,23,84.45,$12.4K,85.283
+Football,2024,65,Colorado,1,3,5,13,86.39,$187K,85.26
+Football,2024,66,Washington State,0,0,24,25,84.35,$36K,85.198
+Football,2024,67,Tulane,0,0,18,18,85.04,$10.6K,85.037
+Football,2024,68,UCLA,0,2,8,10,87.84,$24K,84.781
+Football,2024,69,Oregon State,0,1,16,18,84.77,$16K,84.768
+Football,2024,70,Toledo,0,0,22,26,83.48,$11.4K,84.686
+Football,2024,71,Memphis,0,1,21,23,83.88,$12K,84.683
+Football,2024,72,Southern Miss,0,0,21,22,83.99,$12.6K,84.503
+Football,2024,73,Northwestern,0,0,17,17,84.47,$34K,84.431
+Football,2024,74,San Diego State,0,0,18,18,84.27,$28K,84.273
+Football,2024,75,Troy,0,0,21,37,82.14,$11.3K,84.099
+Football,2024,76,Virginia,0,0,13,14,84.75,$13K,84.043
+Football,2024,77,East Carolina,0,0,22,22,83.61,$13.2K,84.025
+Football,2024,78,Colorado State,0,0,20,22,83.37,$11.6K,83.994
+Football,2024,79,UTSA,0,1,11,16,84.02,$8K,83.845
+Football,2024,80,Coastal Carolina,0,0,18,24,82.85,$11.8K,83.828
+Football,2024,81,Arizona,0,0,12,15,84.21,$13.3K,83.823
+Football,2024,82,South Alabama,0,0,20,21,83.27,$33K,83.751
+Football,2024,83,North Texas,0,0,28,34,82.25,$31K,83.726
+Football,2024,84,Western Michigan,0,0,23,27,82.55,$11.8K,83.662
+Football,2024,85,Charlotte,0,0,19,22,83.01,$11.6K,83.66
+Football,2024,86,Temple,0,0,21,27,82.43,$10.8K,83.639
+Football,2024,87,Fresno State,0,0,17,19,83.43,$8.3K,83.624
+Football,2024,88,Boston College,0,0,13,13,84.74,$10.5K,83.615
+Football,2024,89,Arkansas State,0,0,27,33,82.39,$11.6K,83.593
+Football,2024,90,Florida Atlantic,0,0,19,20,83.16,$10.6K,83.474
+Football,2024,91,Louisiana Tech,0,0,20,20,83.13,$12.2K,83.41
+Football,2024,92,Texas State,0,0,16,18,83.24,$11.4K,83.244
+Football,2024,93,UTEP,0,0,23,27,82.05,$10.9K,83.166
+Football,2024,94,SMU,0,1,9,11,85.45,$14.7K,83.159
+Football,2024,95,Georgia Southern,0,0,22,25,82.45,$11.1K,83.148
+Football,2024,96,UNLV,0,0,22,24,82.4,$10.1K,83.145
+Football,2024,97,Liberty,0,0,18,21,82.69,$10.9K,83.141
+Football,2024,98,Miami (OH),0,0,23,24,82.47,$11K,83.129
+Football,2024,99,Wyoming,0,0,26,32,81.7,$9.8K,82.974
+Football,2024,100,Eastern Michigan,0,0,19,25,82.08,$10K,82.873
+Football,2024,101,Ohio,0,0,19,24,82.14,$10.3K,82.824
+Football,2024,102,UAB,0,0,13,17,82.83,$10.9K,82.786
+Football,2024,103,San Jose State,0,0,16,20,82.47,$8.5K,82.75
+Football,2024,104,Marshall,0,0,14,16,82.79,$12.3K,82.616
+Football,2024,105,Utah State,0,0,13,18,82.57,$9.4K,82.569
+Football,2024,106,Nevada,0,0,14,21,82.16,$10.9K,82.523
+Football,2024,107,Louisiana-Monroe,0,0,12,29,81.49,$149K,82.397
+Football,2024,108,Appalachian State,0,0,18,19,82.24,$12.3K,82.366
+Football,2024,109,Middle Tennessee State,0,0,19,23,81.88,$11.1K,82.363
+Football,2024,110,FIU,0,0,17,17,82.37,$9.9K,82.325
+Football,2024,111,Western Kentucky,0,0,16,18,82.3,$10.8K,82.302
+Football,2024,112,Northern Illinois,0,0,20,28,81.46,$9.4K,82.236
+Football,2024,113,Louisiana,0,0,9,16,82.33,$12.2K,82.155
+Football,2024,114,Rice,0,0,12,14,82.68,$10.6K,81.972
+Football,2024,115,Central Michigan,0,0,15,20,81.75,$14.4K,81.946
+Football,2024,116,Kent State,0,0,16,22,81.56,$8.6K,81.916
+Football,2024,117,Buffalo,0,0,13,23,81.48,$11.7K,81.885
+Football,2024,118,Hawaii,0,0,15,19,81.78,$10.7K,81.877
+Football,2024,119,Akron,0,0,12,20,81.61,$10.4K,81.794
+Football,2024,120,Sam Houston State,0,0,13,17,81.75,$10.2K,81.703
+Football,2024,121,Bowling Green,0,0,15,22,81.37,$10.7K,81.676
+Football,2024,122,Kennesaw State,0,0,12,20,81.5,$8.5K,81.669
+Football,2024,123,James Madison,0,0,12,15,82.01,$12.1K,81.617
+Football,2024,124,Jacksonville State,0,0,13,20,81.43,$10K,81.591
+Football,2024,125,Georgia State,0,0,13,17,81.55,$10.6K,81.511
+Football,2024,126,New Mexico State,0,0,12,17,81.51,$9.2K,81.47
+Football,2024,127,Connecticut,0,0,12,12,82.95,$14.4K,81.296
+Football,2024,128,Ball State,0,0,14,22,80.87,$8.9K,81.089
+Football,2024,129,Massachusetts,0,0,11,12,82.56,$9.4K,80.91
+Football,2024,130,Army,0,0,12,56,80.14,$10.4K,80.451
+Football,2024,131,Old Dominion,0,0,10,13,81.55,$11.5K,80.428
+Football,2024,132,Navy,0,0,7,27,80.22,$11.5K,80.346
+Football,2024,133,Air Force,0,0,5,53,80.1,$10.8K,80.321
+Football,2024,134,Delaware,0,0,4,13,80.83,$11.2K,79.708
+Football,2024,135,North Dakota State,0,0,2,14,80.31,$9.5K,79.604
+Football,2024,136,Idaho,0,0,1,13,80.3,$9.7K,79.17
+Football,2024,137,Eastern Kentucky,0,0,4,11,80.93,$10.4K,78.641
+Football,2024,138,Eastern Washington,0,0,1,11,80.32,$9.6K,78.026
+Football,2024,139,Jackson State,0,0,3,9,81.64,$12.9K,77.69
+Football,2024,140,South Dakota State,0,0,2,9,80.98,$8K,77.025
+Football,2024,141,Montana,0,0,0,10,80,$10.8K,76.944
+Football,2024,142,New Mexico,0,0,3,9,80.83,$7.2K,76.878
+Football,2024,143,Holy Cross,0,0,2,9,80.82,$11.3K,76.867
+Football,2024,144,Northern Iowa,0,0,1,9,80.55,$10.3K,76.595
+Football,2024,145,Weber State,0,0,1,8,80.44,$10.3K,75.438
+Football,2024,146,Tennessee State,0,0,1,8,80.4,$8.2K,75.396
+Football,2024,147,Campbell,0,0,3,7,81.48,$10.6K,75.274
+Football,2024,148,Houston Christian,0,0,3,7,81.25,$15.9K,75.04
+Football,2024,149,Furman,0,0,0,8,80,$9.6K,75
+Football,2024,150,Monmouth,0,0,2,7,81.05,$11.2K,74.835
+Football,2024,151,Stephen F. Austin,0,0,1,7,80.86,$9.8K,74.647
+Football,2024,152,Cal Poly,0,0,3,6,82.08,$11K,74.471
+Football,2024,153,Montana State,0,0,1,7,80.54,$13.7K,74.325
+Football,2024,154,Harvard,0,0,0,7,80,$14.3K,73.79
+Football,2024,155,North Dakota,0,0,0,7,80,$8.4K,73.79
+Football,2024,156,Lamar,0,0,1,6,80.79,$12.4K,73.184
+Football,2024,157,Lindenwood University,0,0,2,6,80.64,$10.6K,73.034
+Football,2024,158,Austin Peay,0,0,1,6,80.18,$10.8K,72.577
+Football,2024,159,UC Davis,0,0,1,6,80.18,$10.8K,72.569
+Football,2024,160,Yale,0,0,0,6,80,$11.2K,72.392
+Football,2024,161,Northwest Missouri State,0,0,0,6,80,$8.3K,72.392
+Football,2024,162,Grambling State,0,0,2,5,81.04,$7.6K,71.815
+Football,2024,163,Bethune-Cookman,0,0,1,5,80.63,$9.8K,71.407
+Football,2024,164,Villanova,0,0,1,5,80.35,$11.7K,71.127
+Football,2024,165,Northern Arizona,0,0,1,5,80.25,$5K,71.023
+Football,2024,166,West Georgia,0,0,1,5,80.16,$10.7K,70.941
+Football,2024,167,Portland State,0,0,0,5,80,$9.2K,70.777
+Football,2024,168,Southeast Missouri State,0,0,0,5,80,$9.3K,70.777
+Football,2024,169,UTRGV,0,0,0,5,80,$12.1K,70.777
+Football,2024,170,Columbia,0,0,0,5,80,$11.2K,70.777
+Football,2024,171,Colgate,0,0,0,5,80,$6K,70.777
+Football,2024,172,Sacramento State,0,0,2,4,81.41,$8.3K,70.314
+Football,2024,173,South Dakota,0,0,1,4,81.4,$8.7K,70.299
+Football,2024,174,Chattanooga,0,0,1,4,80.96,$147K,69.862
+Football,2024,175,Princeton,0,0,1,4,80.7,$11K,69.599
+Football,2024,176,Mercer,0,0,2,4,80.51,$12.8K,69.411
+Football,2024,177,Alabama State,0,0,0,4,80,$9.1K,68.899
+Football,2024,178,Wofford,0,0,0,4,80,$13.5K,68.899
+Football,2024,179,Illinois State,0,0,0,4,80,-,68.899
+Football,2024,180,Richmond,0,0,0,4,80,$11.6K,68.899
+Football,2024,181,Howard,0,0,0,4,80,$10K,68.899
+Football,2024,182,North Alabama,0,0,0,4,80,$12.6K,68.899
+Football,2024,183,Southeastern Louisiana,0,0,0,4,80,$10.1K,68.899
+Football,2024,184,Central Arkansas,0,0,1,3,81.47,$11.6K,68.152
+Football,2024,185,Lehigh,0,0,1,3,81.43,-,68.119
+Football,2024,186,Mississippi Valley State,0,0,1,3,81.17,$15.8K,67.852
+Football,2024,187,Southern Illinois,0,0,1,3,80.82,$7.8K,67.502
+Football,2024,188,Alabama A&M,0,0,0,3,80,$18.3K,66.686
+Football,2024,189,Alcorn State,0,0,0,3,80,$15.4K,66.686
+Football,2024,190,Western Carolina,0,0,0,3,80,$7.6K,66.686
+Football,2024,191,Western Illinois,0,0,0,3,80,-,66.686
+Football,2024,192,William & Mary,0,0,0,3,80,$12.3K,66.686
+Football,2024,193,Pennsylvania,0,0,0,3,80,$10.4K,66.686
+Football,2024,194,Livingstone College,0,0,0,3,80,-,66.686
+Football,2024,195,Elon,0,0,0,3,80,$8.6K,66.686
+Football,2024,196,East Tennessee State,0,0,0,3,80,$6.8K,66.686
+Football,2024,197,Dartmouth,0,0,0,3,80,$11.1K,66.686
+Football,2024,198,St. Thomas,0,0,0,3,80,$10.4K,66.686
+Football,2024,199,Missouri State University,0,0,0,3,80,$10.2K,66.686
+Football,2024,200,UT Martin,0,0,0,3,80,$9.7K,66.686
+Football,2024,201,The Citadel,0,0,0,3,80,$11.2K,66.686
+Football,2024,-,New Hampshire,0,0,2,2,83.69,$14.2K,67.695
+Football,2024,-,Maine,0,0,1,2,82.2,$9.5K,66.2
+Football,2024,-,Florida A&M,0,0,1,2,81.25,$11.4K,65.245
+Football,2024,-,Saint Francis (PA),0,0,1,2,80.73,-,64.73
+Football,2024,-,South Carolina State,0,0,0,2,80,$9.6K,64
+Football,2024,-,Indianapolis,0,0,0,2,80,$14.6K,64
+Football,2024,-,Bryant University,0,0,0,2,80,$11.5K,64
+Football,2024,-,West Florida,0,0,0,2,80,$10.1K,64
+Football,2024,-,Bethel University,0,0,0,2,80,$5.3K,64
+Football,2024,-,Ferris State,0,0,0,2,80,-,64
+Football,2024,-,Fordham,0,0,0,2,80,-,64
+Football,2024,-,Findlay,0,0,0,2,80,-,64
+Football,2024,-,Gardner-Webb,0,0,0,2,80,$11.1K,64
+Football,2024,-,Minnesota Duluth,0,0,0,2,80,-,64
+Football,2024,-,Tarleton State,0,0,0,2,80,-,64
+Football,2024,-,Southern University,0,0,0,2,80,-,64
+Football,2024,-,Cornell,0,0,0,2,80,$11K,64
+Football,2024,-,North Carolina A&T,0,0,0,2,80,$12K,64
+Football,2024,-,Rhode Island,0,0,0,2,80,$11.1K,64
+Football,2024,-,Idaho State,0,0,0,2,80,$13.1K,64
+Football,2024,-,Robert Morris,0,0,0,2,80,$8.9K,64
+Football,2024,-,Youngstown State,0,0,0,2,80,$9.7K,64
+Football,2024,-,McNeese State,0,0,1,1,85.3,-,65.81
+Football,2024,-,Murray State,0,0,1,1,84.2,$10.6K,64.71
+Football,2024,-,Utah Tech,0,0,1,1,82.86,$6.5K,63.369
+Football,2024,-,Long Island,0,0,0,1,80,$11.1K,60.51
+Football,2024,-,Montana Tech,0,0,0,1,80,-,60.51
+Football,2024,-,Norfolk State,0,0,0,1,80,$21K,60.51
+Football,2024,-,Morgan State,0,0,0,1,80,-,60.51
+Football,2024,-,Shippensburg University,0,0,0,1,80,-,60.51
+Football,2024,-,Sacred Heart,0,0,0,1,80,-,60.51
+Football,2024,-,Southern Utah,0,0,0,1,80,$14.1K,60.51
+Football,2024,-,Marian,0,0,0,1,80,-,60.51
+Football,2024,-,Samford,0,0,0,1,80,-,60.51
+Football,2024,-,Eastern Illinois,0,0,0,1,80,$10.5K,60.51
+Football,2024,-,Davidson,0,0,0,1,80,-,60.51
+Football,2024,-,Emporia State,0,0,0,1,80,-,60.51
+Football,2024,-,Albany,0,0,0,1,80,-,60.51
+Football,2024,-,North Central College,0,0,0,1,80,-,60.51
+Football,2024,-,Northwestern State,0,0,0,1,80,-,60.51
+Football,2024,-,Hillsdale College,0,0,0,1,80,-,60.51
+Football,2024,-,Roanoke,0,0,0,1,80,-,60.51
+Football,2024,-,Hampton,0,0,0,1,80,$12.3K,60.51
+Football,2024,-,IUP,0,0,0,1,80,-,60.51
+Football,2024,-,Western Colorado,0,0,0,1,80,-,60.51
+Football,2024,-,Western Oregon,0,0,0,1,80,-,60.51
+Football,2024,-,Arkansas Tech,0,0,0,1,80,-,60.51
+Football,2024,-,Angelo State,0,0,0,1,80,-,60.51
+Football,2024,-,Allen University,0,0,0,1,80,-,60.51
+Football,2024,-,Grand Valley State,0,0,0,1,80,-,60.51
+Football,2024,-,Bucknell,0,0,0,1,80,$6.4K,60.51
+Football,2024,-,Wagner,0,0,0,1,80,$6.4K,60.51
+Football,2024,-,West Liberty,0,0,0,1,80,-,60.51
+Football,2024,-,Valparaiso,0,0,0,1,80,-,60.51
+Football,2024,-,Charleston Southern,0,0,0,1,80,$11.1K,60.51
+Football,2024,-,Texas Southern,0,0,0,1,80,-,60.51
+Football,2024,-,Texas A&M-Kingsville,0,0,0,1,80,-,60.51
+Football,2024,-,Texas-Permian Basin,0,0,0,1,80,-,60.51
+Football,2024,-,Towson,0,0,0,1,80,-,60.51
+Football,2024,-,Wayne State College,0,0,0,1,80,$13.3K,60.51
+Football,2023,1,Alabama,7,19,2,28,94.12,$201K,95.998
+Football,2023,2,Georgia,4,18,4,26,93.17,$149K,94.915
+Football,2023,3,Texas,4,12,9,25,92.26,$357K,93.729
+Football,2023,4,Ohio State,0,19,1,20,92.96,$151K,93.211
+Football,2023,5,LSU,1,16,8,26,91.2,$83K,92.775
+Football,2023,6,Oklahoma,3,12,11,26,90.94,$188K,92.419
+Football,2023,7,Oregon,1,17,11,30,90.21,$136K,92.308
+Football,2023,8,Miami,2,12,10,25,90.44,$66K,92.288
+Football,2023,9,USC,3,9,10,22,91.22,$144K,92.073
+Football,2023,10,Notre Dame,0,18,5,23,91.44,$123K,92.057
+Football,2023,11,Clemson,1,16,9,26,90.34,$31K,91.72
+Football,2023,12,Tennessee,1,11,14,26,90.11,$92K,91.631
+Football,2023,13,Florida,0,16,4,20,91.34,$77K,91.584
+Football,2023,14,Penn State,0,14,8,23,90.18,$31K,91.311
+Football,2023,15,Texas A&M,1,11,7,19,90.83,$128K,90.831
+Football,2023,16,South Carolina,1,11,12,24,89.31,$150K,90.387
+Football,2023,17,Auburn,0,8,13,22,88.99,$55K,89.962
+Football,2023,18,Michigan,0,9,16,26,88.22,$63K,89.794
+Football,2023,19,TCU,0,6,17,23,88.6,$36K,89.368
+Football,2023,20,Ole Miss,1,6,9,16,89.67,$59K,89.299
+Football,2023,21,Utah,0,8,12,20,88.69,$40K,88.958
+Football,2023,22,Florida State,0,9,9,19,88.96,$36K,88.956
+Football,2023,23,Michigan State,0,8,9,17,88.96,$279K,88.8
+Football,2023,24,Mississippi State,0,4,23,27,87.49,$125K,88.716
+Football,2023,25,Arkansas,0,6,14,22,87.58,$51K,88.63
+Football,2023,26,Louisville,0,7,10,17,88.78,$129K,88.62
+Football,2023,27,Washington,0,8,13,21,87.94,$49K,88.334
+Football,2023,28,Texas Tech,0,4,22,26,87.21,$13.9K,88.195
+Football,2023,29,Nebraska,0,4,24,28,86.7,$68K,87.909
+Football,2023,30,North Carolina,0,5,15,20,87.61,$29K,87.795
+Football,2023,31,UCLA,1,2,12,15,88.37,$244K,87.698
+Football,2023,32,Kentucky,0,5,14,19,87.69,$82K,87.694
+Football,2023,33,Baylor,0,2,19,21,87.21,$10.4K,87.656
+Football,2023,34,NC State,0,2,16,18,87.68,$12.1K,87.635
+Football,2023,35,Colorado,1,3,16,21,86.84,$62K,87.448
+Football,2023,36,Missouri,0,4,15,19,87.11,$14.4K,87.109
+Football,2023,37,Kansas State,0,1,25,27,85.72,$82K,86.942
+Football,2023,38,UCF,0,3,12,15,87.51,$15.9K,86.842
+Football,2023,39,Iowa,0,1,21,22,86.33,$154K,86.761
+Football,2023,40,Illinois,0,3,21,26,85.25,$10.9K,86.563
+Football,2023,41,Virginia Tech,0,0,27,27,85.49,$11.3K,86.319
+Football,2023,42,Arizona,0,2,23,26,85.38,$14.1K,86.301
+Football,2023,43,Minnesota,0,1,20,21,85.93,$56K,86.224
+Football,2023,44,Iowa State,0,1,21,24,85.29,$38K,86.214
+Football,2023,45,Stanford,0,0,18,19,86.2,$13.6K,86.195
+Football,2023,46,Wisconsin,0,2,14,16,86.56,$13.8K,86.193
+Football,2023,47,Maryland,0,3,22,26,85.28,$69K,86.176
+Football,2023,48,Arizona State,0,1,19,21,85.51,$15.2K,86.007
+Football,2023,49,Northwestern,0,1,16,18,86,$82K,85.964
+Football,2023,50,West Virginia,0,2,17,19,85.91,$16.7K,85.912
+Football,2023,51,Pittsburgh,0,1,18,19,85.86,$77K,85.864
+Football,2023,52,Vanderbilt,0,1,21,22,85.25,$23K,85.771
+Football,2023,53,Oregon State,0,2,16,19,85.73,$15.1K,85.725
+Football,2023,54,UTSA,0,0,21,21,85.15,$9.2K,85.68
+Football,2023,55,Oklahoma State,0,0,19,23,84.3,$9.5K,85.249
+Football,2023,56,Houston,0,3,14,20,84.97,$17.6K,85.228
+Football,2023,57,Wake Forest,0,1,18,20,84.87,$56K,85.126
+Football,2023,58,Rutgers,0,0,20,20,84.79,$38K,85.112
+Football,2023,59,Indiana,0,0,15,15,85.78,$50K,85.107
+Football,2023,60,Duke,0,0,26,26,84.58,$11.7K,85.066
+Football,2023,61,Boston College,0,0,17,18,84.9,$11.1K,84.855
+Football,2023,62,Cincinnati,0,0,12,12,86.95,$44K,84.791
+Football,2023,63,Georgia Tech,0,0,20,21,84.45,$121K,84.78
+Football,2023,64,Washington State,0,0,23,23,84.23,$9.7K,84.715
+Football,2023,65,Purdue,0,0,15,15,85.32,$88K,84.654
+Football,2023,66,Memphis,0,0,22,27,83.2,$10.9K,84.419
+Football,2023,67,Virginia,0,0,20,21,84.11,$50K,84.41
+Football,2023,68,BYU,0,1,15,22,83.54,$131K,84.102
+Football,2023,69,SMU,0,0,16,16,84.36,$10.7K,83.99
+Football,2023,70,Kansas,0,0,13,15,84.55,$11.3K,83.881
+Football,2023,71,California,0,1,11,12,85.92,$28K,83.76
+Football,2023,72,Boise State,0,0,22,22,82.99,$8.2K,83.676
+Football,2023,73,Colorado State,0,1,24,28,82.58,$10.5K,83.531
+Football,2023,74,East Carolina,0,1,18,26,82.52,$11.4K,83.453
+Football,2023,75,Syracuse,0,0,16,16,83.8,$11.3K,83.43
+Football,2023,76,Tulane,0,0,20,21,83.09,$163K,83.429
+Football,2023,77,Fresno State,0,0,18,20,83.07,$10.5K,83.232
+Football,2023,78,Temple,0,0,24,29,81.9,$49K,82.89
+Football,2023,79,USF,0,0,15,18,82.92,$12.2K,82.879
+Football,2023,80,Florida Atlantic,0,0,19,20,82.57,$7.6K,82.715
+Football,2023,81,Arkansas State,0,0,21,23,82.1,$35K,82.645
+Football,2023,82,San Diego State,0,0,14,19,82.6,$66K,82.604
+Football,2023,83,Buffalo,0,0,23,23,81.75,$6.7K,82.494
+Football,2023,84,Appalachian State,0,0,18,20,82.3,$37K,82.451
+Football,2023,85,UAB,0,0,16,23,81.99,$68K,82.446
+Football,2023,86,South Alabama,0,0,15,16,82.71,$10.7K,82.341
+Football,2023,87,FIU,0,0,18,20,81.9,$13.2K,81.996
+Football,2023,88,Eastern Michigan,0,0,19,22,81.54,$10.7K,81.945
+Football,2023,89,Troy,0,0,21,27,81.27,$10.2K,81.832
+Football,2023,90,Southern Miss,0,0,17,23,81.38,$8.8K,81.815
+Football,2023,91,Rice,0,0,20,25,81.28,$10.5K,81.754
+Football,2023,92,Central Michigan,0,0,21,23,81.14,$7.3K,81.751
+Football,2023,93,Louisiana,0,0,20,24,81.23,$13.9K,81.732
+Football,2023,94,Sam Houston State,0,0,17,24,81.33,$6.9K,81.674
+Football,2023,95,Liberty,0,0,12,20,81.56,$11.3K,81.637
+Football,2023,96,Utah State,0,0,9,26,81.06,$7.7K,81.453
+Football,2023,97,Texas State,0,0,12,14,82.51,$9.8K,81.447
+Football,2023,98,Coastal Carolina,0,0,8,17,81.49,$9.7K,81.326
+Football,2023,99,Louisiana Tech,0,0,15,22,81.13,$10K,81.319
+Football,2023,100,Nevada,0,0,13,19,81.28,$26K,81.283
+Football,2023,101,Ohio,0,0,15,25,80.73,$7.4K,81.191
+Football,2023,102,Georgia Southern,0,0,17,23,80.91,$9.9K,81.184
+Football,2023,103,Charlotte,0,0,8,18,81.17,$10.3K,81.125
+Football,2023,104,Toledo,0,0,13,17,81.25,$8.7K,81.089
+Football,2023,105,New Mexico State,0,0,19,33,80.56,$6.3K,81.026
+Football,2023,106,Old Dominion,0,0,12,27,80.67,$7.1K,80.957
+Football,2023,107,Western Michigan,0,0,13,18,80.95,$9.1K,80.911
+Football,2023,108,Hawaii,0,0,9,26,80.64,$8.4K,80.901
+Football,2023,109,Northern Illinois,0,0,17,26,80.56,$15.8K,80.863
+Football,2023,110,Louisiana-Monroe,0,0,17,24,80.55,$10.7K,80.834
+Football,2023,111,UTEP,0,0,8,34,80.45,$8.9K,80.813
+Football,2023,112,UNLV,0,0,5,19,80.81,$21K,80.808
+Football,2023,113,Ball State,0,0,15,21,80.57,$6.4K,80.706
+Football,2023,114,Army,0,0,17,47,80.25,$9.6K,80.683
+Football,2023,115,Tulsa,0,0,10,17,80.8,$9.8K,80.641
+Football,2023,116,James Madison,0,0,15,21,80.47,$10.1K,80.623
+Football,2023,117,Jacksonville State,0,0,6,25,80.42,$32K,80.557
+Football,2023,118,Wyoming,0,0,11,18,80.55,$10.2K,80.508
+Football,2023,119,Miami (OH),0,0,15,18,80.53,$9K,80.493
+Football,2023,120,Princeton,0,0,4,18,80.53,$10.2K,80.489
+Football,2023,121,Air Force,0,0,23,54,80.09,$8.5K,80.44
+Football,2023,122,Navy,0,0,13,30,80.16,$8.7K,80.382
+Football,2023,123,Campbell,0,0,4,20,80.34,$9.3K,80.363
+Football,2023,124,Akron,0,0,14,18,80.3,$27K,80.257
+Football,2023,125,Georgia State,0,0,11,14,81.31,$11.4K,80.25
+Football,2023,126,Idaho,0,0,3,21,80.2,$152K,80.217
+Football,2023,127,San Jose State,0,0,9,17,80.37,$8.5K,80.209
+Football,2023,128,Portland State,0,0,3,17,80.31,$8.2K,80.15
+Football,2023,129,Bowling Green,0,0,7,16,80.5,$7.8K,80.131
+Football,2023,130,Connecticut,0,0,11,15,80.8,$9.9K,80.13
+Football,2023,131,Middle Tennessee State,0,0,9,16,80.48,$7.3K,80.114
+Football,2023,132,Marshall,0,0,9,14,81.15,$10.7K,80.086
+Football,2023,133,Kent State,0,0,9,18,80.1,$7.3K,80.059
+Football,2023,134,Western Kentucky,0,0,6,14,81.03,$8.6K,79.969
+Football,2023,135,North Dakota State,0,0,1,17,80.1,$7.3K,79.934
+Football,2023,136,New Mexico,0,0,4,16,80.27,$114K,79.9
+Football,2023,137,North Texas,0,0,7,12,81.98,$9.5K,79.827
+Football,2023,138,Jackson State,0,0,8,12,81.59,$11.2K,79.438
+Football,2023,139,Grand Valley State,0,0,1,13,80.23,$8.9K,78.675
+Football,2023,140,Stephen F. Austin,0,0,1,11,80.1,$6.4K,77.233
+Football,2023,141,Montana State,0,0,0,10,80,$6.7K,76.294
+Football,2023,142,Harvard,0,0,3,9,80.78,$9.2K,76.105
+Football,2023,143,Massachusetts,0,0,6,8,81.13,$11.3K,75.34
+Football,2023,144,Northern Arizona,0,0,0,9,80,$133K,75.324
+Football,2023,145,Ferris State,0,0,0,9,80,-,75.324
+Football,2023,146,Yale,0,0,1,8,80.14,$14K,74.349
+Football,2023,147,Pennsylvania,0,0,1,8,80.13,$364K,74.333
+Football,2023,148,Eastern Washington,0,0,0,8,80,-,74.207
+Football,2023,149,Northern Iowa,0,0,2,8,79.81,$10.3K,74.019
+Football,2023,150,Holy Cross,0,0,0,7,80,$6.3K,72.926
+Football,2023,151,Missouri State University,0,0,0,7,80,$8.2K,72.926
+Football,2023,152,Villanova,0,0,0,7,80,$7.7K,72.926
+Football,2023,153,Cal Poly,0,0,0,7,80,$131K,72.926
+Football,2023,154,Western Carolina,0,0,2,6,81.01,$28K,72.472
+Football,2023,155,Sacramento State,0,0,1,6,80.52,$6.7K,71.979
+Football,2023,156,Montana,0,0,1,6,80.45,$5.1K,71.904
+Football,2023,157,Weber State,0,0,1,6,80.08,$6.4K,71.541
+Football,2023,158,Kennesaw State,0,0,0,6,80,$13.5K,71.458
+Football,2023,159,Delaware,0,0,0,6,80,$7.6K,71.458
+Football,2023,160,Saint Francis (PA),0,0,0,6,80,$21K,71.458
+Football,2023,161,San Diego,0,0,0,6,80,$6.3K,71.458
+Football,2023,162,South Dakota State,0,0,0,6,80,$6.7K,71.458
+Football,2023,163,Florida A&M,0,0,2,5,81.44,$16.7K,71.212
+Football,2023,164,Houston Christian,0,0,2,5,80.97,$10.3K,70.748
+Football,2023,165,Eastern Illinois,0,0,1,5,80.91,$10.2K,70.683
+Football,2023,166,Incarnate Word,0,0,1,5,80.7,$8K,70.475
+Football,2023,167,Tennessee Tech,0,0,1,5,80.3,-,70.073
+Football,2023,168,Wofford,0,0,1,5,80.28,$9.4K,70.05
+Football,2023,169,North Dakota,0,0,0,5,80,$10.4K,69.773
+Football,2023,170,Saginaw Valley State,0,0,0,5,80,-,69.773
+Football,2023,171,UC Davis,0,0,0,5,80,-,69.773
+Football,2023,172,Colgate,0,0,0,5,80,-,69.773
+Football,2023,173,Central Arkansas,0,0,0,5,80,-,69.773
+Football,2023,174,Austin Peay,0,0,1,4,81.54,$5.3K,69.367
+Football,2023,175,The Citadel,0,0,1,4,80.66,$10.9K,68.483
+Football,2023,176,West Florida,0,0,1,3,82.84,$16K,68.378
+Football,2023,177,Alcorn State,0,0,1,4,80.41,$13.4K,68.233
+Football,2023,178,Howard,0,0,1,4,80.38,$11.2K,68.199
+Football,2023,179,South Dakota,0,0,1,4,80.35,$7K,68.17
+Football,2023,180,Bethune-Cookman,0,0,1,4,80.27,$10.2K,68.089
+Football,2023,181,Monmouth,0,0,1,4,80.19,-,68.011
+Football,2023,182,Abilene Christian,0,0,0,4,80,$6.8K,67.824
+Football,2023,183,Youngstown State,0,0,0,4,80,$14.4K,67.824
+Football,2023,184,Western Illinois,0,0,0,4,80,-,67.824
+Football,2023,185,Western Oregon,0,0,0,4,80,-,67.824
+Football,2023,186,Prairie View A&M,0,0,0,4,80,$6.9K,67.824
+Football,2023,187,Idaho State,0,0,0,4,80,-,67.824
+Football,2023,188,Illinois State,0,0,0,4,80,$11.7K,67.824
+Football,2023,189,Indiana State,0,0,0,4,80,$10.1K,67.824
+Football,2023,190,Rhode Island,0,0,0,4,80,$13.1K,67.824
+Football,2023,191,Northwestern State,0,0,0,4,80,$6K,67.824
+Football,2023,192,North Carolina A&T,0,0,0,4,80,$6.4K,67.824
+Football,2023,193,North Carolina Central,0,0,0,4,80,$16.1K,67.824
+Football,2023,194,Lamar,0,0,0,4,80,$6.4K,67.824
+Football,2023,195,Elon,0,0,0,4,80,-,67.824
+Football,2023,196,Maine,0,0,0,4,80,$5.2K,67.824
+Football,2023,197,Southern Illinois,0,0,0,4,80,$8.8K,67.824
+Football,2023,198,Southern Utah,0,0,0,4,80,$15.3K,67.824
+Football,2023,199,Georgetown,0,0,0,4,80,$6.5K,67.824
+Football,2023,200,Bucknell,0,0,0,4,80,-,67.824
+Football,2023,201,Wayne State,0,0,0,4,80,$6.3K,67.824
+Football,2023,202,Brown,0,0,0,4,80,$7K,67.824
+Football,2023,203,Tennessee State,0,0,0,4,80,$9.1K,67.824
+Football,2023,204,McNeese State,0,0,1,3,81.74,$9.2K,67.278
+Football,2023,205,Utah Tech,0,0,1,3,81.22,-,66.753
+Football,2023,206,Chattanooga,0,0,1,3,80.21,$12.7K,65.749
+Football,2023,207,Murray State,0,0,1,3,80.01,$15K,65.544
+Football,2023,208,Albany,0,0,0,3,80,-,65.537
+Football,2023,209,East Tennessee State,0,0,0,3,80,$7.6K,65.537
+Football,2023,210,Dartmouth,0,0,0,3,80,$6.3K,65.537
+Football,2023,211,Mercer,0,0,0,3,80,$346K,65.537
+Football,2023,212,Sacred Heart,0,0,0,3,80,$6.1K,65.537
+Football,2023,213,North Alabama,0,0,0,3,80,$10.7K,65.537
+Football,2023,214,Morgan State,0,0,0,3,80,$6.4K,65.537
+Football,2023,215,Fordham,0,0,0,3,80,-,65.537
+Football,2023,216,Valparaiso,0,0,0,3,80,$10.3K,65.537
+Football,2023,217,Charleston Southern,0,0,0,3,80,$16K,65.537
+Football,2023,218,Texas-Permian Basin,0,0,0,3,80,-,65.537
+Football,2023,219,Central Washington,0,0,0,3,80,-,65.537
+Football,2023,-,Southern University,0,0,2,2,83.19,$16.4K,65.961
+Football,2023,-,Tarleton State,0,0,1,2,81.98,$6.9K,64.754
+Football,2023,-,Eastern Kentucky,0,0,1,2,80.26,$6.5K,63.035
+Football,2023,-,Lincoln University,0,0,0,2,80,-,62.773
+Football,2023,-,Virginia Union,0,0,0,2,80,-,62.773
+Football,2023,-,Lehigh,0,0,0,2,80,-,62.773
+Football,2023,-,UNC Pembroke,0,0,0,2,80,$6.7K,62.773
+Football,2023,-,Colorado State Pueblo,0,0,0,2,80,-,62.773
+Football,2023,-,Central Missouri State,0,0,0,2,80,-,62.773
+Football,2023,-,Carson Newman College,0,0,0,2,80,$6.7K,62.773
+Football,2023,-,Texas Southern,0,0,0,2,80,-,62.773
+Football,2023,-,East Texas A&M Commerce,0,0,0,2,80,-,62.773
+Football,2023,-,Gardner-Webb,0,0,0,2,80,-,62.773
+Football,2023,-,Grambling State,0,0,0,2,80,$5.5K,62.773
+Football,2023,-,New Hampshire,0,0,0,2,80,-,62.773
+Football,2023,-,Southeast Missouri State,0,0,0,2,80,-,62.773
+Football,2023,-,Shorter,0,0,0,2,80,$6.8K,62.773
+Football,2023,-,Stony Brook,0,0,0,2,80,$7.6K,62.773
+Football,2023,-,Davenport,0,0,0,2,80,-,62.773
+Football,2023,-,Cornell,0,0,0,2,80,-,62.773
+Football,2023,-,Davidson,0,0,0,2,80,-,62.773
+Football,2023,-,Lafayette,0,0,0,2,80,-,62.773
+Football,2023,-,Richmond,0,0,0,2,80,-,62.773
+Football,2023,-,Presbyterian,0,0,0,2,80,-,62.773
+Football,2023,-,Ashland University,0,0,0,2,80,-,62.773
+Football,2023,-,Arkansas-Pine Bluff,0,0,1,1,85.47,$13K,64.669
+Football,2023,-,Duquesne,0,0,1,1,81.5,$6.4K,60.694
+Football,2023,-,Furman,0,0,1,1,80.89,$16.1K,60.081
+Football,2023,-,Midwestern State,0,0,1,1,80.84,-,60.031
+Football,2023,-,Alabama A&M,0,0,0,1,80,$10.7K,59.194
+Football,2023,-,Valdosta State,0,0,0,1,80,-,59.194
+Football,2023,-,Southwest Minnesota State,0,0,0,1,80,-,59.194
+Football,2023,-,Stetson,0,0,0,1,80,-,59.194
+Football,2023,-,St. Thomas University,0,0,0,1,80,$17.8K,59.194
+Football,2023,-,South Carolina State,0,0,0,1,80,-,59.194
+Football,2023,-,MIT,0,0,0,1,80,-,59.194
+Football,2023,-,Montana Tech,0,0,0,1,80,-,59.194
+Football,2023,-,Shepherd,0,0,0,1,80,-,59.194
+Football,2023,-,New Haven,0,0,0,1,80,-,59.194
+Football,2023,-,California (PA),0,0,0,1,80,-,59.194
+Football,2023,-,West Georgia,0,0,0,1,80,-,59.194
+Football,2023,-,Minnesota State Mankato,0,0,0,1,80,-,59.194
+Football,2023,-,Washburn,0,0,0,1,80,-,59.194
+Football,2023,-,Black Hills State,0,0,0,1,80,-,59.194
+Football,2023,-,Virginia State,0,0,0,1,80,-,59.194
+Football,2023,-,Butler,0,0,0,1,80,-,59.194
+Football,2023,-,Bryant University,0,0,0,1,80,-,59.194
+Football,2023,-,Columbia,0,0,0,1,80,-,59.194
+Football,2023,-,Central Oklahoma,0,0,0,1,80,-,59.194
+Football,2023,-,Tusculum University,0,0,0,1,80,-,59.194
+Football,2023,-,Colorado School of Mines,0,0,0,1,80,-,59.194
+Football,2023,-,Indianapolis,0,0,0,1,80,-,59.194
+Football,2023,-,Long Island,0,0,0,1,80,-,59.194
+Football,2023,-,Wingate,0,0,0,1,80,-,59.194
+Football,2023,-,William & Mary,0,0,0,1,80,-,59.194
+Football,2023,-,West Virginia State,0,0,0,1,80,-,59.194
+Football,2023,-,Wheeling,0,0,0,1,80,-,59.194
+Football,2023,-,Quincy,0,0,0,1,80,-,59.194
+Football,2023,-,Pacific,0,0,0,1,80,-,59.194
+Football,2023,-,Northern State,0,0,0,1,80,$10.6K,59.194
+Football,2023,-,Northwood University,0,0,0,1,80,-,59.194
+Football,2023,-,Northwest Missouri State,0,0,0,1,80,-,59.194
+Football,2023,-,Northern Colorado,0,0,0,1,80,-,59.194
+Football,2023,-,Arizona Christian,0,0,0,1,80,$6.9K,59.194
+Football,2023,-,Lane College,0,0,0,1,80,-,59.194
+Football,2023,-,Lindenwood University,0,0,0,1,80,-,59.194
+Football,2023,-,Erskine College,0,0,0,1,80,-,59.194
+Football,2023,-,Emory & Henry College,0,0,0,1,80,-,59.194
+Football,2023,-,Miles College,0,0,0,1,80,$11.9K,59.194
+Football,2023,-,Savannah State,0,0,0,1,80,-,59.194
+Football,2023,-,Michigan Tech,0,0,0,1,80,-,59.194
+Football,2023,-,St. Thomas,0,0,0,1,80,-,59.194
+Football,2023,-,Minnesota Duluth,0,0,0,1,80,-,59.194
+Football,2022,1,Texas A&M,9,19,2,30,93.92,$244K,96.793
+Football,2022,2,Alabama,4,19,2,25,94.1,$78K,95.966
+Football,2022,3,Georgia,4,17,9,30,92.05,$239K,95.414
+Football,2022,4,Ohio State,3,16,2,21,93.09,$94K,94.139
+Football,2022,5,Texas,2,18,8,28,90.75,$37K,93.354
+Football,2022,6,Notre Dame,0,17,5,22,91.18,$29K,92.594
+Football,2022,7,Penn State,3,13,9,25,90.5,$92K,92.36
+Football,2022,8,Oklahoma,0,17,4,22,90.7,$112K,92.17
+Football,2022,9,Michigan,1,11,9,22,89.8,$62K,91.313
+Football,2022,10,North Carolina,1,9,7,17,90.97,$25K,90.972
+Football,2022,11,Oregon,0,12,5,17,90.39,$51K,90.394
+Football,2022,12,LSU,1,6,8,15,90.56,$27K,90.379
+Football,2022,13,Miami,0,10,4,15,90.45,$67K,90.269
+Football,2022,14,Clemson,1,9,9,20,88.75,$46K,90.083
+Football,2022,15,Tennessee,0,10,11,23,88.03,$75K,89.668
+Football,2022,16,Auburn,0,11,7,18,89.27,$50K,89.661
+Football,2022,17,Kentucky,0,10,9,20,88.39,$25K,89.657
+Football,2022,18,Missouri,1,7,10,18,89,$21K,89.344
+Football,2022,19,Florida,0,7,11,20,87.45,$24K,88.73
+Football,2022,20,Stanford,0,6,16,24,86.89,$54K,88.667
+Football,2022,21,Mississippi State,0,4,17,21,87.93,$13.9K,88.604
+Football,2022,22,Ole Miss,0,6,13,19,87.95,$21K,88.572
+Football,2022,23,Florida State,0,7,9,18,88.09,$22K,88.565
+Football,2022,24,Oklahoma State,0,7,13,20,87.68,$22K,88.522
+Football,2022,25,Michigan State,0,6,17,23,87.15,$19.4K,88.257
+Football,2022,26,Arkansas,0,5,15,21,86.68,$77K,88.153
+Football,2022,27,South Carolina,0,5,17,22,87.13,$40K,88.018
+Football,2022,28,Arizona,0,4,18,23,86.41,$117K,87.902
+Football,2022,29,Indiana,0,4,17,22,86.63,$327K,87.892
+Football,2022,30,Iowa,0,2,15,17,87.57,$19.9K,87.572
+Football,2022,31,West Virginia,0,3,18,22,86.09,$38K,87.472
+Football,2022,32,Wisconsin,0,4,11,15,87.63,$22K,87.444
+Football,2022,33,Baylor,0,2,19,21,86.89,$44K,87.409
+Football,2022,34,Vanderbilt,0,3,24,27,86.27,$26K,87.401
+Football,2022,35,TCU,0,5,9,14,87.77,$274K,87.356
+Football,2022,36,Utah,0,2,15,17,87.12,$35K,87.123
+Football,2022,37,UCLA,0,6,6,12,88.3,$25K,87.098
+Football,2022,38,Maryland,0,4,17,21,86.38,$22K,87.031
+Football,2022,39,Nebraska,0,3,15,18,86.72,$75K,87.026
+Football,2022,40,Iowa State,0,2,19,26,84.76,$117K,86.936
+Football,2022,41,Virginia Tech,0,1,23,24,85.71,$79K,86.828
+Football,2022,42,Rutgers,0,3,16,23,85.06,$32K,86.685
+Football,2022,43,Texas Tech,0,4,14,18,86.26,$65K,86.498
+Football,2022,44,Purdue,0,4,16,20,85.78,$19.5K,86.45
+Football,2022,45,Cincinnati,0,2,17,19,86.13,$12.5K,86.399
+Football,2022,46,USC,1,4,2,10,88.64,$101K,86.197
+Football,2022,47,Boston College,0,1,21,22,85.25,$13.7K,86.156
+Football,2022,48,Houston,0,1,17,21,84.93,$18.2K,86.049
+Football,2022,49,Northwestern,0,2,13,16,86.04,$11.1K,85.994
+Football,2022,50,UCF,0,3,12,17,85.88,$41K,85.88
+Football,2022,51,NC State,0,3,9,12,86.9,$124K,85.702
+Football,2022,52,Minnesota,0,2,16,18,85.39,$68K,85.623
+Football,2022,53,Illinois,0,0,26,26,84.62,$16K,85.622
+Football,2022,54,Colorado,0,0,22,25,84.36,$21K,85.533
+Football,2022,55,Louisville,0,2,12,15,85.59,$56K,85.411
+Football,2022,56,Georgia Tech,0,1,13,16,85.21,$17.1K,85.163
+Football,2022,57,Duke,0,1,15,18,84.83,$46K,85.118
+Football,2022,58,California,0,1,15,17,85,$12.2K,84.997
+Football,2022,59,Oregon State,0,0,16,18,84.7,$14.9K,84.976
+Football,2022,60,Pittsburgh,0,0,12,13,85.44,$73K,84.688
+Football,2022,61,Wake Forest,0,2,9,13,85.02,$22K,84.269
+Football,2022,62,BYU,0,2,21,27,82.73,$15.2K,84.064
+Football,2022,63,Kansas State,0,0,17,21,83.27,$51K,84.041
+Football,2022,64,Boise State,0,0,19,21,83.19,$11.9K,83.883
+Football,2022,65,Syracuse,0,0,14,17,83.67,$24K,83.666
+Football,2022,66,UTSA,0,0,15,18,83.38,$10.6K,83.576
+Football,2022,67,Virginia,0,1,15,16,83.62,$15.3K,83.575
+Football,2022,68,Washington State,0,0,20,21,82.99,$196K,83.515
+Football,2022,69,Memphis,0,0,18,23,82.6,$11.5K,83.472
+Football,2022,70,SMU,0,1,10,13,83.87,$150K,83.114
+Football,2022,71,San Diego State,0,0,16,17,83.05,$189K,83.05
+Football,2022,72,Jackson State,1,1,3,13,83.78,$12.2K,83.027
+Football,2022,73,Coastal Carolina,0,0,15,20,82.41,$14.6K,82.83
+Football,2022,74,Tulane,0,0,16,17,82.78,$73K,82.776
+Football,2022,75,Arkansas State,0,0,17,19,82.32,$16.8K,82.728
+Football,2022,76,Marshall,0,0,23,25,81.84,$9.6K,82.66
+Football,2022,77,USF,0,0,10,12,83.84,$280K,82.643
+Football,2022,78,Colorado State,0,1,12,15,82.82,$131K,82.634
+Football,2022,79,Washington,0,1,8,10,84.85,$16.8K,82.402
+Football,2022,80,Fresno State,0,0,15,21,81.85,$11.9K,82.299
+Football,2022,81,San Jose State,0,0,13,20,81.88,$7.9K,82.212
+Football,2022,82,Liberty,0,0,10,15,82.21,$17.1K,82.03
+Football,2022,83,Temple,0,0,13,16,82.03,$12.7K,81.989
+Football,2022,84,Louisiana Tech,0,0,12,16,82.03,$8.5K,81.986
+Football,2022,85,Appalachian State,0,0,14,15,82.09,$48K,81.913
+Football,2022,86,UAB,0,0,16,17,81.74,$7.9K,81.739
+Football,2022,87,Southern Miss,0,0,17,20,81.37,$9K,81.735
+Football,2022,88,East Carolina,0,0,14,18,81.59,$13.2K,81.684
+Football,2022,89,Louisiana,0,0,8,13,82.4,$179K,81.648
+Football,2022,90,Buffalo,0,0,11,23,81.15,$7.6K,81.597
+Football,2022,91,Miami (OH),0,0,17,17,81.58,-,81.581
+Football,2022,92,Utah State,0,0,19,28,80.86,$11.2K,81.515
+Football,2022,93,Central Michigan,0,0,15,20,81.02,$10.2K,81.296
+Football,2022,94,Connecticut,0,0,12,21,80.85,$9K,81.22
+Football,2022,95,Western Kentucky,0,0,12,22,80.87,$10.7K,81.158
+Football,2022,96,Wyoming,0,1,12,19,80.87,$13.5K,81.145
+Football,2022,97,New Mexico State,0,0,15,27,80.57,$8.2K,81.024
+Football,2022,98,Charlotte,0,0,10,18,80.9,$8.1K,81.006
+Football,2022,99,Western Michigan,0,0,12,16,81.01,$10.1K,80.97
+Football,2022,100,Northern Illinois,0,0,16,29,80.41,$6.3K,80.938
+Football,2022,101,Toledo,0,0,12,14,81.31,$8.2K,80.89
+Football,2022,102,Middle Tennessee State,0,0,7,16,80.89,$12.3K,80.848
+Football,2022,103,Eastern Michigan,0,0,7,18,80.69,$11.5K,80.813
+Football,2022,104,Georgia Southern,0,0,9,22,80.62,$31K,80.806
+Football,2022,105,Kent State,0,0,15,23,80.48,$8.9K,80.802
+Football,2022,106,Tulsa,0,0,13,16,80.82,$8.9K,80.776
+Football,2022,107,Rice,0,0,9,16,80.74,$40K,80.693
+Football,2022,108,South Alabama,0,0,8,13,81.43,$46K,80.678
+Football,2022,109,Arizona State,0,1,8,10,83.11,$23K,80.668
+Football,2022,110,Air Force,0,0,11,42,80.24,$10.8K,80.655
+Football,2022,111,New Mexico,0,0,18,25,80.08,$8.2K,80.579
+Football,2022,112,Idaho,0,0,2,18,80.5,$148K,80.529
+Football,2022,113,UTEP,0,0,6,22,80.25,$12.5K,80.379
+Football,2022,114,FIU,0,0,5,19,80.23,$10.4K,80.289
+Football,2022,115,Massachusetts,0,0,9,15,80.45,$8K,80.271
+Football,2022,116,North Texas,0,0,7,13,81.02,$193K,80.265
+Football,2022,117,Sam Houston State,0,0,7,11,82.02,$9.4K,80.262
+Football,2022,118,Ohio,0,0,2,15,80.44,$8.1K,80.255
+Football,2022,119,Ball State,0,0,16,17,80.21,$12.8K,80.213
+Football,2022,120,Old Dominion,0,0,7,13,80.96,$9.1K,80.209
+Football,2022,121,Nevada,0,0,7,12,81.38,$10.8K,80.176
+Football,2022,122,Georgia State,0,0,10,14,80.56,$7.3K,80.144
+Football,2022,123,Hawaii,0,0,5,14,80.51,-,80.095
+Football,2022,124,Army,0,0,1,35,79.98,$6.3K,80
+Football,2022,125,Navy,0,0,0,26,80,$5.7K,80
+Football,2022,126,Bowling Green,0,0,10,12,80.98,$5.2K,79.779
+Football,2022,127,Kansas,0,0,6,9,83.02,$16.2K,79.754
+Football,2022,128,UNLV,0,0,7,10,82,$728K,79.551
+Football,2022,129,Central Arkansas,0,0,4,12,80.57,$5.5K,79.375
+Football,2022,130,Louisiana-Monroe,0,0,5,11,80.95,$10.4K,79.188
+Football,2022,131,Akron,0,0,5,11,80.55,$13.9K,78.794
+Football,2022,132,Florida Atlantic,0,0,5,9,81.36,$6.3K,78.095
+Football,2022,133,Portland State,0,0,1,9,80.5,$18.9K,77.231
+Football,2022,134,Troy,0,0,6,9,80.33,$6.2K,77.059
+Football,2022,135,Campbell,0,1,4,6,83.67,$15.3K,76.976
+Football,2022,136,Grambling State,0,0,4,6,82.56,$16.6K,75.861
+Football,2022,137,Pennsylvania,0,0,0,8,80,-,75.761
+Football,2022,138,Jacksonville State,0,0,2,7,80.55,$8.7K,75.179
+Football,2022,139,Western Carolina,0,0,4,7,80.48,$24K,75.109
+Football,2022,140,Weber State,0,0,0,7,80,-,74.625
+Football,2022,141,Harvard,0,0,1,6,80.82,$528K,74.123
+Football,2022,142,Lamar,0,0,1,6,80,$11.5K,73.302
+Football,2022,143,Dartmouth,0,0,0,6,80,-,73.302
+Football,2022,144,Montana State,0,0,0,6,80,-,73.302
+Football,2022,145,Illinois State,0,0,1,6,79.96,$5.2K,73.261
+Football,2022,146,Texas State,0,0,3,5,80.8,-,72.557
+Football,2022,147,Eastern Washington,0,0,1,5,80.31,$11.1K,72.069
+Football,2022,148,San Diego,0,0,1,5,80.3,-,72.062
+Football,2022,149,Northern Iowa,0,0,1,5,80.28,$10.7K,72.037
+Football,2022,150,North Dakota State,0,0,1,5,80.25,-,72.012
+Football,2022,151,Northern Arizona,0,0,1,5,80.2,-,71.962
+Football,2022,152,Princeton,0,0,2,4,81.88,$14K,71.834
+Football,2022,153,Prairie View A&M,0,0,0,5,80,-,71.762
+Football,2022,154,McNeese State,0,0,0,5,80,-,71.762
+Football,2022,155,Stephen F. Austin,0,0,0,5,80,-,71.762
+Football,2022,156,South Dakota,0,0,0,5,80,$176K,71.762
+Football,2022,157,Idaho State,0,0,1,5,79.98,-,71.744
+Football,2022,158,Yale,0,0,0,4,80,-,69.959
+Football,2022,159,Kennesaw State,0,0,0,4,80,-,69.959
+Football,2022,160,Cal Poly,0,0,0,4,80,-,69.959
+Football,2022,161,Central Washington,0,0,0,4,80,-,69.959
+Football,2022,162,UT Martin,0,0,1,3,82.08,-,69.905
+Football,2022,163,Austin Peay,0,0,1,4,79.88,$15.5K,69.834
+Football,2022,164,Abilene Christian,0,0,2,3,81.6,$10.9K,69.422
+Football,2022,165,Grand Valley State,0,0,1,3,81.54,$11.1K,69.363
+Football,2022,166,Florida A&M,0,0,1,3,80.79,-,68.613
+Football,2022,167,James Madison,0,0,1,3,80.33,$19.9K,68.151
+Football,2022,168,Lehigh,0,0,1,3,80.25,-,68.072
+Football,2022,169,Youngstown State,0,0,0,3,80,-,67.822
+Football,2022,170,Western Oregon,0,0,0,3,80,-,67.822
+Football,2022,171,Houston Christian,0,0,0,3,80,-,67.822
+Football,2022,172,Sacramento State,0,0,0,3,80,-,67.822
+Football,2022,173,Northern Colorado,0,0,0,3,80,-,67.822
+Football,2022,174,Lafayette,0,0,0,3,80,-,67.822
+Football,2022,175,Elon,0,0,1,3,80,-,67.822
+Football,2022,176,Cornell,0,0,0,3,80,-,67.822
+Football,2022,177,Mercer,0,0,0,3,80,-,67.822
+Football,2022,178,Southern University,0,0,0,3,80,-,67.822
+Football,2022,179,Saginaw Valley State,0,0,0,3,80,-,67.822
+Football,2022,180,Morgan State,0,0,0,3,80,-,67.822
+Football,2022,181,South Dakota State,0,0,0,3,80,-,67.822
+Football,2022,182,Gardner-Webb,0,0,0,3,80,-,67.822
+Football,2022,183,Ferris State,0,0,0,3,80,-,67.822
+Football,2022,184,Georgetown,0,0,0,3,80,$18.1K,67.822
+Football,2022,185,Chattanooga,0,0,1,3,79.96,$5.5K,67.784
+Football,2022,-,Eastern Kentucky,0,0,1,2,84.5,$12.8K,69.717
+Football,2022,-,Iowa Wesleyan,0,0,1,2,81.31,-,66.53
+Football,2022,-,East Texas A&M Commerce,0,0,1,2,81.19,-,66.405
+Football,2022,-,Western Illinois,0,0,2,2,80.74,-,65.955
+Football,2022,-,Richmond,0,0,1,2,80.19,-,65.409
+Football,2022,-,Wofford,0,0,0,2,80,-,65.217
+Football,2022,-,Wingate,0,0,0,2,80,-,65.217
+Football,2022,-,Presbyterian,0,0,0,2,80,-,65.217
+Football,2022,-,Incarnate Word,0,0,0,2,80,-,65.217
+Football,2022,-,Pittsburg State,0,0,0,2,80,-,65.217
+Football,2022,-,Howard,0,0,0,2,80,-,65.217
+Football,2022,-,Northwest Missouri State,0,0,0,2,80,$11.4K,65.217
+Football,2022,-,Eastern Illinois,0,0,0,2,80,-,65.217
+Football,2022,-,Slippery Rock,0,0,0,2,80,-,65.217
+Football,2022,-,Montana,0,0,0,2,80,$18.7K,65.217
+Football,2022,-,Fort Valley State,0,0,0,2,80,-,65.217
+Football,2022,-,Bucknell,0,0,0,2,80,$5.2K,65.217
+Football,2022,-,Valparaiso,0,0,0,2,80,-,65.217
+Football,2022,-,College of Idaho,0,0,0,2,80,-,65.217
+Football,2022,-,Columbia,0,0,0,2,80,-,65.217
+Football,2022,-,Tennessee State,0,0,0,2,80,$11.5K,65.217
+Football,2022,-,Southeast Missouri State,0,0,0,2,80,-,65.217
+Football,2022,-,Murray State,0,0,1,1,84,$12.5K,65.821
+Football,2022,-,Harding University,0,0,1,1,81.75,$13.3K,63.571
+Football,2022,-,Missouri State University,0,0,1,1,81.75,-,63.571
+Football,2022,-,UC Davis,0,0,1,1,81.06,-,62.882
+Football,2022,-,North Carolina Central,0,0,1,1,80.5,-,62.321
+Football,2022,-,Providence,0,0,0,1,80,-,61.821
+Football,2022,-,Stony Brook,0,0,0,1,80,-,61.821
+Football,2022,-,Northwestern State,0,0,0,1,80,-,61.821
+Football,2022,-,Northwood University,0,0,0,1,80,-,61.821
+Football,2022,-,North Dakota,0,0,0,1,80,-,61.821
+Football,2022,-,Limestone University,0,0,0,1,80,-,61.821
+Football,2022,-,Lake Erie College,0,0,0,1,80,-,61.821
+Football,2022,-,Lane College,0,0,0,1,80,-,61.821
+Football,2022,-,Duquesne,0,0,0,1,80,-,61.821
+Football,2022,-,Dayton,0,0,0,1,80,-,61.821
+Football,2022,-,Davenport,0,0,0,1,80,-,61.821
+Football,2022,-,Dickinson State University,0,0,0,1,80,-,61.821
+Football,2022,-,Eastern Oregon University,0,0,0,1,80,-,61.821
+Football,2022,-,Utah Tech,0,0,0,1,80,-,61.821
+Football,2022,-,Delaware,0,0,0,1,80,$601K,61.821
+Football,2022,-,Millersville,0,0,0,1,80,-,61.821
+Football,2022,-,Savannah State,0,0,0,1,80,-,61.821
+Football,2022,-,Maine,0,0,0,1,80,-,61.821
+Football,2022,-,Tarleton State,0,0,0,1,80,-,61.821
+Football,2022,-,Western New Mexico,0,0,0,1,80,-,61.821
+Football,2022,-,Alcorn State,0,0,0,1,80,-,61.821
+Football,2022,-,Angelo State,0,0,0,1,80,-,61.821
+Football,2022,-,Ashland University,0,0,0,1,80,-,61.821
+Football,2022,-,Amherst College,0,0,0,1,80,-,61.821
+Football,2022,-,American International,0,0,0,1,80,-,61.821
+Football,2022,-,Arkansas-Pine Bluff,0,0,0,1,80,-,61.821
+Football,2022,-,Arkansas-Monticello,0,0,0,1,80,-,61.821
+Football,2022,-,Arizona Christian,0,0,0,1,80,-,61.821
+Football,2022,-,William & Mary,0,0,0,1,80,-,61.821
+Football,2022,-,Rhode Island,0,0,1,1,80,-,61.821
+Football,2022,-,William Jewell College,0,0,0,1,80,-,61.821
+Football,2022,-,Robert Morris,0,0,0,1,80,-,61.821
+Football,2022,-,IUP,0,0,0,1,80,-,61.821
+Football,2022,-,Johns Hopkins,0,0,0,1,80,-,61.821
+Football,2022,-,Pacific Lutheran,0,0,0,1,80,-,61.821
+Football,2022,-,Holy Cross,0,0,0,1,80,-,61.821
+Football,2022,-,Rocky Mountain College,0,0,0,1,80,-,61.821
+Football,2022,-,Indiana State,0,0,0,1,80,-,61.821
+Football,2022,-,Villanova,0,0,0,1,80,-,61.821
+Football,2022,-,Southeastern University,0,0,0,1,80,-,61.821
+Football,2022,-,Morningside University,0,0,0,1,80,-,61.821
+Football,2022,-,University of Manitoba,0,0,0,1,80,-,61.821
+Football,2022,-,Central Missouri State,0,0,0,1,80,-,61.821
+Football,2022,-,Concordia University,0,0,0,1,80,-,61.821
+Football,2022,-,Colgate,0,0,0,1,80,$10.4K,61.821
+Football,2022,-,Towson,0,0,0,1,80,-,61.821
+Football,2022,-,Texas A&M-Kingsville,0,0,0,1,80,-,61.821
+Football,2022,-,Texas Southern,0,0,0,1,80,-,61.821
+Football,2022,-,Bethune-Cookman,0,0,0,1,80,-,61.821
+Football,2022,-,Virginia Military Institute,0,0,0,1,80,$6.5K,61.821
+Football,2022,-,Valdosta State,0,0,0,1,80,-,61.821
+Football,2022,-,West Alabama,0,0,0,1,80,-,61.821
+Football,2022,-,West Chester,0,0,0,1,80,-,61.821
+Football,2022,-,Southwest Minnesota State,0,0,0,1,80,-,61.821
+Football,2022,-,California (PA),0,0,0,1,80,-,61.821
+Football,2022,-,Fairmont State,0,0,0,1,80,-,61.821
+Football,2022,-,Glenville State,0,0,0,1,80,$10.3K,61.821
+Football,2022,-,George Fox,0,0,0,1,80,-,61.821
+Football,2022,-,Fordham,0,0,0,1,80,-,61.821
+Football,2022,-,Fort Hays State,0,0,0,1,80,-,61.821
+Football,2022,-,Furman,0,0,0,1,80,-,61.821
+Football,2022,-,New Haven,0,0,0,1,80,-,61.821
+Football,2022,-,New Hampshire,0,0,0,1,80,-,61.821
+Football,2022,-,Monmouth,0,0,0,1,80,-,61.821
+Football,2022,-,South Carolina State,0,0,0,1,80,-,61.821
+Football,2022,-,Newberry,0,0,0,1,80,-,61.821
+Football,2022,-,North Alabama,0,0,0,1,80,-,61.821
+Football,2022,-,Southern Oregon University,0,0,0,1,80,-,61.821
+Football,2021,1,Alabama,5,20,2,27,93.95,$38K,96.45
+Football,2021,2,Ohio State,7,13,3,23,93.66,$22K,95.959
+Football,2021,3,Georgia,3,14,3,20,92.66,$94K,93.82
+Football,2021,4,LSU,1,19,2,22,92.07,$41K,93.682
+Football,2021,5,Clemson,3,15,1,19,92.89,$28K,93.638
+Football,2021,6,Oregon,2,16,5,23,91.05,$25K,92.771
+Football,2021,7,Oklahoma,2,12,1,15,92.65,$31K,92.464
+Football,2021,8,Texas A&M,1,17,5,23,90.76,$20K,92.198
+Football,2021,9,USC,1,13,8,22,90.24,$50K,91.627
+Football,2021,10,Miami,2,13,7,22,89.19,$26K,90.859
+Football,2021,11,North Carolina,1,14,5,20,89.59,$27K,90.824
+Football,2021,12,Notre Dame,0,13,14,27,88.29,$58K,90.748
+Football,2021,13,Florida,1,10,11,22,89.02,$33K,90.392
+Football,2021,14,Texas,1,11,10,22,88.19,$37K,89.677
+Football,2021,15,Michigan,0,11,11,22,87.91,$93K,89.292
+Football,2021,16,Wisconsin,1,8,12,21,87.59,$26K,88.613
+Football,2021,17,Ole Miss,0,9,15,25,86.45,$46K,88.295
+Football,2021,18,Penn State,0,7,9,17,87.69,$31K,87.694
+Football,2021,19,Auburn,0,8,9,19,86.63,$18.4K,87.408
+Football,2021,20,Iowa,0,6,12,19,86.64,$26K,87.356
+Football,2021,21,Florida State,0,5,12,18,86.7,$19.1K,87.095
+Football,2021,22,Nebraska,0,6,14,20,86.25,$21K,86.829
+Football,2021,23,Tennessee,0,5,11,16,86.82,$34K,86.771
+Football,2021,24,Arkansas,0,4,18,26,84.92,$25K,86.712
+Football,2021,25,Maryland,0,5,19,25,84.88,$15.8K,86.619
+Football,2021,26,Missouri,0,4,15,21,85.36,$24K,86.346
+Football,2021,27,Kentucky,0,3,15,18,85.92,$24K,86.304
+Football,2021,28,California,0,5,14,20,85.49,$18.5K,86.278
+Football,2021,29,Oklahoma State,0,5,16,21,85.31,$17.8K,86.145
+Football,2021,30,UCLA,0,7,10,18,85.77,$40K,86.111
+Football,2021,31,Minnesota,0,2,15,17,85.97,$19.6K,85.965
+Football,2021,32,Mississippi State,0,5,17,23,84.73,$21K,85.935
+Football,2021,33,Arizona State,0,5,8,13,86.36,$17.6K,85.612
+Football,2021,34,NC State,0,6,12,21,84.43,$15.9K,85.604
+Football,2021,35,Baylor,0,5,12,17,85.45,$26K,85.447
+Football,2021,36,Utah,0,2,14,17,85.39,$21K,85.393
+Football,2021,37,West Virginia,0,3,13,17,85.33,$36K,85.325
+Football,2021,38,Rutgers,0,3,18,22,84.16,$38K,85.321
+Football,2021,39,Washington,1,3,11,17,85.28,$22K,85.282
+Football,2021,40,Pittsburgh,0,3,17,21,84.55,$15.5K,85.277
+Football,2021,41,TCU,0,3,10,15,85.45,$18.2K,85.265
+Football,2021,42,Virginia,0,1,23,24,84.35,$18.3K,85.24
+Football,2021,43,Georgia Tech,0,3,13,16,85.19,$18.3K,85.144
+Football,2021,44,Louisville,0,3,18,28,83.42,$23K,85.08
+Football,2021,45,Stanford,0,4,13,17,84.93,$11.4K,84.927
+Football,2021,46,Northwestern,0,1,15,16,84.88,$80K,84.837
+Football,2021,47,Indiana,0,2,12,15,85.01,$16K,84.83
+Football,2021,48,Boston College,0,3,22,25,83.53,$16.4K,84.673
+Football,2021,49,Virginia Tech,0,1,25,28,83.04,$24K,84.295
+Football,2021,50,Michigan State,0,1,17,18,83.86,$47K,84.165
+Football,2021,51,Cincinnati,0,0,24,24,83.26,$15.8K,84.019
+Football,2021,52,Iowa State,0,1,17,18,83.48,$15.3K,83.737
+Football,2021,53,SMU,0,1,16,17,83.71,$13.8K,83.712
+Football,2021,54,Kansas State,0,1,16,20,83.14,$22K,83.688
+Football,2021,55,Duke,0,0,18,18,83.54,$15.9K,83.686
+Football,2021,56,Vanderbilt,0,1,22,23,82.99,$37K,83.599
+Football,2021,57,Memphis,0,0,24,25,82.66,$15.3K,83.501
+Football,2021,58,UCF,0,0,17,18,82.93,$21K,83.098
+Football,2021,59,Syracuse,0,1,19,20,82.66,$19.3K,83.015
+Football,2021,60,Texas Tech,0,1,10,11,84.67,$15.3K,82.907
+Football,2021,61,USF,0,1,20,21,82.38,$9.4K,82.828
+Football,2021,62,Houston,0,1,12,15,82.99,$26K,82.808
+Football,2021,63,Purdue,0,0,13,16,82.61,$21K,82.566
+Football,2021,64,Boise State,0,0,16,20,82.17,$11.4K,82.549
+Football,2021,65,Kansas,0,1,18,20,82.27,$65K,82.528
+Football,2021,66,San Diego State,0,0,24,26,81.56,$55K,82.423
+Football,2021,67,Colorado,0,0,16,19,81.97,$22K,82.254
+Football,2021,68,Wake Forest,0,0,19,20,81.67,$14.9K,82.143
+Football,2021,69,BYU,0,1,15,16,82.18,$402K,82.135
+Football,2021,70,Illinois,0,0,16,18,82.01,$16.1K,82.125
+Football,2021,71,Washington State,0,0,16,19,81.83,$14.1K,82.082
+Football,2021,72,UNLV,0,0,20,21,81.63,$7.2K,82.011
+Football,2021,73,Louisiana,0,0,16,21,81.58,$17.7K,82.001
+Football,2021,74,South Carolina,0,0,10,11,83.67,$23K,81.905
+Football,2021,75,Arizona,0,0,19,19,81.63,$17.8K,81.899
+Football,2021,76,UTSA,0,0,18,21,81.41,$17.9K,81.851
+Football,2021,77,Toledo,0,0,23,24,80.9,$10.4K,81.759
+Football,2021,78,Tulane,0,0,17,17,81.75,$7.4K,81.751
+Football,2021,79,Fresno State,0,0,17,23,81.26,$16K,81.724
+Football,2021,80,Oregon State,0,0,10,12,82.89,$39K,81.694
+Football,2021,81,Appalachian State,0,0,22,22,81.16,$9K,81.647
+Football,2021,82,North Texas,0,0,19,20,81.25,$15.6K,81.517
+Football,2021,83,FIU,0,0,14,19,81.21,$9.4K,81.485
+Football,2021,84,East Carolina,0,0,14,14,81.8,-,81.379
+Football,2021,85,Florida Atlantic,0,0,18,20,81.04,-,81.255
+Football,2021,86,Coastal Carolina,0,0,16,19,80.84,$17.2K,81.088
+Football,2021,87,Jackson State,0,1,1,19,80.86,$22K,80.965
+Football,2021,88,Buffalo,0,0,16,22,80.56,$14.8K,80.912
+Football,2021,89,Ohio,0,0,16,19,80.48,$9.4K,80.825
+Football,2021,90,Arkansas State,0,0,13,18,80.7,$14.5K,80.803
+Football,2021,91,Western Michigan,0,0,19,21,80.48,$8.9K,80.793
+Football,2021,92,Louisiana-Monroe,0,0,14,19,80.54,$22K,80.732
+Football,2021,93,Nevada,0,0,20,20,80.47,$16K,80.701
+Football,2021,94,Rice,0,0,18,19,80.41,$230K,80.681
+Football,2021,95,Central Michigan,0,0,22,25,80.1,-,80.652
+Football,2021,96,Colorado State,0,0,20,21,80.41,$9K,80.644
+Football,2021,97,Eastern Michigan,0,0,13,22,80.22,$13.5K,80.642
+Football,2021,98,Troy,0,0,15,15,80.72,-,80.54
+Football,2021,99,Miami (OH),0,0,22,22,79.99,$21K,80.518
+Football,2021,100,Ball State,0,0,20,23,79.81,$16.6K,80.474
+Football,2021,101,Georgia Southern,0,0,17,22,79.97,$11.1K,80.455
+Football,2021,102,Northern Illinois,0,0,25,28,79.83,$8.9K,80.439
+Football,2021,103,New Mexico,0,0,21,24,80.05,$12.2K,80.417
+Football,2021,104,Charlotte,0,0,15,19,80.15,$26K,80.352
+Football,2021,105,Middle Tennessee State,0,0,6,14,80.76,$7.4K,80.34
+Football,2021,106,Air Force,0,0,6,56,80.09,$15.1K,80.319
+Football,2021,107,UAB,0,0,9,17,80.32,$7.3K,80.318
+Football,2021,108,Georgia State,0,0,12,15,80.5,$11.5K,80.316
+Football,2021,109,Navy,0,0,4,33,80.15,$183K,80.285
+Football,2021,110,Old Dominion,0,0,16,18,80.04,-,80.156
+Football,2021,111,Hawaii,0,0,10,13,80.83,$23K,80.076
+Football,2021,112,Liberty,0,0,13,13,80.77,$11.2K,80.021
+Football,2021,113,Army,0,0,1,61,79.98,$63K,80
+Football,2021,114,Yale,0,0,0,19,80,-,80
+Football,2021,115,Princeton,0,0,0,17,80,$11.4K,80
+Football,2021,116,Howard,0,0,0,21,80,$7.2K,80
+Football,2021,117,Eastern Washington,0,0,0,18,80,-,80
+Football,2021,118,San Diego,0,0,0,19,80,$35K,80
+Football,2021,119,Southern Utah,0,0,0,19,80,$7.8K,80
+Football,2021,120,Bowling Green,0,0,19,21,79.61,-,79.958
+Football,2021,121,Wyoming,0,0,18,19,79.79,$22K,79.932
+Football,2021,122,Massachusetts,0,0,3,18,79.82,$6.5K,79.897
+Football,2021,123,Temple,0,0,12,13,80.62,$13K,79.867
+Football,2021,124,Idaho,0,0,0,15,80,-,79.818
+Football,2021,125,Tulsa,0,0,6,12,80.93,$13K,79.734
+Football,2021,126,Austin Peay,0,0,1,14,80.12,$14K,79.702
+Football,2021,127,Kent State,0,0,13,17,79.65,$9.4K,79.652
+Football,2021,128,Connecticut,0,0,6,14,80.03,$186K,79.614
+Football,2021,129,Western Oregon,0,0,0,14,80,-,79.584
+Football,2021,130,Illinois State,0,0,0,14,80,$5.7K,79.584
+Football,2021,131,Grand Valley State,0,0,0,14,80,$9.8K,79.584
+Football,2021,132,Marshall,0,0,11,11,81.04,$16.7K,79.276
+Football,2021,133,San Jose State,0,0,11,12,80.45,$17.4K,79.254
+Football,2021,134,Northern Arizona,0,0,0,13,80,-,79.247
+Football,2021,135,Lamar,0,0,0,13,80,$15K,79.247
+Football,2021,136,Sam Houston State,0,0,0,13,80,-,79.247
+Football,2021,137,Akron,0,0,14,18,79.14,-,79.236
+Football,2021,138,Southern Miss,0,0,8,11,81,$21K,79.236
+Football,2021,139,Louisiana Tech,0,0,8,10,81.5,$7.9K,79.051
+Football,2021,140,South Alabama,0,0,11,11,80.45,$5.5K,78.694
+Football,2021,141,New Mexico State,0,0,5,11,80.1,$5.3K,78.34
+Football,2021,142,Incarnate Word,0,0,0,11,80,$15.2K,78.24
+Football,2021,143,Harvard,0,0,0,11,80,-,78.24
+Football,2021,144,Montana State,0,0,0,11,80,$6.3K,78.24
+Football,2021,145,Pennsylvania,0,0,0,10,80,-,77.553
+Football,2021,146,Stephen F. Austin,0,0,0,10,80,-,77.553
+Football,2021,147,Georgetown,0,0,0,10,80,-,77.553
+Football,2021,148,Cal Poly,0,0,0,10,80,-,77.553
+Football,2021,149,Columbia,0,0,0,10,80,-,77.553
+Football,2021,150,North Dakota State,0,0,1,9,80.19,-,76.926
+Football,2021,151,Northern Iowa,0,0,0,9,80,-,76.731
+Football,2021,152,Central Washington,0,0,0,9,80,-,76.731
+Football,2021,153,Central Arkansas,0,0,0,9,80,-,76.731
+Football,2021,154,UTEP,0,0,5,9,79.64,$13.3K,76.369
+Football,2021,155,Holy Cross,0,0,0,8,80,$10.3K,75.761
+Football,2021,156,Sacramento State,0,0,0,8,80,-,75.761
+Football,2021,157,North Carolina A&T,0,0,0,8,80,$12.9K,75.761
+Football,2021,158,Kennesaw State,0,0,0,8,80,-,75.761
+Football,2021,159,Utah State,0,0,5,7,81.01,$5.8K,75.637
+Football,2021,160,James Madison,0,0,0,7,80,-,74.625
+Football,2021,161,Dartmouth,0,0,0,7,80,-,74.625
+Football,2021,162,Weber State,0,0,0,7,80,-,74.625
+Football,2021,163,UC Davis,0,0,0,7,80,-,74.625
+Football,2021,164,Abilene Christian,0,0,0,6,80,-,73.302
+Football,2021,165,Cornell,0,0,0,6,80,$11.5K,73.302
+Football,2021,166,South Dakota,0,0,0,6,80,-,73.302
+Football,2021,167,Montana Tech,0,0,0,6,80,-,73.302
+Football,2021,168,Missouri State University,0,0,0,6,80,$10.9K,73.302
+Football,2021,169,Western Kentucky,0,1,1,4,82.24,$12.7K,72.199
+Football,2021,170,Rhode Island,0,0,0,5,80,-,71.762
+Football,2021,171,Eastern Illinois,0,0,0,5,80,-,71.762
+Football,2021,172,Utah Tech,0,0,0,5,80,-,71.762
+Football,2021,173,Morgan State,0,0,0,5,80,-,71.762
+Football,2021,174,South Dakota State,0,0,0,5,80,-,71.762
+Football,2021,175,Montana,0,0,0,5,80,-,71.762
+Football,2021,176,Gardner-Webb,0,0,0,5,80,-,71.762
+Football,2021,177,Campbell,0,0,0,5,80,-,71.762
+Football,2021,178,Texas Southern,0,0,0,5,80,$21K,71.762
+Football,2021,179,Tennessee Tech,0,0,0,5,80,-,71.762
+Football,2021,180,Colorado School of Mines,0,0,0,5,80,$15.1K,71.762
+Football,2021,181,Texas State,0,0,1,5,79.94,$5.7K,71.701
+Football,2021,182,Wofford,0,0,0,4,80,$20K,69.959
+Football,2021,183,Houston Christian,0,0,0,4,80,-,69.959
+Football,2021,184,Idaho State,0,0,0,4,80,$23K,69.959
+Football,2021,185,Indiana State,0,0,0,4,80,-,69.959
+Football,2021,186,North Dakota,0,0,0,4,80,-,69.959
+Football,2021,187,Drake,0,0,0,4,80,-,69.959
+Football,2021,188,Eastern Kentucky,0,0,0,4,80,-,69.959
+Football,2021,189,McNeese State,0,0,0,4,80,-,69.959
+Football,2021,190,Southern Illinois,0,0,0,4,80,-,69.959
+Football,2021,191,Ferris State,0,0,0,4,80,-,69.959
+Football,2021,192,Brown,0,0,0,4,80,-,69.959
+Football,2021,193,The Citadel,0,0,0,4,80,-,69.959
+Football,2021,194,Chattanooga,0,0,0,4,80,-,69.959
+Football,2021,195,Alcorn State,0,0,0,3,80,-,67.822
+Football,2021,196,Western Carolina,0,0,0,3,80,-,67.822
+Football,2021,197,William & Mary,0,0,0,3,80,-,67.822
+Football,2021,198,Prairie View A&M,0,0,0,3,80,-,67.822
+Football,2021,199,Northern Colorado,0,0,0,3,80,-,67.822
+Football,2021,200,Lafayette,0,0,0,3,80,-,67.822
+Football,2021,201,Long Island,0,0,0,3,80,-,67.822
+Football,2021,202,Duquesne,0,0,0,3,80,-,67.822
+Football,2021,203,Elon,0,0,0,3,80,-,67.822
+Football,2021,204,Delaware,0,0,0,3,80,-,67.822
+Football,2021,205,Samford,0,0,0,3,80,-,67.822
+Football,2021,206,Merrimack,0,0,0,3,80,-,67.822
+Football,2021,207,Saginaw Valley State,0,0,0,3,80,-,67.822
+Football,2021,208,Minot State,0,0,0,3,80,-,67.822
+Football,2021,209,Mississippi Valley State,0,0,0,3,80,-,67.822
+Football,2021,210,Grambling State,0,0,0,3,80,-,67.822
+Football,2021,211,Furman,0,0,0,3,80,-,67.822
+Football,2021,212,Fordham,0,0,0,3,80,-,67.822
+Football,2021,213,Florida A&M,0,0,0,3,80,-,67.822
+Football,2021,214,Bucknell,0,0,0,3,80,-,67.822
+Football,2021,215,Villanova,0,0,0,3,80,-,67.822
+Football,2021,216,Valparaiso,0,0,0,3,80,-,67.822
+Football,2021,217,Colgate,0,0,0,3,80,-,67.822
+Football,2021,218,Tennessee State,0,0,0,3,80,-,67.822
+Football,2021,-,Colorado State Pueblo,0,0,0,2,80,-,65.217
+Football,2021,-,College of Idaho,0,0,0,2,80,-,65.217
+Football,2021,-,Towson,0,0,0,2,80,-,65.217
+Football,2021,-,Charleston Southern,0,0,0,2,80,$10.7K,65.217
+Football,2021,-,UT Martin,0,0,0,2,80,-,65.217
+Football,2021,-,North Alabama,0,0,0,2,80,-,65.217
+Football,2021,-,Sacred Heart,0,0,0,2,80,-,65.217
+Football,2021,-,Pittsburg State,0,0,0,2,80,-,65.217
+Football,2021,-,Marist,0,0,0,2,80,-,65.217
+Football,2021,-,Maine,0,0,0,2,80,-,65.217
+Football,2021,-,Mercer,0,0,0,2,80,-,65.217
+Football,2021,-,Portland State,0,0,0,2,80,-,65.217
+Football,2021,-,Richmond,0,0,0,2,80,-,65.217
+Football,2021,-,Western New Mexico,0,0,0,2,80,-,65.217
+Football,2021,-,Whitworth,0,0,0,2,80,-,65.217
+Football,2021,-,Youngstown State,0,0,0,2,80,-,65.217
+Football,2021,-,Arizona Christian,0,0,0,2,80,-,65.217
+Football,2021,-,Arkansas-Pine Bluff,0,0,0,2,80,-,65.217
+Football,2021,-,Albany,0,0,0,2,80,-,65.217
+Football,2021,-,Alabama A&M,0,0,0,2,80,-,65.217
+Football,2021,-,East Tennessee State,0,0,0,2,80,-,65.217
+Football,2021,-,Henderson State,0,0,0,1,80,-,61.821
+Football,2021,-,Hillsdale College,0,0,0,1,80,-,61.821
+Football,2021,-,Presbyterian,0,0,0,1,80,-,61.821
+Football,2021,-,Jacksonville State,0,0,0,1,80,-,61.821
+Football,2021,-,Robert Morris,0,0,0,1,80,-,61.821
+Football,2021,-,Western Colorado,0,0,0,1,80,-,61.821
+Football,2021,-,Western Illinois,0,0,0,1,80,-,61.821
+Football,2021,-,Wingate,0,0,0,1,80,-,61.821
+Football,2021,-,Arkansas-Monticello,0,0,0,1,80,-,61.821
+Football,2021,-,Azusa Pacific,0,0,0,1,80,-,61.821
+Football,2021,-,Augustana,0,0,0,1,80,-,61.821
+Football,2021,-,Wayne State,0,0,0,1,80,-,61.821
+Football,2021,-,Nicholls State,0,0,0,1,80,-,61.821
+Football,2021,-,Southeastern Louisiana,0,0,0,1,80,-,61.821
+Football,2021,-,Newberry,0,0,0,1,80,-,61.821
+Football,2021,-,New Mexico Highlands,0,0,0,1,80,-,61.821
+Football,2021,-,Morehead State,0,0,0,1,80,-,61.821
+Football,2021,-,Southeast Missouri State,0,0,0,1,80,-,61.821
+Football,2021,-,Missouri Southern State,0,0,0,1,80,-,61.821
+Football,2021,-,Grove City College,0,0,0,1,80,-,61.821
+Football,2021,-,Fort Lewis College,0,0,0,1,80,-,61.821
+Football,2021,-,Walsh,0,0,0,1,80,$6.2K,61.821
+Football,2021,-,Shorter,0,0,0,1,80,-,61.821
+Football,2021,-,Valley City State University,0,0,0,1,80,-,61.821
+Football,2021,-,Butler,0,0,0,1,80,-,61.821
+Football,2021,-,Bethune-Cookman,0,0,0,1,80,-,61.821
+Football,2021,-,East Texas A&M Commerce,0,0,0,1,80,-,61.821
+Football,2021,-,Tiffin University,0,0,0,1,80,-,61.821
+Football,2021,-,Tusculum University,0,0,0,1,80,-,61.821
+Football,2021,-,Central Missouri State,0,0,0,1,80,-,61.821
+Football,2021,-,Indiana Wesleyan University,0,0,0,1,80,-,61.821
+Football,2021,-,Gannon University,0,0,0,1,80,-,61.821
+Football,2021,-,Pace University,0,0,0,1,80,-,61.821
+Football,2021,-,Southern University,0,0,0,1,80,-,61.821
+Football,2021,-,Lehigh,0,0,0,1,80,-,61.821
+Football,2021,-,Lindenwood University,0,0,0,1,80,-,61.821
+Football,2021,-,East Stroudsburg,0,0,0,1,80,-,61.821
+Football,2021,-,Dayton,0,0,0,1,80,-,61.821
+Football,2021,-,Dakota State University,0,0,0,1,80,-,61.821
+Football,2021,-,Davenport,0,0,0,1,80,-,61.821
+Football,2021,-,Dickinson State University,0,0,0,1,80,-,61.821
+Football,2021,-,Eastern Oregon University,0,0,0,1,80,-,61.821
+Football,2021,-,Delaware State,0,0,0,1,80,-,61.821
+Football,2021,-,Saint Francis (PA),0,0,0,1,80,-,61.821
+Football,2021,-,Northwestern State,0,0,0,1,80,-,61.821
+Football,2021,-,Tarleton State,0,0,0,1,80,-,61.821
+Football,2021,-,Stonehill College,0,0,0,1,80,-,61.821
+Football,2021,-,Stony Brook,0,0,0,1,80,-,61.821
+Football,2021,-,Michigan Tech,0,0,0,1,80,-,61.821
+Football,2021,-,St. Thomas,0,0,0,1,80,-,61.821
+Football,2021,-,Southwest Minnesota State,0,0,0,1,80,-,61.821
+Football,2021,-,Marian,0,0,0,1,80,-,61.821
+Football,2021,-,Stetson,0,0,0,1,80,-,61.821
+Football,2021,-,Slippery Rock,0,0,0,1,80,-,61.821
+Basketball,2026,1,Duke,3,1,0,4,96.69,$1.1M,98.315
+Basketball,2026,2,Arkansas,1,2,0,3,97.85,$914K,97.852
+Basketball,2026,3,USC,1,2,0,3,97.8,$951K,97.797
+Basketball,2026,4,Arizona,1,1,0,2,97.17,$835K,96.349
+Basketball,2026,5,Alabama,0,3,0,3,95.91,$344K,95.906
+Basketball,2026,6,Michigan State,0,4,0,4,95.1,$235K,95.884
+Basketball,2026,7,Missouri,1,2,0,3,95.62,$553K,95.62
+Basketball,2026,8,Houston,0,2,0,2,96.41,$479K,95.589
+Basketball,2026,9,Connecticut,0,2,0,2,96.14,$355K,95.321
+Basketball,2026,10,Maryland,1,2,1,4,93.36,$578K,94.885
+Basketball,2026,11,Kansas,0,4,0,4,93.8,$292K,94.67
+Basketball,2026,12,Texas,0,3,0,4,90.97,$474K,94.624
+Basketball,2026,13,Miami,1,0,0,1,98.21,$872K,94.442
+Basketball,2026,14,Michigan,0,3,1,5,90.28,$83K,94.338
+Basketball,2026,15,Pittsburgh,0,3,0,3,94.12,$300K,94.118
+Basketball,2026,16,Purdue,0,3,2,5,92.12,$94K,94.1
+Basketball,2026,17,Ohio State,1,1,0,2,94.87,$1.1M,94.056
+Basketball,2026,18,Oklahoma State,0,3,0,3,93.76,$258K,93.764
+Basketball,2026,19,Indiana,0,3,0,3,93.23,$114K,93.23
+Basketball,2026,20,Florida State,0,4,0,4,92.8,$58K,93.219
+Basketball,2026,21,Mississippi State,0,3,0,3,92.7,-,92.699
+Basketball,2026,22,Vanderbilt,0,3,0,3,92.66,-,92.664
+Basketball,2026,23,Texas A&M,0,2,0,2,93.06,-,92.246
+Basketball,2026,24,Oregon,0,1,1,2,92.9,$392K,92.078
+Basketball,2026,25,Baylor,0,1,0,1,95.78,$333K,92.012
+Basketball,2026,26,VCU,0,2,0,2,92.82,$7.2K,92
+Basketball,2026,27,Stanford,0,2,2,4,91.58,$7.5K,91.987
+Basketball,2026,28,West Virginia,0,1,2,3,91.97,$201K,91.971
+Basketball,2026,29,North Carolina,1,1,1,3,91.94,$894K,91.935
+Basketball,2026,30,Wake Forest,0,2,0,2,92.66,$6.9K,91.84
+Basketball,2026,31,Texas Tech,0,1,0,1,95.61,$299K,91.839
+Basketball,2026,32,BYU,1,1,1,4,88.87,$522K,91.829
+Basketball,2026,33,Georgetown,0,1,1,2,92.57,$215K,91.755
+Basketball,2026,34,LSU,0,2,1,3,91.52,-,91.523
+Basketball,2026,35,NC State,0,1,1,2,92.29,$59K,91.471
+Basketball,2026,36,Nebraska,0,2,0,2,92.27,$7.2K,91.456
+Basketball,2026,37,Iowa State,0,2,2,4,90,-,90.653
+Basketball,2026,38,Tennessee,0,1,2,3,90.62,$109K,90.623
+Basketball,2026,39,Villanova,0,1,0,1,94.09,$110K,90.316
+Basketball,2026,40,UCF,0,1,1,2,90.96,-,90.141
+Basketball,2026,41,Northwestern,0,1,1,2,90.78,$7.7K,89.958
+Basketball,2026,42,South Carolina,0,1,0,1,93.23,$40K,89.461
+Basketball,2026,43,Oklahoma,0,1,0,1,92.96,-,89.195
+Basketball,2026,44,Illinois,0,1,2,3,89.08,$227K,89.082
+Basketball,2026,45,Creighton,0,1,1,2,89.89,-,89.072
+Basketball,2026,46,UCLA,0,1,1,2,89.85,$127K,89.032
+Basketball,2026,47,Gonzaga,0,2,0,3,89.02,$83K,89.019
+Basketball,2026,48,Florida Atlantic,0,1,0,1,92.74,$18.3K,88.973
+Basketball,2026,49,Ole Miss,0,0,2,2,89.49,-,88.676
+Basketball,2026,50,Notre Dame,0,1,2,3,88.56,-,88.557
+Basketball,2026,51,Dayton,0,1,1,2,89.31,-,88.495
+Basketball,2026,52,San Francisco,0,0,2,2,89.3,-,88.482
+Basketball,2026,53,Iowa,0,1,0,1,91.82,-,88.05
+Basketball,2026,54,Minnesota,0,0,3,3,87.21,-,87.213
+Basketball,2026,55,High Point,0,0,1,1,90.4,-,86.634
+Basketball,2026,56,Rhode Island,0,0,1,1,90.38,-,86.61
+Basketball,2026,57,Seton Hall,0,0,1,1,90.32,-,86.549
+Basketball,2026,58,Louisiana,0,0,1,1,90.31,-,86.545
+Basketball,2026,59,Georgia Tech,0,0,1,1,90.3,$10.1K,86.532
+Basketball,2026,60,Saint Louis,0,0,1,1,90.29,$48K,86.516
+Basketball,2026,61,Xavier,0,1,1,3,86.42,-,86.424
+Basketball,2026,62,Clemson,0,0,2,3,86.41,-,86.405
+Basketball,2026,63,Loyola Chicago,0,0,2,2,87.22,-,86.402
+Basketball,2026,64,Marquette,0,1,1,3,86.34,$7.2K,86.344
+Basketball,2026,65,SMU,0,0,1,1,89.94,-,86.17
+Basketball,2026,66,Siena,0,0,1,1,89.81,-,86.038
+Basketball,2026,67,George Mason,0,1,1,2,86.79,$7.6K,85.974
+Basketball,2026,68,Liberty,0,1,2,3,85.86,-,85.856
+Basketball,2026,69,Memphis,0,0,1,1,89.47,$13.1K,85.697
+Basketball,2026,70,Western Kentucky,0,0,2,2,86.5,$8.4K,85.682
+Basketball,2026,71,Nevada,0,0,2,2,86.49,$7.2K,85.669
+Basketball,2026,72,UTEP,0,0,2,2,86.41,$6.8K,85.588
+Basketball,2026,73,DePaul,0,0,3,3,85.26,$7.2K,85.256
+Basketball,2026,74,Drake,0,0,2,2,86.07,$7.5K,85.248
+Basketball,2026,75,UNC Greensboro,0,0,1,1,88.9,-,85.13
+Basketball,2026,76,Rutgers,0,0,1,1,88.8,-,85.03
+Basketball,2026,77,Pacific,0,0,1,1,88.8,-,85.03
+Basketball,2026,78,UTSA,0,0,1,1,88.67,-,84.897
+Basketball,2026,79,Penn State,0,0,1,1,88.47,-,84.697
+Basketball,2026,80,Kent State,0,0,1,1,88.47,$6.7K,84.697
+Basketball,2026,81,Fordham,0,0,1,1,88.47,-,84.697
+Basketball,2026,82,Utah,0,0,2,2,85.5,-,84.682
+Basketball,2026,83,Towson,0,0,1,1,88.23,-,84.464
+Basketball,2026,84,San Jose State,0,0,1,1,88.13,-,84.364
+Basketball,2026,85,Harvard,0,0,1,2,85.16,-,84.343
+Basketball,2026,86,Sacramento State,0,0,1,1,87.9,-,84.13
+Basketball,2026,87,Denver,0,0,2,2,84.9,$7.4K,84.082
+Basketball,2026,88,North Texas,0,0,1,2,84.73,$19.8K,83.915
+Basketball,2026,89,Saint Mary's,0,0,1,1,87.41,-,83.636
+Basketball,2026,90,Colorado,0,0,1,1,87.4,-,83.629
+Basketball,2026,91,Colorado State,0,0,2,3,83.51,-,83.512
+Basketball,2026,92,Indiana State,0,0,1,1,86.9,-,83.13
+Basketball,2026,93,Austin Peay,0,0,2,3,83,-,83
+Basketball,2026,94,Louisiana Tech,0,0,2,6,81.44,$8.3K,82.889
+Basketball,2026,95,Stetson,0,0,1,1,86.57,-,82.797
+Basketball,2026,96,East Carolina,0,0,1,1,86.49,-,82.723
+Basketball,2026,97,Oregon State,0,0,1,1,86.45,-,82.685
+Basketball,2026,98,Arkansas State,0,0,2,2,83.5,-,82.682
+Basketball,2026,99,Northern Iowa,0,0,2,2,83.5,-,82.682
+Basketball,2026,100,Florida,0,0,1,1,86.28,-,82.512
+Basketball,2026,101,Texas State,0,0,1,1,86.23,$9.9K,82.464
+Basketball,2026,102,Hofstra,0,0,1,1,86,-,82.23
+Basketball,2026,103,UT Arlington,0,0,1,1,85.9,$7.4K,82.13
+Basketball,2026,104,Tulane,0,0,1,1,85.8,-,82.03
+Basketball,2026,105,Long Beach State,0,0,1,1,85.7,-,81.93
+Basketball,2026,106,California,0,0,1,1,85.67,-,81.897
+Basketball,2026,107,Wisconsin,0,0,1,2,82.67,-,81.848
+Basketball,2026,108,Boise State,0,0,1,1,85.54,-,81.772
+Basketball,2026,109,Kennesaw State,0,0,2,2,82.5,-,81.682
+Basketball,2026,110,Auburn,0,0,1,1,85.33,-,81.564
+Basketball,2026,111,Princeton,0,0,1,2,82.28,-,81.465
+Basketball,2026,112,Oral Roberts,0,0,1,1,85.23,-,81.464
+Basketball,2026,113,Temple,0,0,1,1,85,-,81.23
+Basketball,2026,114,UIC,0,0,1,1,84.67,-,80.897
+Basketball,2026,115,San Diego State,0,0,1,1,84.67,-,80.897
+Basketball,2026,116,Western Michigan,0,0,1,1,84.33,-,80.564
+Basketball,2026,117,Saint Joseph's,0,0,1,1,84.33,-,80.564
+Basketball,2026,118,South Dakota,0,0,1,1,84.33,-,80.564
+Basketball,2026,119,Valparaiso,0,0,1,1,84.33,-,80.564
+Basketball,2026,120,Richmond,0,0,1,1,84,-,80.23
+Basketball,2026,121,Murray State,0,0,1,1,84,-,80.23
+Basketball,2026,122,Tulsa,0,0,1,1,84,-,80.23
+Basketball,2026,123,New Mexico State,0,0,1,1,83.33,-,79.564
+Basketball,2026,124,Lipscomb,0,0,1,1,83,-,79.23
+Basketball,2026,125,Utah State,0,0,1,1,83,-,79.23
+Basketball,2026,126,Southern Illinois,0,0,0,2,80,-,79.182
+Basketball,2026,127,Nebraska-Omaha,0,0,0,2,80,-,79.182
+Basketball,2026,128,Akron,0,0,1,1,82.67,-,78.897
+Basketball,2026,129,Massachusetts,0,0,1,1,82.33,-,78.564
+Basketball,2026,130,UMBC,0,0,1,1,82,-,78.23
+Basketball,2026,131,Albany,0,0,0,1,80,-,76.23
+Basketball,2026,132,Alcorn State,0,0,0,1,80,-,76.23
+Basketball,2026,133,Wichita State,0,0,0,1,80,-,76.23
+Basketball,2026,134,Western Carolina,0,0,0,1,80,-,76.23
+Basketball,2026,135,Wyoming,0,0,0,1,80,-,76.23
+Basketball,2026,136,Pennsylvania,0,0,0,1,80,-,76.23
+Basketball,2026,137,Rice,0,0,0,1,80,-,76.23
+Basketball,2026,138,Pepperdine,0,0,0,1,80,-,76.23
+Basketball,2026,139,Samford,0,0,0,1,80,-,76.23
+Basketball,2026,140,Maine,0,0,0,1,80,-,76.23
+Basketball,2026,141,Stephen F. Austin,0,0,0,1,80,-,76.23
+Basketball,2026,142,Santa Clara,0,0,0,1,80,-,76.23
+Basketball,2026,143,Georgia Southern,0,0,0,1,80,-,76.23
+Basketball,2026,144,Washington State,0,0,0,1,80,-,76.23
+Basketball,2026,145,Canisius,0,0,0,1,80,-,76.23
+Basketball,2026,146,Belmont,0,0,0,1,80,-,76.23
+Basketball,2026,147,Texas A&M-Corpus Christi,0,0,0,1,80,-,76.23
+Basketball,2026,148,Toledo,0,0,0,1,80,-,76.23
+Basketball,2026,149,Le Moyne,0,0,0,1,80,-,76.23
+Basketball,2025,1,Duke,1,3,1,5,95.55,$1.5M,97.224
+Basketball,2025,2,Arizona,2,1,4,7,91.18,$1.1M,95.622
+Basketball,2025,3,Houston,2,1,1,4,95.46,$1.2M,95.464
+Basketball,2025,4,Arkansas,2,1,1,6,90.05,$708K,95.069
+Basketball,2025,5,USC,1,1,0,2,96.83,$634K,94.219
+Basketball,2025,6,Alabama,0,4,0,4,93.91,$188K,93.905
+Basketball,2025,7,Florida,0,2,0,2,96.14,$411K,93.528
+Basketball,2025,8,Tennessee,1,2,2,6,89.37,$345K,92.988
+Basketball,2025,9,Notre Dame,0,3,1,4,92.96,$645K,92.965
+Basketball,2025,10,SMU,0,3,2,5,92.35,$79K,92.945
+Basketball,2025,11,Connecticut,0,2,2,6,88.54,$413K,92.805
+Basketball,2025,12,Ole Miss,0,3,1,4,92.35,$156K,92.348
+Basketball,2025,13,Michigan State,0,2,0,2,94.66,$153K,92.048
+Basketball,2025,14,North Carolina,1,2,0,4,91.98,$699K,91.981
+Basketball,2025,15,Syracuse,0,2,2,5,89.55,$499K,91.943
+Basketball,2025,16,Kentucky,0,3,0,4,91.86,$507K,91.865
+Basketball,2025,17,Mississippi State,0,3,1,5,89.42,$12.1K,91.778
+Basketball,2025,18,Auburn,0,5,1,6,89.89,$63K,91.767
+Basketball,2025,19,Butler,0,4,0,4,91.5,$9.4K,91.504
+Basketball,2025,20,Washington,0,4,1,5,90.25,$53K,91.448
+Basketball,2025,21,Miami,0,3,1,7,86.51,$403K,91.389
+Basketball,2025,22,Providence,0,2,0,2,93.95,$156K,91.34
+Basketball,2025,23,Georgia,0,2,1,3,91.7,$223K,91.105
+Basketball,2025,24,BYU,1,1,1,4,90.95,$4.2M,90.949
+Basketball,2025,25,Marquette,0,2,3,5,90.21,$7.3K,90.865
+Basketball,2025,26,Kansas,1,0,3,6,86.97,$747K,90.451
+Basketball,2025,27,Georgia Tech,0,2,3,5,88.65,$9.2K,89.807
+Basketball,2025,28,Gonzaga,0,1,1,2,92.4,$151K,89.783
+Basketball,2025,29,LSU,0,3,0,4,89.34,$12.8K,89.344
+Basketball,2025,30,Rutgers,0,2,4,7,86.18,$10K,89.043
+Basketball,2025,31,Penn State,0,1,4,7,85.43,$175K,89.008
+Basketball,2025,32,Baylor,1,0,3,4,88.86,$430K,88.86
+Basketball,2025,33,Villanova,0,1,2,3,89.39,$169K,88.791
+Basketball,2025,34,Iowa State,0,2,1,4,88.75,$82K,88.75
+Basketball,2025,35,Michigan,0,2,1,4,88.7,$378K,88.702
+Basketball,2025,36,Clemson,0,1,2,3,89.29,$9.1K,88.688
+Basketball,2025,37,Missouri,0,2,0,2,90.95,$14K,88.342
+Basketball,2025,38,Louisville,1,0,2,5,86.53,$616K,88.164
+Basketball,2025,39,San Diego State,0,1,1,2,90.6,$11.1K,87.986
+Basketball,2025,40,Maryland,0,2,1,4,87.88,$277K,87.877
+Basketball,2025,41,Pacific,0,1,2,3,88.39,$8.6K,87.794
+Basketball,2025,42,Cincinnati,0,2,0,4,87.76,$286K,87.761
+Basketball,2025,43,Oklahoma,0,2,2,4,87.72,$11.7K,87.722
+Basketball,2025,44,Northwestern,0,0,5,5,87.12,$9.9K,87.689
+Basketball,2025,45,NC State,0,2,0,4,87.6,$474K,87.604
+Basketball,2025,46,VCU,0,1,1,2,90.09,$157K,87.477
+Basketball,2025,47,Oklahoma State,0,2,1,5,85.97,$12.8K,87.469
+Basketball,2025,48,TCU,0,2,0,2,90.08,$6.5K,87.464
+Basketball,2025,49,South Carolina,0,1,4,5,86.32,$171K,87.092
+Basketball,2025,50,Colorado,0,0,5,7,84.24,$37K,86.615
+Basketball,2025,51,Texas,0,1,1,3,86.83,$7.9K,86.236
+Basketball,2025,52,Virginia,0,1,1,4,86.13,$73K,86.129
+Basketball,2025,53,California,0,0,2,2,88.62,$11.3K,86.012
+Basketball,2025,54,Saint Mary's,0,1,1,2,88.56,$6.8K,85.948
+Basketball,2025,55,Arkansas-Little Rock,0,1,1,2,88.33,-,85.713
+Basketball,2025,56,Santa Clara,0,0,2,3,86.22,$12.6K,85.618
+Basketball,2025,57,Dayton,0,0,2,2,87.96,-,85.352
+Basketball,2025,58,Wisconsin,0,1,2,4,85.35,-,85.351
+Basketball,2025,59,Arizona State,0,2,1,8,82.67,-,85.344
+Basketball,2025,60,Boston College,0,0,3,4,85.29,$7.5K,85.293
+Basketball,2025,61,Ohio State,0,1,1,3,85.86,$125K,85.26
+Basketball,2025,62,Creighton,0,1,0,2,87.48,$200K,84.865
+Basketball,2025,63,Illinois,0,1,1,4,84.8,$1.5M,84.802
+Basketball,2025,64,Eastern Kentucky,0,1,0,1,91.45,$21K,84.764
+Basketball,2025,65,Texas Tech,0,0,3,3,85.19,-,84.588
+Basketball,2025,66,West Virginia,0,0,3,5,83.58,$9.1K,84.48
+Basketball,2025,67,Pittsburgh,0,0,3,5,83.5,-,84.374
+Basketball,2025,68,Iona,0,1,0,1,91.06,-,84.372
+Basketball,2025,69,Louisiana,0,1,0,3,84.85,-,84.255
+Basketball,2025,70,Wake Forest,0,0,2,3,84.64,$7.5K,84.042
+Basketball,2025,71,Utah State,0,0,2,6,82.64,$8.3K,83.956
+Basketball,2025,72,UTSA,0,0,2,2,86.52,$6.9K,83.91
+Basketball,2025,73,USF,0,0,3,4,83.9,-,83.904
+Basketball,2025,74,Kansas State,0,1,2,5,83.11,-,83.882
+Basketball,2025,75,Stanford,0,0,3,4,83.86,$1.2M,83.856
+Basketball,2025,76,UC Santa Barbara,0,0,2,2,86.3,-,83.688
+Basketball,2025,77,Indiana,0,1,0,3,84.21,$14.7K,83.617
+Basketball,2025,78,Vanderbilt,0,0,3,3,83.88,$16.9K,83.283
+Basketball,2025,79,Seton Hall,0,0,1,1,89.88,-,83.187
+Basketball,2025,80,DePaul,0,0,2,2,85.75,-,83.136
+Basketball,2025,81,Texas A&M,0,1,0,2,85.73,$7.6K,83.114
+Basketball,2025,82,Loyola Chicago,0,1,0,2,85.58,$8.2K,82.963
+Basketball,2025,83,St. John's,0,1,0,3,83.53,-,82.932
+Basketball,2025,84,Nebraska,0,0,2,2,85.54,$12.2K,82.926
+Basketball,2025,85,UT Arlington,0,0,2,2,85.51,$11.7K,82.9
+Basketball,2025,86,Iowa,0,0,1,3,83.48,$13.6K,82.878
+Basketball,2025,87,Virginia Tech,0,0,2,6,81.92,$17.5K,82.874
+Basketball,2025,88,George Mason,0,1,0,2,85.44,-,82.829
+Basketball,2025,89,James Madison,0,1,0,2,85.35,-,82.74
+Basketball,2025,90,Boise State,0,1,0,4,82.68,$8.7K,82.68
+Basketball,2025,91,San Diego,0,0,1,1,89.17,-,82.486
+Basketball,2025,92,Saint Louis,0,0,1,4,82.43,$8.5K,82.432
+Basketball,2025,93,Washington State,0,0,1,3,82.98,-,82.378
+Basketball,2025,94,Queens Charlotte,0,0,1,1,89.03,-,82.337
+Basketball,2025,95,Elon,0,0,1,1,88.9,$8.7K,82.211
+Basketball,2025,96,Davidson,0,0,1,1,88.85,-,82.163
+Basketball,2025,97,Utah,0,1,1,2,84.64,-,82.026
+Basketball,2025,98,Massachusetts,0,0,1,2,84.62,$7.6K,82.007
+Basketball,2025,99,Quinnipiac,0,0,1,2,84.53,$7.6K,81.913
+Basketball,2025,100,Florida State,0,0,1,4,81.73,$17.2K,81.731
+Basketball,2025,101,UNLV,0,0,2,2,84.29,-,81.674
+Basketball,2025,102,Temple,0,0,1,3,82.15,-,81.557
+Basketball,2025,103,Illinois State,0,0,2,3,82.08,-,81.486
+Basketball,2025,104,Jackson State,0,0,1,2,84.03,-,81.413
+Basketball,2025,105,Long Beach State,0,0,1,1,87.98,-,81.294
+Basketball,2025,106,Purdue,0,0,1,2,83.64,-,81.027
+Basketball,2025,107,George Washington,0,0,2,2,83.39,-,80.775
+Basketball,2025,108,UAB,0,0,1,2,83.34,-,80.728
+Basketball,2025,109,Oral Roberts,0,0,1,2,83.13,$35K,80.513
+Basketball,2025,110,Murray State,0,0,2,2,82.88,-,80.263
+Basketball,2025,111,Toledo,0,0,1,3,80.83,-,80.236
+Basketball,2025,112,Kennesaw State,0,0,1,2,82.76,-,80.15
+Basketball,2025,113,Oregon,0,0,1,3,80.67,-,80.069
+Basketball,2025,114,Fresno State,0,0,1,2,82.63,-,80.013
+Basketball,2025,115,San Jose State,0,0,1,1,86.5,-,79.811
+Basketball,2025,116,Florida Atlantic,0,0,1,1,86.34,-,79.654
+Basketball,2025,117,Northern Iowa,0,0,1,1,86.1,-,79.411
+Basketball,2025,118,Appalachian State,0,0,0,3,80,-,79.403
+Basketball,2025,119,Oregon State,0,0,0,3,80,-,79.403
+Basketball,2025,120,Tulsa,0,0,1,2,81.7,-,79.092
+Basketball,2025,121,Kent State,0,0,1,1,85.78,$6.9K,79.086
+Basketball,2025,122,Richmond,0,0,1,2,81.5,-,78.888
+Basketball,2025,123,Saint Joseph's,0,0,1,2,81.5,-,78.888
+Basketball,2025,124,Cal State Fullerton,0,0,1,2,81.5,-,78.888
+Basketball,2025,125,Lafayette,0,0,1,1,85.28,-,78.586
+Basketball,2025,126,Duquesne,0,0,1,1,85.28,-,78.586
+Basketball,2025,127,Arkansas-Pine Bluff,0,0,1,1,84.75,-,78.061
+Basketball,2025,128,UMKC,0,0,1,1,84.53,-,77.836
+Basketball,2025,129,Bradley,0,0,1,1,84.5,-,77.811
+Basketball,2025,130,Charleston,0,0,1,2,80.38,$2M,77.763
+Basketball,2025,131,Jacksonville,0,0,1,1,84.25,-,77.561
+Basketball,2025,132,Wyoming,0,0,0,2,80,-,77.388
+Basketball,2025,133,Rice,0,0,0,2,80,-,77.388
+Basketball,2025,134,Harvard,0,0,0,2,80,-,77.388
+Basketball,2025,135,Princeton,0,0,0,2,80,-,77.388
+Basketball,2025,136,Detroit Mercy,0,0,0,2,80,-,77.388
+Basketball,2025,137,Montana State,0,0,0,2,80,-,77.388
+Basketball,2025,138,Siena,0,0,0,2,80,$8K,77.388
+Basketball,2025,139,Georgia State,0,0,0,2,80,$795K,77.388
+Basketball,2025,140,Florida Gulf Coast,0,0,0,2,80,-,77.388
+Basketball,2025,141,Bowling Green,0,0,0,2,80,-,77.388
+Basketball,2025,142,Texas State,0,0,0,2,80,$8.6K,77.388
+Basketball,2025,143,UC San Diego,0,0,0,2,80,-,77.388
+Basketball,2025,144,Texas A&M-Corpus Christi,0,0,1,1,84.03,-,77.336
+Basketball,2025,145,Stetson,0,0,1,1,84,-,77.311
+Basketball,2025,146,Old Dominion,0,0,1,1,83.78,-,77.086
+Basketball,2025,147,Pepperdine,0,0,1,1,83.5,$10.3K,76.811
+Basketball,2025,148,Maine,0,0,1,1,83.28,$24K,76.586
+Basketball,2025,149,Minnesota,0,0,1,1,83.25,$12.5K,76.561
+Basketball,2025,150,Ball State,0,0,1,1,82.5,$1.2M,75.811
+Basketball,2025,151,Holy Cross,0,0,1,1,82.5,-,75.811
+Basketball,2025,152,Norfolk State,0,0,1,1,82.25,$8.1K,75.561
+Basketball,2025,153,New Hampshire,0,0,1,1,82.25,-,75.561
+Basketball,2025,154,Bellarmine,0,0,0,1,80,-,73.311
+Basketball,2025,155,Austin Peay,0,0,0,1,80,-,73.311
+Basketball,2025,156,American,0,0,0,1,80,-,73.311
+Basketball,2025,157,Wisconsin-Milwaukee,0,0,0,1,80,-,73.311
+Basketball,2025,158,Wichita State,0,0,0,1,80,-,73.311
+Basketball,2025,159,Wright State,0,0,0,1,80,-,73.311
+Basketball,2025,160,Western Michigan,0,0,0,1,80,-,73.311
+Basketball,2025,161,Western Kentucky,0,0,0,1,80,-,73.311
+Basketball,2025,162,Pennsylvania,0,0,0,1,80,-,73.311
+Basketball,2025,163,Jacksonville State,0,0,0,1,80,-,73.311
+Basketball,2025,164,Idaho,0,0,0,1,80,-,73.311
+Basketball,2025,165,UIC,0,0,0,1,80,-,73.311
+Basketball,2025,166,Sacramento State,0,0,0,1,80,-,73.311
+Basketball,2025,167,Rhode Island,0,0,0,1,80,-,73.311
+Basketball,2025,168,North Texas,0,0,0,1,80,-,73.311
+Basketball,2025,169,Northern Colorado,0,0,0,1,80,-,73.311
+Basketball,2025,170,Northern Arizona,0,0,0,1,80,-,73.311
+Basketball,2025,171,Louisiana Tech,0,0,0,1,80,-,73.311
+Basketball,2025,172,Lamar,0,0,0,1,80,-,73.311
+Basketball,2025,173,Loyola Maryland,0,0,0,1,80,$6.4K,73.311
+Basketball,2025,174,Longwood,0,0,0,1,80,-,73.311
+Basketball,2025,175,Liberty,0,0,0,1,80,-,73.311
+Basketball,2025,176,East Carolina,0,0,0,1,80,-,73.311
+Basketball,2025,177,Cornell,0,0,0,1,80,-,73.311
+Basketball,2025,178,East Tennessee State,0,0,0,1,80,-,73.311
+Basketball,2025,179,Denver,0,0,0,1,80,$7.2K,73.311
+Basketball,2025,180,Delaware,0,0,0,1,80,-,73.311
+Basketball,2025,181,Southern University,0,0,0,1,80,-,73.311
+Basketball,2025,182,Stephen F. Austin,0,0,0,1,80,-,73.311
+Basketball,2025,183,Sam Houston State,0,0,0,1,80,-,73.311
+Basketball,2025,184,Southern Illinois,0,0,0,1,80,-,73.311
+Basketball,2025,185,Merrimack,0,0,0,1,80,-,73.311
+Basketball,2025,186,St. Bonaventure,0,0,0,1,80,-,73.311
+Basketball,2025,187,Memphis,0,0,0,1,80,-,73.311
+Basketball,2025,188,North Alabama,0,0,0,1,80,-,73.311
+Basketball,2025,189,New Orleans,0,0,0,1,80,-,73.311
+Basketball,2025,190,New Mexico,0,0,0,1,80,-,73.311
+Basketball,2025,191,New Mexico State,0,0,0,1,80,-,73.311
+Basketball,2025,192,Monmouth,0,0,0,1,80,-,73.311
+Basketball,2025,193,Nevada,0,0,0,1,80,-,73.311
+Basketball,2025,194,Georgia Southern,0,0,0,1,80,-,73.311
+Basketball,2025,195,Furman,0,0,0,1,80,-,73.311
+Basketball,2025,196,Georgetown,0,0,0,1,80,-,73.311
+Basketball,2025,197,Bucknell,0,0,0,1,80,-,73.311
+Basketball,2025,198,UTEP,0,0,0,1,80,-,73.311
+Basketball,2025,199,Campbell,0,0,0,1,80,-,73.311
+Basketball,2025,200,Boston University,0,0,0,1,80,-,73.311
+Basketball,2025,201,Cal Poly,0,0,0,1,80,-,73.311
+Basketball,2025,202,Binghamton,0,0,0,1,80,-,73.311
+Basketball,2025,203,Belmont,0,0,0,1,80,-,73.311
+Basketball,2025,204,Brown,0,0,0,1,80,-,73.311
+Basketball,2025,205,Troy,0,0,0,1,80,-,73.311
+Basketball,2025,206,UTRGV,0,0,0,1,80,-,73.311
+Basketball,2025,207,UMBC,0,0,0,1,80,-,73.311
+Basketball,2025,208,UNC Asheville,0,0,0,1,80,-,73.311
+Basketball,2025,209,UC Irvine,0,0,0,1,80,-,73.311
+Basketball,2025,210,Chattanooga,0,0,0,1,80,-,73.311
+Basketball,2025,211,Tennessee Tech,0,0,0,1,80,-,73.311
+Basketball,2025,212,Colorado State,0,0,0,1,80,-,73.311
+Basketball,2025,213,UCF,0,0,0,1,80,-,73.311
+Basketball,2024,1,Duke,2,4,0,6,97.99,$28K,98.948
+Basketball,2024,2,Arkansas,0,3,1,4,94.68,$207K,97.417
+Basketball,2024,3,Alabama,0,4,0,4,96.85,$251K,97.36
+Basketball,2024,4,Baylor,1,2,0,4,92.9,$94K,97.198
+Basketball,2024,5,North Carolina,2,1,0,3,96.76,$64K,96.764
+Basketball,2024,6,Rutgers,2,1,2,5,93.16,$20K,96.762
+Basketball,2024,7,Arizona State,1,2,1,4,93.26,$512K,96.679
+Basketball,2024,8,Connecticut,1,2,0,3,96.45,$12.9K,96.445
+Basketball,2024,9,Kansas,0,3,0,3,95.92,$302K,95.923
+Basketball,2024,10,Syracuse,1,1,0,2,95.97,$5.2K,95.15
+Basketball,2024,11,Miami,1,1,1,5,89.04,$50K,95.06
+Basketball,2024,12,Georgia,1,1,2,4,91.85,$59K,94.969
+Basketball,2024,13,LSU,0,3,0,4,91.07,$25K,94.764
+Basketball,2024,14,Missouri,0,4,1,5,93.25,$7.9K,94.603
+Basketball,2024,15,Auburn,0,2,0,2,95.34,$81K,94.523
+Basketball,2024,16,Illinois,1,1,2,5,89.99,$2M,94.402
+Basketball,2024,17,Arizona,0,2,0,2,95.04,$6.1K,94.224
+Basketball,2024,18,USC,0,2,0,2,95,$30K,94.181
+Basketball,2024,19,Houston,0,2,0,2,94.72,$55K,93.9
+Basketball,2024,20,Indiana,0,1,0,1,97.63,$21K,93.863
+Basketball,2024,21,Cincinnati,0,2,0,2,94.58,$8.3K,93.762
+Basketball,2024,22,BYU,0,3,2,7,87.91,$14.7K,93.269
+Basketball,2024,23,Michigan State,0,2,1,3,93.06,$9.6K,93.065
+Basketball,2024,24,Georgia Tech,0,3,0,3,93.05,$9.9K,93.046
+Basketball,2024,25,Texas,1,1,1,3,92.96,$17.2K,92.959
+Basketball,2024,26,Creighton,0,2,1,3,92.89,-,92.887
+Basketball,2024,27,Louisville,0,1,0,1,96.55,$13.6K,92.785
+Basketball,2024,28,UCLA,0,1,1,2,93.16,$11K,92.34
+Basketball,2024,29,Georgetown,0,2,3,6,87.77,$8.4K,92.31
+Basketball,2024,30,Maryland,0,1,1,2,92.75,$14.4K,91.937
+Basketball,2024,31,NC State,0,2,1,3,91.82,$134K,91.818
+Basketball,2024,32,Purdue,0,1,4,5,88.15,$9.5K,91.372
+Basketball,2024,33,Villanova,0,2,1,4,88.47,-,91.3
+Basketball,2024,34,Clemson,0,1,2,3,91.12,$10.4K,91.121
+Basketball,2024,35,Notre Dame,0,2,1,3,90.72,-,90.716
+Basketball,2024,36,Oklahoma,0,2,1,4,88.03,$15.3K,90.71
+Basketball,2024,37,TCU,0,2,2,4,89.34,$22K,90.682
+Basketball,2024,38,Iowa State,0,1,0,1,94.09,$9.8K,90.318
+Basketball,2024,39,Colorado,0,2,1,3,90.14,$5.3K,90.144
+Basketball,2024,40,Tennessee,0,1,0,1,93.82,$15.5K,90.046
+Basketball,2024,41,Kentucky,0,1,1,2,90.84,$16.8K,90.026
+Basketball,2024,42,Ole Miss,0,1,1,2,90.7,$10.2K,89.885
+Basketball,2024,43,South Carolina,0,1,1,2,90.63,$40K,89.813
+Basketball,2024,44,Michigan,0,1,3,4,88.14,$25K,89.6
+Basketball,2024,45,Texas A&M,0,2,1,4,87.17,$11.1K,89.554
+Basketball,2024,46,Washington,0,2,0,3,89.24,$12.8K,89.245
+Basketball,2024,47,Wake Forest,0,1,0,1,92.93,$264K,89.161
+Basketball,2024,48,Marquette,0,2,0,3,89.14,$7.8K,89.139
+Basketball,2024,49,Saint Mary's,0,1,2,4,86.76,$6.6K,89.014
+Basketball,2024,50,Iowa,0,1,1,2,89.56,$13.6K,88.744
+Basketball,2024,51,Grand Canyon,0,1,2,3,88.67,$10.8K,88.671
+Basketball,2024,52,St. John's,0,1,1,4,86.35,$7.8K,88.465
+Basketball,2024,53,Memphis,0,1,0,1,92.21,-,88.443
+Basketball,2024,54,Virginia,0,1,1,2,89.13,$8.9K,88.311
+Basketball,2024,55,Florida State,0,1,2,5,84.97,$231K,88.291
+Basketball,2024,56,Ohio State,0,1,1,3,88.29,$45K,88.286
+Basketball,2024,57,Virginia Tech,0,1,2,3,88.15,$11.4K,88.15
+Basketball,2024,58,Mississippi State,0,0,2,2,88.71,$6.3K,87.895
+Basketball,2024,59,Utah,0,1,2,4,85.88,$5.4K,87.838
+Basketball,2024,60,Pittsburgh,0,0,2,2,88.13,-,87.315
+Basketball,2024,61,San Francisco,0,1,0,1,91.04,-,87.267
+Basketball,2024,62,Seton Hall,0,0,2,2,88,$13.4K,87.182
+Basketball,2024,63,UNLV,0,0,2,2,87.92,-,87.105
+Basketball,2024,64,Oregon,0,1,0,2,87.63,$26K,86.809
+Basketball,2024,65,UCF,0,1,0,2,87.52,$133K,86.698
+Basketball,2024,66,Kansas State,0,1,0,2,87.51,$15.9K,86.695
+Basketball,2024,67,Penn State,0,1,3,4,85.76,$11.5K,86.68
+Basketball,2024,68,UC Santa Barbara,0,1,1,2,87.46,$29K,86.641
+Basketball,2024,69,Murray State,0,0,2,2,87.07,$8.3K,86.256
+Basketball,2024,70,San Diego State,0,1,1,3,86.11,-,86.113
+Basketball,2024,71,Nebraska,0,0,2,2,86.91,$9.9K,86.093
+Basketball,2024,72,Wisconsin,0,1,1,3,86,$20K,85.996
+Basketball,2024,73,Wisconsin-Green Bay,0,0,1,1,89.41,$11.6K,85.635
+Basketball,2024,74,Providence,0,1,1,3,85.28,$8.8K,85.275
+Basketball,2024,75,Tulsa,0,0,1,1,89.01,$13.6K,85.244
+Basketball,2024,76,Ohio,0,0,2,2,86,$884K,85.182
+Basketball,2024,77,East Carolina,0,0,1,1,88.94,-,85.17
+Basketball,2024,78,Utah State,0,0,1,1,88.94,$6.1K,85.167
+Basketball,2024,79,USF,0,0,2,2,85.91,-,85.09
+Basketball,2024,80,Arkansas State,0,0,2,3,85.07,$5.4K,85.069
+Basketball,2024,81,Tulane,0,1,0,2,85.62,$12.9K,84.805
+Basketball,2024,82,Wichita State,0,0,2,2,85.6,-,84.782
+Basketball,2024,83,Texas Tech,0,1,0,2,85.53,$13.4K,84.716
+Basketball,2024,84,Florida,0,1,1,4,83.49,$35K,84.659
+Basketball,2024,85,Portland,0,0,2,2,85.41,-,84.594
+Basketball,2024,86,Northwestern,0,0,2,2,85.33,$9.3K,84.511
+Basketball,2024,87,West Virginia,0,0,2,3,84.42,$12.4K,84.423
+Basketball,2024,88,Minnesota,0,0,2,2,85.12,$13.2K,84.306
+Basketball,2024,89,Saint Joseph's,0,0,1,1,88,$9.1K,84.23
+Basketball,2024,90,Harvard,0,1,0,3,84.06,$21K,84.059
+Basketball,2024,91,Boston College,0,0,3,3,84.06,-,84.058
+Basketball,2024,92,Boise State,0,0,2,4,82.99,$5.2K,83.992
+Basketball,2024,93,SMU,0,0,2,3,83.98,$7.3K,83.983
+Basketball,2024,94,Butler,0,0,2,2,84.72,$11.2K,83.898
+Basketball,2024,95,Fresno State,0,0,1,6,81.82,-,83.648
+Basketball,2024,96,Loyola Chicago,0,0,2,3,83.54,-,83.541
+Basketball,2024,97,VCU,0,0,1,4,82.57,$11.4K,83.427
+Basketball,2024,98,Georgia State,0,0,2,3,83.35,-,83.35
+Basketball,2024,99,Princeton,0,0,2,2,84.03,$9K,83.207
+Basketball,2024,100,Temple,0,0,2,3,83.18,$10.6K,83.183
+Basketball,2024,101,UIC,0,0,2,2,83.76,$5.5K,82.944
+Basketball,2024,102,Old Dominion,0,0,1,1,86.67,-,82.905
+Basketball,2024,103,Vanderbilt,0,0,2,2,83.48,$704K,82.659
+Basketball,2024,104,Marist,0,0,2,2,83.3,-,82.482
+Basketball,2024,105,Iona,0,0,1,1,86.25,$51K,82.48
+Basketball,2024,106,Stanford,0,0,2,4,81.81,-,82.417
+Basketball,2024,107,East Tennessee State,0,0,1,2,83.21,-,82.393
+Basketball,2024,108,Wisconsin-Milwaukee,0,0,1,1,85.92,-,82.155
+Basketball,2024,109,Massachusetts,0,0,1,3,81.99,$5.8K,81.988
+Basketball,2024,110,New Mexico,0,0,1,3,81.95,-,81.95
+Basketball,2024,111,Northern Illinois,0,0,1,1,85.67,-,81.905
+Basketball,2024,112,Fordham,0,0,1,1,85.67,-,81.905
+Basketball,2024,113,George Washington,0,0,1,1,85.53,-,81.755
+Basketball,2024,114,Rollins College,0,0,1,1,85.5,-,81.73
+Basketball,2024,115,Louisiana Tech,0,0,2,3,81.59,-,81.592
+Basketball,2024,116,DePaul,0,0,1,2,82.4,-,81.582
+Basketball,2024,117,Tarleton State,0,0,1,2,82.3,$6.8K,81.482
+Basketball,2024,118,Georgia Southern,0,0,1,1,85.05,$7.8K,81.28
+Basketball,2024,119,Hampton,0,0,1,1,85.03,-,81.255
+Basketball,2024,120,Saint Louis,0,0,1,3,81.09,$6.9K,81.092
+Basketball,2024,121,Oregon State,0,0,1,5,80.65,-,81.083
+Basketball,2024,122,Washington State,0,0,1,4,80.81,-,81.083
+Basketball,2024,123,New Hampshire,0,0,1,1,84.8,-,81.03
+Basketball,2024,124,Louisiana,0,0,1,1,84.75,-,80.98
+Basketball,2024,125,Samford,0,0,1,1,84.75,$7.3K,80.98
+Basketball,2024,126,Maryland Eastern Shore,0,0,1,1,84.75,-,80.98
+Basketball,2024,127,Incarnate Word,0,0,1,1,84.55,$40K,80.78
+Basketball,2024,128,Brown,0,0,1,1,84.42,-,80.655
+Basketball,2024,129,Texas A&M-Corpus Christi,0,0,1,2,81.13,-,80.307
+Basketball,2024,130,California,0,0,1,1,84,$15.8K,80.23
+Basketball,2024,131,Drake,0,0,0,3,80,-,80
+Basketball,2024,132,Colorado State,0,0,0,4,80,-,80
+Basketball,2024,133,Richmond,0,0,1,2,80.63,-,79.807
+Basketball,2024,134,South Dakota State,0,0,1,2,80.63,-,79.807
+Basketball,2024,135,George Mason,0,0,1,2,80.63,$8.6K,79.807
+Basketball,2024,136,UMKC,0,0,1,1,83.5,-,79.73
+Basketball,2024,137,UT Arlington,0,0,1,1,83.33,-,79.555
+Basketball,2024,138,Manhattan,0,0,1,1,83.3,-,79.53
+Basketball,2024,139,High Point,0,0,1,1,83.25,-,79.48
+Basketball,2024,140,Akron,0,0,1,1,83.05,-,79.28
+Basketball,2024,141,Air Force,0,0,0,2,80,-,79.182
+Basketball,2024,142,Western Kentucky,0,0,0,2,80,-,79.182
+Basketball,2024,143,Wyoming,0,0,0,2,80,-,79.182
+Basketball,2024,144,Professional,0,0,0,2,80,$8.5K,79.182
+Basketball,2024,145,North Texas,0,0,0,2,80,-,79.182
+Basketball,2024,146,Oral Roberts,0,0,0,2,80,-,79.182
+Basketball,2024,147,Lamar,0,0,0,2,80,-,79.182
+Basketball,2024,148,San Jose State,0,0,0,2,80,$8.5K,79.182
+Basketball,2024,149,Florida Atlantic,0,0,0,2,80,-,79.182
+Basketball,2024,150,UTEP,0,0,0,2,80,$54K,79.182
+Basketball,2024,151,Cal State Northridge,0,0,0,2,80,-,79.182
+Basketball,2024,152,UAB,0,0,0,2,80,-,79.182
+Basketball,2024,153,Kennesaw State,0,0,1,1,82.5,$16K,78.73
+Basketball,2024,154,Miami (OH),0,0,1,1,82.5,$50K,78.73
+Basketball,2024,155,Chicago State,0,0,1,1,82,-,78.23
+Basketball,2024,156,South Carolina State,0,0,1,1,81.5,-,77.73
+Basketball,2024,157,Appalachian State,0,0,0,1,80,-,76.23
+Basketball,2024,158,Wofford,0,0,0,1,80,-,76.23
+Basketball,2024,159,Western Carolina,0,0,0,1,80,-,76.23
+Basketball,2024,160,Yale,0,0,0,1,80,-,76.23
+Basketball,2024,161,Illinois State,0,0,0,1,80,-,76.23
+Basketball,2024,162,James Madison,0,0,0,1,80,-,76.23
+Basketball,2024,163,Holy Cross,0,0,0,1,80,-,76.23
+Basketball,2024,164,Rider,0,0,0,1,80,-,76.23
+Basketball,2024,165,Hawaii,0,0,0,1,80,-,76.23
+Basketball,2024,166,Jacksonville,0,0,0,1,80,$9.2K,76.23
+Basketball,2024,167,North Florida,0,0,0,1,80,$12.8K,76.23
+Basketball,2024,168,Loyola Marymount,0,0,0,1,80,-,76.23
+Basketball,2024,169,Lincoln Memorial,0,0,0,1,80,$14.3K,76.23
+Basketball,2024,170,Lindenwood,0,0,0,1,80,-,76.23
+Basketball,2024,171,Elon,0,0,0,1,80,-,76.23
+Basketball,2024,172,Davidson,0,0,0,1,80,-,76.23
+Basketball,2024,173,Dayton,0,0,0,1,80,$6.8K,76.23
+Basketball,2024,174,Denver,0,0,0,1,80,-,76.23
+Basketball,2024,175,McNeese State,0,0,0,1,80,-,76.23
+Basketball,2024,176,Southern Miss,0,0,0,1,80,-,76.23
+Basketball,2024,177,Sam Houston State,0,0,0,1,80,-,76.23
+Basketball,2024,178,St. Bonaventure,0,0,0,1,80,-,76.23
+Basketball,2024,179,Marshall,0,0,0,1,80,-,76.23
+Basketball,2024,180,SC Upstate,0,0,0,1,80,$784K,76.23
+Basketball,2024,181,SIU Edwardsville,0,0,0,1,80,-,76.23
+Basketball,2024,182,New Mexico State,0,0,0,1,80,-,76.23
+Basketball,2024,183,Gonzaga,0,0,0,1,80,-,76.23
+Basketball,2024,184,FIU,0,0,0,1,80,-,76.23
+Basketball,2024,185,Florida Gulf Coast,0,0,0,1,80,-,76.23
+Basketball,2024,186,Weber State,0,0,0,1,80,-,76.23
+Basketball,2024,187,Troy,0,0,0,1,80,-,76.23
+Basketball,2024,188,Cleveland State,0,0,0,1,80,$7.2K,76.23
+Basketball,2024,189,Columbia,0,0,0,1,80,-,76.23
+Basketball,2024,190,Colgate,0,0,0,1,80,-,76.23
+Basketball,2024,191,NJIT,0,0,0,1,80,-,76.23
+Basketball,2023,1,Kentucky,3,2,2,8,93.2,$50K,99.288
+Basketball,2023,2,Duke,1,3,0,4,97.92,$26K,98.073
+Basketball,2023,3,Oregon,0,3,0,4,92.93,$28K,97.234
+Basketball,2023,4,USC,1,3,0,4,95.93,$15.8K,97.175
+Basketball,2023,5,Michigan State,1,3,0,4,96.09,$257K,96.95
+Basketball,2023,6,Baylor,1,2,0,3,96.94,$14.7K,96.944
+Basketball,2023,7,Connecticut,1,3,1,5,94.71,$13K,96.404
+Basketball,2023,8,Louisville,0,5,0,6,92.27,$12.6K,95.841
+Basketball,2023,9,Ohio State,0,3,1,5,90.75,$15.3K,95.781
+Basketball,2023,10,North Carolina,1,1,0,2,96.48,$111K,95.658
+Basketball,2023,11,Iowa State,1,2,2,5,92.75,$262K,95.408
+Basketball,2023,12,Arkansas,0,2,0,2,96.2,$17.8K,95.382
+Basketball,2023,13,Alabama,0,4,0,4,94.15,$14.4K,94.741
+Basketball,2023,14,Kansas,0,3,1,4,93.64,$31K,94.739
+Basketball,2023,15,Indiana,1,2,0,3,94.1,$82K,94.099
+Basketball,2023,16,Oklahoma State,0,2,3,5,91.19,$14.1K,94.046
+Basketball,2023,17,Georgia,0,3,1,4,92.82,$335K,93.932
+Basketball,2023,18,Maryland,0,2,2,4,91.49,$325K,93.872
+Basketball,2023,19,UCLA,0,3,1,6,88.61,$59K,93.855
+Basketball,2023,20,Professional,0,2,0,2,94.41,-,93.591
+Basketball,2023,21,Xavier,0,3,1,4,91.37,$167K,93.241
+Basketball,2023,22,Memphis,0,3,1,5,90.12,$796K,93.222
+Basketball,2023,23,Cincinnati,0,2,0,2,93.93,$42K,93.107
+Basketball,2023,24,Tennessee,0,2,1,3,93.1,$17.5K,93.103
+Basketball,2023,25,Kansas State,0,3,0,3,93.1,$41K,93.097
+Basketball,2023,26,Pittsburgh,0,3,1,4,90.85,$10.5K,93.04
+Basketball,2023,27,Virginia,0,2,2,4,90.1,$17.8K,92.712
+Basketball,2023,28,Colorado,1,0,3,4,89.99,$8.6K,92.398
+Basketball,2023,29,Houston,0,2,1,3,92.36,$19.8K,92.355
+Basketball,2023,30,Oklahoma,0,2,0,2,92.97,$11.9K,92.151
+Basketball,2023,31,Missouri,0,2,1,3,91.74,$8.2K,91.738
+Basketball,2023,32,Marquette,0,1,2,4,88.31,$9.3K,91.075
+Basketball,2023,33,Stanford,0,2,0,3,90.89,$329K,90.89
+Basketball,2023,34,Florida State,0,1,0,1,94.32,$19K,90.548
+Basketball,2023,35,Illinois,0,2,1,3,90.24,$19.4K,90.239
+Basketball,2023,36,Purdue,0,1,0,1,93.94,$9.4K,90.174
+Basketball,2023,37,New Mexico,0,0,2,2,90.94,$1.4M,90.126
+Basketball,2023,38,Notre Dame,0,1,3,4,89,$12.3K,90.03
+Basketball,2023,39,Iowa,0,1,3,4,88.98,$136K,89.892
+Basketball,2023,40,Wisconsin,0,2,1,3,89.5,$33K,89.503
+Basketball,2023,41,LSU,0,1,1,2,89.9,$11.7K,89.083
+Basketball,2023,42,Texas,0,1,1,2,89.79,$7.9K,88.972
+Basketball,2023,43,Georgetown,0,1,1,2,89.71,$8.6K,88.891
+Basketball,2023,44,Wake Forest,0,1,2,3,88.83,$10.3K,88.834
+Basketball,2023,45,NC State,0,1,0,1,92.55,$10.8K,88.777
+Basketball,2023,46,St. John's,0,1,1,3,88.5,$30K,88.497
+Basketball,2023,47,Washington,0,1,1,2,89.13,$25K,88.311
+Basketball,2023,48,Auburn,0,1,0,2,88.89,$247K,88.075
+Basketball,2023,49,Providence,0,1,1,4,86.02,$8.4K,88.023
+Basketball,2023,50,Ole Miss,0,1,2,3,87.86,$9.6K,87.856
+Basketball,2023,51,Michigan,0,1,0,1,91.29,$14.5K,87.524
+Basketball,2023,52,UNLV,0,1,1,4,85.6,$10.2K,87.468
+Basketball,2023,53,Mississippi State,0,2,2,5,84.85,$45K,87.161
+Basketball,2023,54,Gonzaga,0,1,0,2,87.82,$71K,86.998
+Basketball,2023,55,Vanderbilt,0,0,5,5,86.32,$13.6K,86.78
+Basketball,2023,56,Texas A&M,0,0,3,3,86.65,$368K,86.646
+Basketball,2023,57,Rice,0,0,2,2,87.4,$11.7K,86.579
+Basketball,2023,58,Miami,0,1,1,2,87.37,$15.8K,86.551
+Basketball,2023,59,Arizona State,0,0,2,3,86.4,$12.5K,86.396
+Basketball,2023,60,Rutgers,0,1,1,3,86.39,$11.5K,86.395
+Basketball,2023,61,Virginia Tech,0,0,2,2,86.96,$13.1K,86.146
+Basketball,2023,62,Seton Hall,0,1,1,2,86.73,$15.9K,85.916
+Basketball,2023,63,South Carolina,0,1,1,3,85.74,$12.1K,85.743
+Basketball,2023,64,Washington State,0,0,3,4,84.28,$254K,85.707
+Basketball,2023,65,TCU,0,1,1,3,85.7,$11.9K,85.696
+Basketball,2023,66,Nevada,0,0,2,3,85.45,$9.2K,85.454
+Basketball,2023,67,Boston College,0,0,4,4,84.52,$7K,85.357
+Basketball,2023,68,Cal State Northridge,0,0,1,1,89.07,$12.2K,85.298
+Basketball,2023,69,Minnesota,0,1,0,2,85.75,-,84.931
+Basketball,2023,70,Missouri State,0,0,1,1,88.58,$9.8K,84.813
+Basketball,2023,71,Charleston,0,0,2,2,85.44,$6.8K,84.624
+Basketball,2023,72,Dayton,0,0,3,3,84.6,$19.1K,84.605
+Basketball,2023,73,Arizona,0,1,0,4,83.38,$14.5K,84.509
+Basketball,2023,74,Saint Mary's,0,0,1,2,85.3,$6.7K,84.485
+Basketball,2023,75,California,0,0,2,3,84.42,-,84.418
+Basketball,2023,76,Butler,0,0,2,3,84.34,$8.2K,84.335
+Basketball,2023,77,San Diego,0,0,2,2,85.03,$8.3K,84.215
+Basketball,2023,78,Northwestern,0,0,3,3,84.08,$11.3K,84.083
+Basketball,2023,79,Saint Joseph's,0,0,3,3,84.05,$8.5K,84.05
+Basketball,2023,80,DePaul,0,0,2,4,82.99,$7.9K,83.99
+Basketball,2023,81,Texas Tech,0,0,1,2,84.79,$14K,83.974
+Basketball,2023,82,Massachusetts,0,0,3,6,81.9,$21K,83.808
+Basketball,2023,83,Georgia Tech,0,0,1,1,87.55,-,83.783
+Basketball,2023,84,North Carolina A&T,0,0,1,1,87.55,$10.7K,83.78
+Basketball,2023,85,Florida Gulf Coast,0,0,1,1,87.44,-,83.671
+Basketball,2023,86,Florida,0,0,2,3,83.63,$1.1M,83.633
+Basketball,2023,87,Tulsa,0,0,2,3,83.57,$7.4K,83.567
+Basketball,2023,88,USF,0,0,1,2,84.22,$6.4K,83.401
+Basketball,2023,89,Loyola Marymount,0,0,1,1,87.09,-,83.317
+Basketball,2023,90,George Washington,0,0,3,3,83.26,$8.3K,83.258
+Basketball,2023,91,George Mason,0,0,2,2,83.88,-,83.057
+Basketball,2023,92,Creighton,0,0,3,3,82.67,-,82.667
+Basketball,2023,93,Clemson,0,0,1,1,86.17,$5.9K,82.405
+Basketball,2023,94,Richmond,0,0,2,2,83.14,-,82.319
+Basketball,2023,95,Loyola Chicago,0,0,1,2,83.01,-,82.194
+Basketball,2023,96,San Diego State,0,0,1,3,82.14,$9.8K,82.139
+Basketball,2023,97,Boise State,0,0,1,3,82.12,$14.1K,82.117
+Basketball,2023,98,Toledo,0,0,1,3,82,$7.9K,82
+Basketball,2023,99,Pepperdine,0,0,1,3,82,$7.2K,81.998
+Basketball,2023,100,Murray State,0,0,1,2,82.76,$10K,81.944
+Basketball,2023,101,Cal State Fullerton,0,0,1,1,85.42,$8.1K,81.655
+Basketball,2023,102,UCF,0,0,1,1,85.3,-,81.53
+Basketball,2023,103,Georgia State,0,0,1,2,82.15,-,81.332
+Basketball,2023,104,Arkansas-Little Rock,0,0,1,2,82,$12.6K,81.182
+Basketball,2023,105,East Carolina,0,0,1,3,81.17,$10.9K,81.175
+Basketball,2023,106,Fordham,0,0,1,2,81.89,$8K,81.069
+Basketball,2023,107,Old Dominion,0,0,1,2,81.88,$678K,81.057
+Basketball,2023,108,Nebraska,0,0,1,2,81.88,$14.6K,81.057
+Basketball,2023,109,Georgia Southern,0,0,1,4,80.75,-,81
+Basketball,2023,110,Oregon State,0,0,1,2,81.75,-,80.932
+Basketball,2023,111,Princeton,0,0,1,3,80.83,-,80.833
+Basketball,2023,112,South Alabama,0,0,1,3,80.83,$5.9K,80.833
+Basketball,2023,113,Wyoming,0,0,1,2,81.63,$7.4K,80.807
+Basketball,2023,114,North Texas,0,0,1,2,81.63,$15.3K,80.807
+Basketball,2023,115,Santa Clara,0,0,1,2,81.63,$8.8K,80.807
+Basketball,2023,116,Saint Louis,0,0,1,2,81.63,-,80.807
+Basketball,2023,117,Northwestern State,0,0,1,1,84.58,-,80.805
+Basketball,2023,118,Evansville,0,0,1,1,84.55,-,80.78
+Basketball,2023,119,Texas State,0,0,1,3,80.75,$8.4K,80.75
+Basketball,2023,120,Ball State,0,0,1,2,81.51,-,80.694
+Basketball,2023,121,Rhode Island,0,0,1,2,81.5,-,80.682
+Basketball,2023,122,Davidson,0,0,1,1,84,$5.8K,80.23
+Basketball,2023,123,Appalachian State,0,0,0,3,80,-,80
+Basketball,2023,124,Air Force,0,0,0,4,80,-,80
+Basketball,2023,125,Portland,0,0,0,3,80,-,80
+Basketball,2023,126,McNeese State,0,0,0,3,80,-,80
+Basketball,2023,127,Miami (OH),0,0,0,5,80,$7.5K,80
+Basketball,2023,128,San Jose State,0,0,0,4,80,-,80
+Basketball,2023,129,Belmont,0,0,0,3,80,-,80
+Basketball,2023,130,Utah State,0,0,0,3,80,-,80
+Basketball,2023,131,UAB,0,0,0,5,80,$1M,80
+Basketball,2023,132,Troy,0,0,0,3,80,-,80
+Basketball,2023,133,Fairfield,0,0,1,1,83.67,-,79.905
+Basketball,2023,134,Yale,0,0,1,1,83.25,$1.9M,79.48
+Basketball,2023,135,Samford,0,0,1,1,83.17,-,79.405
+Basketball,2023,136,Southern Illinois,0,0,1,1,83,$7.9K,79.23
+Basketball,2023,137,James Madison,0,0,0,2,80,$14.8K,79.182
+Basketball,2023,138,Kent State,0,0,0,2,80,$8.7K,79.182
+Basketball,2023,139,Florida Atlantic,0,0,0,2,80,-,79.182
+Basketball,2023,140,UTSA,0,0,0,2,80,-,79.182
+Basketball,2023,141,UTEP,0,0,0,2,80,-,79.182
+Basketball,2023,142,Cal Baptist,0,0,0,2,80,-,79.182
+Basketball,2023,143,Utah,0,0,0,2,80,-,79.182
+Basketball,2023,144,Colorado State,0,0,0,2,80,-,79.182
+Basketball,2023,145,Temple,0,0,1,1,82.25,-,78.48
+Basketball,2023,146,Tulane,0,0,1,1,82.25,$7.6K,78.48
+Basketball,2023,147,Liberty,0,0,1,1,81.75,$8.1K,77.98
+Basketball,2023,148,Villanova,0,0,1,1,81.5,-,77.73
+Basketball,2023,149,Syracuse,0,0,1,1,81.25,-,77.48
+Basketball,2023,150,Mount St. Mary's,0,0,1,1,81.25,-,77.48
+Basketball,2023,151,Prairie View A&M,0,0,1,1,81,-,77.23
+Basketball,2023,152,Abilene Christian,0,0,0,1,80,-,76.23
+Basketball,2023,153,Akron,0,0,0,1,80,-,76.23
+Basketball,2023,154,Army,0,0,0,1,80,-,76.23
+Basketball,2023,155,Arkansas State,0,0,0,1,80,-,76.23
+Basketball,2023,156,Wofford,0,0,0,1,80,-,76.23
+Basketball,2023,157,Wisconsin-Green Bay,0,0,0,1,80,-,76.23
+Basketball,2023,158,Wichita State,0,0,0,1,80,-,76.23
+Basketball,2023,159,Western Michigan,0,0,0,1,80,-,76.23
+Basketball,2023,160,Western Kentucky,0,0,0,1,80,-,76.23
+Basketball,2023,161,West Virginia,0,0,0,1,80,-,76.23
+Basketball,2023,162,Pennsylvania,0,0,0,1,80,$7.5K,76.23
+Basketball,2023,163,Penn State,0,0,0,1,80,-,76.23
+Basketball,2023,164,Incarnate Word,0,0,0,1,80,-,76.23
+Basketball,2023,165,Idaho State,0,0,0,1,80,-,76.23
+Basketball,2023,166,Illinois State,0,0,0,1,80,-,76.23
+Basketball,2023,167,Holy Cross,0,0,0,1,80,-,76.23
+Basketball,2023,168,Harvard,0,0,0,1,80,$12.9K,76.23
+Basketball,2023,169,Quinnipiac,0,0,0,1,80,-,76.23
+Basketball,2023,170,Ohio,0,0,0,1,80,-,76.23
+Basketball,2023,171,Oral Roberts,0,0,0,1,80,-,76.23
+Basketball,2023,172,North Florida,0,0,0,1,80,-,76.23
+Basketball,2023,173,Kennesaw State,0,0,0,1,80,$12.3K,76.23
+Basketball,2023,174,Louisiana-Monroe,0,0,0,1,80,-,76.23
+Basketball,2023,175,Louisiana Tech,0,0,0,1,80,-,76.23
+Basketball,2023,176,Longwood,0,0,0,1,80,-,76.23
+Basketball,2023,177,Lipscomb,0,0,0,1,80,-,76.23
+Basketball,2023,178,Cornell,0,0,0,1,80,-,76.23
+Basketball,2023,179,Utah Tech,0,0,0,1,80,-,76.23
+Basketball,2023,180,Mercer,0,0,0,1,80,-,76.23
+Basketball,2023,181,Sam Houston State,0,0,0,1,80,-,76.23
+Basketball,2023,182,Saint Peter's,0,0,0,1,80,$10.6K,76.23
+Basketball,2023,183,San Francisco,0,0,0,1,80,-,76.23
+Basketball,2023,184,St. Bonaventure,0,0,0,1,80,-,76.23
+Basketball,2023,185,Middle Tennessee State,0,0,0,1,80,-,76.23
+Basketball,2023,186,Marshall,0,0,0,1,80,-,76.23
+Basketball,2023,187,New Orleans,0,0,0,1,80,-,76.23
+Basketball,2023,188,Southeastern Louisiana,0,0,0,1,80,-,76.23
+Basketball,2023,189,South Dakota,0,0,0,1,80,-,76.23
+Basketball,2023,190,Nebraska-Omaha,0,0,0,1,80,-,76.23
+Basketball,2023,191,Siena,0,0,0,1,80,-,76.23
+Basketball,2023,192,Niagara,0,0,0,1,80,-,76.23
+Basketball,2023,193,Morehead State,0,0,0,1,80,-,76.23
+Basketball,2023,194,Furman,0,0,0,1,80,-,76.23
+Basketball,2023,195,Gardner-Webb,0,0,0,1,80,-,76.23
+Basketball,2023,196,Fresno State,0,0,0,1,80,-,76.23
+Basketball,2023,197,Grand Canyon,0,0,0,1,80,$10.3K,76.23
+Basketball,2023,198,UT Arlington,0,0,0,1,80,-,76.23
+Basketball,2023,199,Bradley,0,0,0,1,80,-,76.23
+Basketball,2023,200,Cal Poly,0,0,0,1,80,-,76.23
+Basketball,2023,201,Buffalo,0,0,0,1,80,-,76.23
+Basketball,2023,202,Brown,0,0,0,1,80,-,76.23
+Basketball,2023,203,East Texas A&M,0,0,0,1,80,-,76.23
+Basketball,2023,204,UTRGV,0,0,0,1,80,-,76.23
+Basketball,2023,205,Charlotte,0,0,0,1,80,-,76.23
+Basketball,2023,206,UC Riverside,0,0,0,1,80,-,76.23
+Basketball,2022,1,Duke,3,3,1,7,96.6,$94K,99.039
+Basketball,2022,2,Kentucky,2,2,1,5,95.84,$21K,97.894
+Basketball,2022,3,Arkansas,2,2,2,6,95.02,$15.6K,97.299
+Basketball,2022,4,Kansas,1,3,0,4,97.09,$222K,97.085
+Basketball,2022,5,Alabama,1,4,0,6,92.92,$217K,96.397
+Basketball,2022,6,Villanova,1,2,0,3,96.02,-,95.42
+Basketball,2022,7,Tennessee,1,3,1,5,92.42,$27K,95.211
+Basketball,2022,8,USC,0,3,1,4,94.84,$15.5K,94.84
+Basketball,2022,9,Ohio State,0,4,1,5,92.15,$182K,94.74
+Basketball,2022,10,Michigan,0,4,0,5,91.71,$125K,94.633
+Basketball,2022,11,Auburn,0,3,0,3,95.15,$16.1K,94.556
+Basketball,2022,12,Illinois,0,4,0,5,91.54,$41K,94.424
+Basketball,2022,13,Virginia,0,4,0,4,94.12,$15.2K,94.119
+Basketball,2022,14,North Carolina,0,3,0,3,94.56,$23K,93.965
+Basketball,2022,15,Notre Dame,1,2,0,3,94.53,$11.6K,93.935
+Basketball,2022,16,Indiana,0,3,1,4,93.79,$47K,93.791
+Basketball,2022,17,Texas,2,1,1,4,93.67,$27K,93.67
+Basketball,2022,18,UCLA,2,1,0,4,93.1,$25K,93.101
+Basketball,2022,19,Syracuse,0,3,3,6,89.57,$145K,92.791
+Basketball,2022,20,Houston,1,1,1,3,92.68,$10K,92.084
+Basketball,2022,21,Baylor,1,0,1,2,94.58,-,91.97
+Basketball,2022,22,Xavier,0,2,0,2,94.21,$13.6K,91.596
+Basketball,2022,23,Texas Tech,0,3,1,4,91.51,$25K,91.509
+Basketball,2022,24,LSU,0,3,1,4,90.97,$36K,90.972
+Basketball,2022,25,Vanderbilt,0,3,2,5,89.38,$16.2K,90.498
+Basketball,2022,26,Ole Miss,0,2,2,4,90.43,$14K,90.428
+Basketball,2022,27,Florida State,0,2,4,6,88.02,$27K,90.206
+Basketball,2022,28,Virginia Tech,0,1,3,4,89.5,$129K,89.502
+Basketball,2022,29,Florida,0,1,1,2,91.98,$806K,89.37
+Basketball,2022,30,Miami,0,2,2,4,89.36,$12K,89.357
+Basketball,2022,31,Cincinnati,0,1,2,3,89.54,$20K,88.938
+Basketball,2022,32,VCU,0,2,0,2,91.4,$9.2K,88.784
+Basketball,2022,33,Michigan State,0,2,0,3,89.36,$58K,88.763
+Basketball,2022,34,Stanford,0,2,0,2,91.28,$10.9K,88.665
+Basketball,2022,35,Penn State,0,1,4,5,87.47,$13.1K,88.514
+Basketball,2022,36,South Carolina,1,0,2,3,89,$16.3K,88.404
+Basketball,2022,37,Creighton,0,0,3,3,88.55,$9.4K,87.951
+Basketball,2022,38,Arizona,0,2,0,4,87.58,$153K,87.584
+Basketball,2022,39,Boston College,0,2,2,4,87.54,$11.3K,87.544
+Basketball,2022,40,Iowa State,0,0,3,3,87.9,$197K,87.301
+Basketball,2022,41,NC State,0,1,1,3,87.81,$11.6K,87.214
+Basketball,2022,42,Louisville,0,2,1,4,87.18,$18.9K,87.178
+Basketball,2022,43,Wake Forest,0,0,2,2,89.67,$8.7K,87.059
+Basketball,2022,44,Purdue,0,1,2,4,87.05,$446K,87.047
+Basketball,2022,45,Dayton,0,1,0,1,93.67,$120K,86.976
+Basketball,2022,46,Pittsburgh,0,1,2,4,86.79,$74K,86.79
+Basketball,2022,47,Oklahoma,0,2,0,4,86.78,$63K,86.781
+Basketball,2022,48,Washington,0,1,2,3,86.81,$23K,86.216
+Basketball,2022,49,Providence,0,1,1,2,88.72,$14.5K,86.107
+Basketball,2022,50,Arizona State,0,1,1,3,86.52,$12.7K,85.92
+Basketball,2022,51,Oregon,1,0,0,3,86.4,$31K,85.8
+Basketball,2022,52,Georgetown,0,1,1,2,88.18,$10.3K,85.572
+Basketball,2022,53,St. John's,0,1,1,2,88.15,$18K,85.537
+Basketball,2022,54,Fresno State,0,1,0,1,92.05,$13.7K,85.357
+Basketball,2022,55,Clemson,0,0,4,4,85.31,$42K,85.313
+Basketball,2022,56,Iowa,0,0,2,2,87.9,$174K,85.284
+Basketball,2022,57,Georgia,0,1,0,1,91.74,-,85.046
+Basketball,2022,58,Seton Hall,0,0,3,4,85,$13.7K,84.999
+Basketball,2022,59,UCF,0,1,0,2,87.55,$8.9K,84.935
+Basketball,2022,60,Missouri,0,1,0,2,87.39,$10.8K,84.774
+Basketball,2022,61,Marquette,0,0,2,3,85.18,$27K,84.582
+Basketball,2022,62,Minnesota,0,0,4,5,83.59,$9.7K,84.489
+Basketball,2022,63,Nebraska,0,1,2,4,84.44,$12.1K,84.437
+Basketball,2022,64,DePaul,0,1,0,3,84.6,$12.9K,84.003
+Basketball,2022,65,Connecticut,0,1,0,4,83.92,$10.3K,83.917
+Basketball,2022,66,San Diego State,0,0,2,3,84.42,$10.7K,83.818
+Basketball,2022,67,George Mason,0,0,3,3,84.17,-,83.569
+Basketball,2022,68,Washington State,0,1,0,5,82.76,$15K,83.446
+Basketball,2022,69,Utah,0,0,2,3,83.93,$5.7K,83.331
+Basketball,2022,70,Saint Mary's,0,1,0,3,83.66,$16.4K,83.06
+Basketball,2022,71,Colorado,0,0,1,3,83.4,$10.4K,82.803
+Basketball,2022,72,Nevada,0,0,1,3,83.36,$16.3K,82.765
+Basketball,2022,73,Oregon State,0,0,3,6,81.76,$25K,82.638
+Basketball,2022,74,TCU,0,0,1,1,89.26,$1.2M,82.569
+Basketball,2022,75,Boise State,0,0,1,2,85.13,$12K,82.513
+Basketball,2022,76,West Virginia,0,0,1,5,81.95,$13.9K,82.44
+Basketball,2022,77,Tulsa,0,0,3,3,82.92,-,82.328
+Basketball,2022,78,Rutgers,0,0,3,3,82.84,-,82.244
+Basketball,2022,79,Ohio,0,0,2,4,82.21,$10.7K,82.213
+Basketball,2022,80,Pepperdine,0,0,1,5,81.74,$7.6K,82.173
+Basketball,2022,81,Oklahoma State,0,0,1,1,88.7,$12.4K,82.011
+Basketball,2022,82,Columbia,0,0,2,3,82.5,$801K,81.903
+Basketball,2022,83,Mississippi State,0,0,1,2,84.48,$7.3K,81.867
+Basketball,2022,84,Gonzaga,0,0,1,2,84.47,-,81.859
+Basketball,2022,85,Texas A&M,0,0,1,3,82.31,$19.3K,81.711
+Basketball,2022,86,Appalachian State,0,0,1,3,82.12,$13.6K,81.519
+Basketball,2022,87,Kansas State,0,0,2,3,82,$11.8K,81.403
+Basketball,2022,88,Fordham,0,0,2,3,82,$17.6K,81.403
+Basketball,2022,89,East Carolina,0,0,1,5,81.06,$12.1K,81.323
+Basketball,2022,90,Northeastern,0,0,1,3,81.83,$726K,81.236
+Basketball,2022,91,Eastern Kentucky,0,0,1,3,81.78,$10.9K,81.186
+Basketball,2022,92,St. Bonaventure,0,0,1,2,83.79,$7.6K,81.176
+Basketball,2022,93,Rice,0,0,1,4,81.13,$7.1K,81.125
+Basketball,2022,94,Harvard,0,0,1,2,83.66,-,81.052
+Basketball,2022,95,Saint Joseph's,0,0,2,2,83.5,$14.4K,80.888
+Basketball,2022,96,Louisiana,0,0,1,4,80.75,$7.4K,80.75
+Basketball,2022,97,Maryland,0,0,1,2,83.25,$14.5K,80.638
+Basketball,2022,98,Saint Louis,0,0,1,5,80.4,-,80.5
+Basketball,2022,99,Northwestern,0,0,1,2,82.9,$66K,80.288
+Basketball,2022,100,UT Arlington,0,0,1,4,80.19,$5.3K,80.188
+Basketball,2022,101,Alabama State,0,0,1,1,86.85,$12.8K,80.161
+Basketball,2022,102,North Carolina A&T,0,0,1,3,80.75,-,80.153
+Basketball,2022,103,Princeton,0,0,0,4,80,$830K,80
+Basketball,2022,104,Old Dominion,0,0,0,4,80,-,80
+Basketball,2022,105,Mercer,0,0,0,4,80,-,80
+Basketball,2022,106,San Jose State,0,0,0,4,80,-,80
+Basketball,2022,107,FIU,0,0,0,4,80,$14.1K,80
+Basketball,2022,108,Massachusetts,0,0,1,2,82.21,$10.3K,79.598
+Basketball,2022,109,California,0,0,1,2,82.13,$10K,79.513
+Basketball,2022,110,NJIT,0,0,1,1,86.14,$6.7K,79.45
+Basketball,2022,111,Air Force,0,0,0,3,80,$7.6K,79.403
+Basketball,2022,112,Louisiana Tech,0,0,0,3,80,-,79.403
+Basketball,2022,113,Liberty,0,0,0,3,80,$6.4K,79.403
+Basketball,2022,114,Miami (OH),0,0,0,3,80,-,79.403
+Basketball,2022,115,Middle Tennessee State,0,0,0,3,80,-,79.403
+Basketball,2022,116,New Mexico,0,0,0,3,80,$620K,79.403
+Basketball,2022,117,VMI,0,0,0,3,80,$6.7K,79.403
+Basketball,2022,118,Florida Atlantic,0,0,1,2,81.88,$9.9K,79.263
+Basketball,2022,119,Lafayette,0,0,1,2,81.75,$8.3K,79.138
+Basketball,2022,120,Marshall,0,0,2,2,81.75,$16.5K,79.138
+Basketball,2022,121,UC Santa Barbara,0,0,1,1,85.8,-,79.111
+Basketball,2022,122,St. Thomas,0,0,1,2,81.63,$10.4K,79.013
+Basketball,2022,123,Northwestern State,0,0,1,2,81.5,$1.2M,78.888
+Basketball,2022,124,Georgia Tech,0,0,1,2,81.42,$7.9K,78.813
+Basketball,2022,125,Lamar,0,0,2,2,81.38,$8.5K,78.763
+Basketball,2022,126,Western Michigan,0,0,1,2,81.13,$9.6K,78.513
+Basketball,2022,127,Butler,0,0,1,1,85.17,-,78.486
+Basketball,2022,128,Wisconsin,0,0,1,1,85.05,$59K,78.361
+Basketball,2022,129,New Orleans,0,0,1,1,85.03,-,78.336
+Basketball,2022,130,Northern Arizona,0,0,1,2,80.5,-,77.888
+Basketball,2022,131,USF,0,0,1,2,80.5,$12.1K,77.888
+Basketball,2022,132,Arkansas State,0,0,0,2,80,-,77.388
+Basketball,2022,133,Wofford,0,0,0,2,80,$13.4K,77.388
+Basketball,2022,134,Wisconsin-Milwaukee,0,0,0,2,80,-,77.388
+Basketball,2022,135,Wright State,0,0,0,2,80,-,77.388
+Basketball,2022,136,William & Mary,0,0,0,2,80,-,77.388
+Basketball,2022,137,Yale,0,0,0,2,80,-,77.388
+Basketball,2022,138,UIC,0,0,0,2,80,$13.6K,77.388
+Basketball,2022,139,Hawaii,0,0,0,2,80,-,77.388
+Basketball,2022,140,IUPUI,0,0,0,2,80,-,77.388
+Basketball,2022,141,Purdue Fort Wayne,0,0,0,2,80,-,77.388
+Basketball,2022,142,Northern Illinois,0,0,0,2,80,$13.3K,77.388
+Basketball,2022,143,Lehigh,0,0,0,2,80,-,77.388
+Basketball,2022,144,Loyola Maryland,0,0,0,2,80,-,77.388
+Basketball,2022,145,Kent State,0,0,0,2,80,$9.8K,77.388
+Basketball,2022,146,Loyola Chicago,0,0,0,2,80,-,77.388
+Basketball,2022,147,Lipscomb,0,0,0,2,80,-,77.388
+Basketball,2022,148,Davidson,0,0,0,2,80,$12.8K,77.388
+Basketball,2022,149,Delaware,0,0,0,2,80,$9.9K,77.388
+Basketball,2022,150,Santa Clara,0,0,0,2,80,$16.7K,77.388
+Basketball,2022,151,North Alabama,0,0,0,2,80,-,77.388
+Basketball,2022,152,South Alabama,0,0,0,2,80,-,77.388
+Basketball,2022,153,Montana,0,0,0,2,80,-,77.388
+Basketball,2022,154,Murray State,0,0,0,2,80,$8.1K,77.388
+Basketball,2022,155,Missouri State,0,0,0,2,80,-,77.388
+Basketball,2022,156,Furman,0,0,0,2,80,-,77.388
+Basketball,2022,157,Fairfield,0,0,0,2,80,-,77.388
+Basketball,2022,158,Bucknell,0,0,0,2,80,-,77.388
+Basketball,2022,159,UTSA,0,0,0,2,80,$7.7K,77.388
+Basketball,2022,160,UTEP,0,0,0,2,80,-,77.388
+Basketball,2022,161,Troy,0,0,0,2,80,-,77.388
+Basketball,2022,162,The Citadel,0,0,0,2,80,-,77.388
+Basketball,2022,163,Texas State,0,0,0,2,80,-,77.388
+Basketball,2022,164,Charlotte,0,0,0,2,80,-,77.388
+Basketball,2022,165,UNC Wilmington,0,0,0,2,80,-,77.388
+Basketball,2022,166,Colorado State,0,0,0,2,80,-,77.388
+Basketball,2022,167,Towson,0,0,1,2,79.75,-,77.138
+Basketball,2022,168,Buffalo,0,0,1,1,83.8,$9.6K,77.111
+Basketball,2022,169,Bowling Green,0,0,1,1,83.5,$9.5K,76.811
+Basketball,2022,170,Southern Illinois,0,0,1,1,83.25,-,76.561
+Basketball,2022,171,New Mexico State,0,0,1,1,83,$13.9K,76.311
+Basketball,2022,172,Tulane,0,0,1,1,83,$11.5K,76.311
+Basketball,2022,173,Wyoming,0,0,1,1,82.75,-,76.061
+Basketball,2022,174,BYU,0,0,1,1,82.5,$9.3K,75.811
+Basketball,2022,175,Tennessee State,0,0,1,1,82.5,$6.4K,75.811
+Basketball,2022,176,Iona,0,0,1,1,82.25,-,75.561
+Basketball,2022,177,San Diego,0,0,1,1,82,$62K,75.311
+Basketball,2022,178,UNC Greensboro,0,0,1,1,81.25,$5K,74.561
+Basketball,2022,179,Oral Roberts,0,0,1,1,81,$13.5K,74.311
+Basketball,2022,180,Navy,0,0,1,1,80.75,-,74.061
+Basketball,2022,181,Boston University,0,0,1,1,80.5,-,73.811
+Basketball,2022,182,Albany,0,0,0,1,80,$7.4K,73.311
+Basketball,2022,183,Akron,0,0,0,1,80,$56K,73.311
+Basketball,2022,184,Bellarmine,0,0,0,1,80,-,73.311
+Basketball,2022,185,Western Carolina,0,0,0,1,80,-,73.311
+Basketball,2022,186,Youngstown State,0,0,0,1,80,-,73.311
+Basketball,2022,187,Robert Morris,0,0,0,1,80,-,73.311
+Basketball,2022,188,Pennsylvania,0,0,0,1,80,$7.1K,73.311
+Basketball,2022,189,Idaho State,0,0,0,1,80,-,73.311
+Basketball,2022,190,Idaho,0,0,0,1,80,-,73.311
+Basketball,2022,191,High Point,0,0,0,1,80,-,73.311
+Basketball,2022,192,Illinois State,0,0,0,1,80,-,73.311
+Basketball,2022,193,James Madison,0,0,0,1,80,-,73.311
+Basketball,2022,194,Richmond,0,0,0,1,80,$7.2K,73.311
+Basketball,2022,195,Radford,0,0,0,1,80,-,73.311
+Basketball,2022,196,Holy Cross,0,0,0,1,80,-,73.311
+Basketball,2022,197,Hofstra,0,0,0,1,80,-,73.311
+Basketball,2022,198,Pacific,0,0,0,1,80,-,73.311
+Basketball,2022,199,Indiana State,0,0,0,1,80,$355K,73.311
+Basketball,2022,200,Jacksonville,0,0,0,1,80,-,73.311
+Basketball,2022,201,Rhode Island,0,0,0,1,80,-,73.311
+Basketball,2022,202,North Texas,0,0,0,1,80,-,73.311
+Basketball,2022,203,North Carolina Central,0,0,0,1,80,-,73.311
+Basketball,2022,204,Northern Iowa,0,0,0,1,80,-,73.311
+Basketball,2022,205,North Dakota,0,0,0,1,80,-,73.311
+Basketball,2022,206,Northern Colorado,0,0,0,1,80,$13.5K,73.311
+Basketball,2022,207,Kennesaw State,0,0,0,1,80,-,73.311
+Basketball,2022,208,Loyola Marymount,0,0,0,1,80,-,73.311
+Basketball,2022,209,Duquesne,0,0,0,1,80,-,73.311
+Basketball,2022,210,Elon,0,0,0,1,80,-,73.311
+Basketball,2022,211,Eastern Illinois,0,0,0,1,80,-,73.311
+Basketball,2022,212,Cornell,0,0,0,1,80,-,73.311
+Basketball,2022,213,Dartmouth,0,0,0,1,80,-,73.311
+Basketball,2022,214,Samford,0,0,0,1,80,$11.9K,73.311
+Basketball,2022,215,San Francisco,0,0,0,1,80,-,73.311
+Basketball,2022,216,Stetson,0,0,0,1,80,-,73.311
+Basketball,2022,217,South Dakota State,0,0,0,1,80,-,73.311
+Basketball,2022,218,Monmouth,0,0,0,1,80,-,73.311
+Basketball,2022,219,Siena,0,0,0,1,80,-,73.311
+Basketball,2022,220,Georgia State,0,0,0,1,80,-,73.311
+Basketball,2022,221,Georgia Southern,0,0,0,1,80,-,73.311
+Basketball,2022,222,Grambling State,0,0,0,1,80,-,73.311
+Basketball,2022,223,Grand Canyon,0,0,0,1,80,-,73.311
+Basketball,2022,224,George Washington,0,0,0,1,80,-,73.311
+Basketball,2022,225,Cal State Northridge,0,0,0,1,80,-,73.311
+Basketball,2022,226,Cal State Fullerton,0,0,0,1,80,-,73.311
+Basketball,2022,227,Wagner,0,0,0,1,80,-,73.311
+Basketball,2022,228,Belmont,0,0,0,1,80,$114K,73.311
+Basketball,2022,229,Valparaiso,0,0,0,1,80,-,73.311
+Basketball,2022,230,UNLV,0,0,0,1,80,$459K,73.311
+Basketball,2022,231,Weber State,0,0,0,1,80,-,73.311
+Basketball,2022,232,Temple,0,0,0,1,80,-,73.311
+Basketball,2022,233,UAB,0,0,0,1,80,$13.8K,73.311
+Basketball,2022,234,Charleston Southern,0,0,0,1,80,-,73.311
+Basketball,2022,235,UTRGV,0,0,0,1,80,-,73.311
+Basketball,2022,236,UMBC,0,0,0,1,80,-,73.311
+Basketball,2022,237,Toledo,0,0,0,1,80,$7.6K,73.311
+Basketball,2022,238,UC Riverside,0,0,0,1,80,-,73.311
+Basketball,2022,239,UC Davis,0,0,0,1,80,-,73.311
+Basketball,2022,240,Colgate,0,0,0,1,80,-,73.311
+Basketball,2022,241,Central Michigan,0,0,0,1,80,$33K,73.311
+Basketball,2021,1,Kentucky,3,1,0,4,98.27,$23K,98.863
+Basketball,2021,2,Duke,1,3,0,4,96.86,$12K,98.6
+Basketball,2021,3,Gonzaga,2,2,0,4,97.71,$16.4K,98.511
+Basketball,2021,4,Memphis,2,1,0,6,89.17,$18.2K,98.332
+Basketball,2021,5,Michigan,2,4,0,6,94.32,$19.5K,97.883
+Basketball,2021,6,Tennessee,1,3,0,7,89.68,$35K,97.592
+Basketball,2021,7,UCLA,1,1,0,2,97.17,$20K,96.349
+Basketball,2021,8,Michigan State,1,2,0,3,96.28,$19.1K,96.28
+Basketball,2021,9,Baylor,1,2,0,3,95.99,$11.5K,95.986
+Basketball,2021,10,Wisconsin-Milwaukee,1,0,0,1,99.37,-,95.598
+Basketball,2021,11,Auburn,1,0,0,1,99.35,-,95.578
+Basketball,2021,12,Connecticut,0,5,0,5,93.29,$130K,95.186
+Basketball,2021,13,Alabama,1,2,0,3,95.12,$21K,95.122
+Basketball,2021,14,Florida State,0,3,0,5,88.93,$13.6K,94.877
+Basketball,2021,15,Creighton,0,5,0,5,93.03,$16K,94.796
+Basketball,2021,16,Indiana,0,2,0,2,95.37,$10.4K,94.556
+Basketball,2021,17,Kansas,0,3,0,4,90.32,$22K,93.762
+Basketball,2021,18,LSU,0,3,0,5,88.04,$13.5K,93.402
+Basketball,2021,19,Syracuse,0,1,0,1,97.07,$10.8K,93.297
+Basketball,2021,20,Maryland,0,2,0,2,93.94,$18K,93.121
+Basketball,2021,21,Texas,0,1,0,1,96.81,-,93.036
+Basketball,2021,22,Iowa State,0,1,0,1,96.46,$21K,92.688
+Basketball,2021,23,North Carolina,0,3,0,3,92.23,$16.9K,92.225
+Basketball,2021,24,Stanford,0,2,0,4,88.09,$43K,90.793
+Basketball,2021,25,Illinois,0,3,0,3,90.77,$21K,90.771
+Basketball,2021,26,Marquette,0,3,0,5,86.38,$9.4K,90.635
+Basketball,2021,27,Purdue,0,2,0,3,90.36,$16.6K,90.359
+Basketball,2021,28,Nebraska,0,3,0,5,85.96,$15K,89.93
+Basketball,2021,29,Ohio State,0,2,0,2,90.53,$23K,89.708
+Basketball,2021,30,Villanova,0,2,0,3,89.45,$10.2K,89.454
+Basketball,2021,31,Colorado,0,2,0,5,85.65,$11.2K,89.409
+Basketball,2021,32,Louisville,0,2,0,4,86.89,$17K,89.18
+Basketball,2021,33,NC State,0,2,0,3,89.17,$12.8K,89.171
+Basketball,2021,34,Georgia Tech,0,2,0,3,89.05,$13.7K,89.052
+Basketball,2021,35,Arkansas,0,1,0,1,92.14,$17.4K,88.366
+Basketball,2021,36,Oregon,0,1,0,2,88.89,$16.6K,88.069
+Basketball,2021,37,Miami,0,2,0,3,87.42,$12.5K,87.416
+Basketball,2021,38,Wisconsin,0,4,0,4,87.07,$13.3K,87.354
+Basketball,2021,39,Washington State,0,1,0,2,87.89,$14K,87.076
+Basketball,2021,40,Georgetown,0,1,0,5,83.51,$13.6K,85.852
+Basketball,2021,41,Arizona,0,1,0,2,86.62,$8.5K,85.802
+Basketball,2021,42,Samford,0,1,0,1,89.52,$7.9K,85.752
+Basketball,2021,43,Texas A&M,0,1,0,3,85.57,$24K,85.571
+Basketball,2021,44,Florida,0,1,0,3,85.48,$42K,85.482
+Basketball,2021,45,Notre Dame,0,1,0,2,86.13,$9.5K,85.31
+Basketball,2021,46,Dayton,0,1,0,4,83.93,$15.3K,85.237
+Basketball,2021,47,Western Kentucky,0,1,0,3,84.9,$52K,84.897
+Basketball,2021,48,USC,0,1,0,3,84.58,$15.4K,84.576
+Basketball,2021,49,Northwestern,0,2,0,3,84.53,$6.3K,84.527
+Basketball,2021,50,Washington,0,1,0,3,84.52,$8.7K,84.522
+Basketball,2021,51,Oklahoma,0,1,0,5,82.69,$16.9K,84.484
+Basketball,2021,52,South Carolina,0,1,0,3,84.44,$14.5K,84.438
+Basketball,2021,53,Arizona State,0,1,0,6,82.2,$12.3K,84.402
+Basketball,2021,54,Houston,0,1,0,4,82.98,$117K,83.977
+Basketball,2021,55,Virginia,0,1,0,2,84.76,$16.7K,83.943
+Basketball,2021,56,Wake Forest,0,1,0,4,82.17,$11.8K,82.898
+Basketball,2021,57,Pepperdine,0,2,0,3,82.83,$17.4K,82.832
+Basketball,2021,58,Nevada,0,0,2,2,82.96,$7.9K,82.144
+Basketball,2021,59,West Virginia,0,1,0,4,81.41,$6.1K,81.875
+Basketball,2021,60,Mississippi State,0,1,0,3,81.7,$14.3K,81.7
+Basketball,2021,61,Iowa,0,1,0,2,82.34,$17.4K,81.522
+Basketball,2021,62,Wyoming,0,1,0,4,80.95,$8.5K,81.267
+Basketball,2021,63,Oregon State,0,1,0,2,82.01,$15.4K,81.195
+Basketball,2021,64,Santa Clara,0,0,1,5,80.52,$6.4K,80.867
+Basketball,2021,65,Boise State,0,0,1,2,81.65,-,80.832
+Basketball,2021,66,Old Dominion,0,0,1,3,80.62,-,80.617
+Basketball,2021,67,Air Force,0,0,0,4,80,-,80
+Basketball,2021,68,Richmond,0,0,0,4,80,$8K,80
+Basketball,2021,69,Harvard,0,0,0,3,80,-,80
+Basketball,2021,70,Princeton,0,0,0,3,80,-,80
+Basketball,2021,71,Ole Miss,0,0,0,4,80,$19.2K,80
+Basketball,2021,72,North Texas,0,0,0,5,80,$14.2K,80
+Basketball,2021,73,North Dakota,0,0,0,3,80,-,80
+Basketball,2021,74,La Salle,0,0,0,3,80,$41K,80
+Basketball,2021,75,Louisiana Tech,0,0,0,3,80,-,80
+Basketball,2021,76,Liberty,0,0,0,4,80,$7.3K,80
+Basketball,2021,77,Duquesne,0,0,0,3,80,$17.4K,80
+Basketball,2021,78,East Carolina,0,0,0,6,80,$11K,80
+Basketball,2021,79,DePaul,0,0,0,4,80,$54K,80
+Basketball,2021,80,San Diego,0,0,0,3,80,-,80
+Basketball,2021,81,St. John's,0,0,0,3,80,$7.9K,80
+Basketball,2021,82,Middle Tennessee State,0,0,0,4,80,$7.4K,80
+Basketball,2021,83,Marshall,0,0,0,4,80,-,80
+Basketball,2021,84,SMU,0,0,0,4,80,$462K,80
+Basketball,2021,85,New Mexico,0,0,0,3,80,-,80
+Basketball,2021,86,Seton Hall,0,0,0,3,80,$12.8K,80
+Basketball,2021,87,Missouri,0,0,0,5,80,$18.9K,80
+Basketball,2021,88,Georgia State,0,0,0,4,80,$14.2K,80
+Basketball,2021,89,Georgia Southern,0,0,0,4,80,-,80
+Basketball,2021,90,Georgia,0,0,0,5,80,$12.4K,80
+Basketball,2021,91,George Mason,0,0,0,4,80,-,80
+Basketball,2021,92,UTSA,0,0,0,5,80,$9.3K,80
+Basketball,2021,93,VCU,0,0,0,3,80,$16.4K,80
+Basketball,2021,94,California,0,0,0,3,80,-,80
+Basketball,2021,95,Buffalo,0,0,0,3,80,$11K,80
+Basketball,2021,96,Vanderbilt,0,0,0,3,80,$8.3K,80
+Basketball,2021,97,Butler,0,0,0,4,80,$8.3K,80
+Basketball,2021,98,Valparaiso,0,0,0,3,80,-,80
+Basketball,2021,99,BYU,0,0,0,3,80,$12.9K,80
+Basketball,2021,100,Clemson,0,0,0,3,80,$18.4K,80
+Basketball,2021,101,Tulsa,0,0,0,3,80,-,80
+Basketball,2021,102,UCF,0,0,0,3,80,-,80
+Basketball,2021,103,Appalachian State,0,0,0,2,80,-,79.182
+Basketball,2021,104,Wichita State,0,0,0,2,80,-,79.182
+Basketball,2021,105,Xavier,0,0,0,2,80,$7.5K,79.182
+Basketball,2021,106,William & Mary,0,0,0,2,80,-,79.182
+Basketball,2021,107,Yale,0,0,0,2,80,-,79.182
+Basketball,2021,108,Pittsburgh,0,0,0,2,80,$8.5K,79.182
+Basketball,2021,109,Rice,0,0,0,2,80,-,79.182
+Basketball,2021,110,Kansas State,0,0,0,2,80,$12.1K,79.182
+Basketball,2021,111,Portland,0,0,0,2,80,-,79.182
+Basketball,2021,112,Providence,0,0,0,2,80,$119K,79.182
+Basketball,2021,113,North Carolina A&T,0,0,0,2,80,-,79.182
+Basketball,2021,114,Northern Iowa,0,0,0,2,80,-,79.182
+Basketball,2021,115,Louisiana,0,0,0,2,80,$9.1K,79.182
+Basketball,2021,116,Loyola Marymount,0,0,0,2,80,-,79.182
+Basketball,2021,117,McNeese State,0,0,0,2,80,-,79.182
+Basketball,2021,118,Minnesota,0,0,0,2,80,$15.6K,79.182
+Basketball,2021,119,South Alabama,0,0,0,2,80,$12.3K,79.182
+Basketball,2021,120,Florida Atlantic,0,0,0,2,80,$10.3K,79.182
+Basketball,2021,121,George Washington,0,0,0,2,80,$9.2K,79.182
+Basketball,2021,122,Virginia Tech,0,0,0,2,80,$11.8K,79.182
+Basketball,2021,123,Boston College,0,0,0,2,80,$9.1K,79.182
+Basketball,2021,124,Belmont,0,0,0,2,80,-,79.182
+Basketball,2021,125,Temple,0,0,0,2,80,$9K,79.182
+Basketball,2021,126,Charlotte,0,0,0,2,80,-,79.182
+Basketball,2021,127,UNC Wilmington,0,0,0,2,80,$20K,79.182
+Basketball,2021,128,UC Santa Barbara,0,0,0,2,80,-,79.182
+Basketball,2021,129,Tennessee State,0,0,0,2,80,$99K,79.182
+Basketball,2021,130,Colorado State,0,0,0,2,80,-,79.182
+Basketball,2021,131,UNLV,0,0,1,1,82.9,$24K,79.13
+Basketball,2021,132,Albany,0,0,0,1,80,-,76.23
+Basketball,2021,133,Akron,0,0,0,1,80,-,76.23
+Basketball,2021,134,Army,0,0,0,1,80,-,76.23
+Basketball,2021,135,Bellarmine,0,0,0,1,80,-,76.23
+Basketball,2021,136,Austin Peay,0,0,0,1,80,-,76.23
+Basketball,2021,137,Arkansas-Little Rock,0,0,0,1,80,-,76.23
+Basketball,2021,138,Ball State,0,0,0,1,80,-,76.23
+Basketball,2021,139,Wisconsin-Green Bay,0,0,0,1,80,-,76.23
+Basketball,2021,140,Western Carolina,0,0,0,1,80,$8K,76.23
+Basketball,2021,141,Youngstown State,0,0,0,1,80,-,76.23
+Basketball,2021,142,Wright State,0,0,0,1,80,-,76.23
+Basketball,2021,143,Western Michigan,0,0,0,1,80,-,76.23
+Basketball,2021,144,Penn State,0,0,0,1,80,-,76.23
+Basketball,2021,145,UIC,0,0,0,1,80,$17.1K,76.23
+Basketball,2021,146,James Madison,0,0,0,1,80,-,76.23
+Basketball,2021,147,Rutgers,0,0,0,1,80,-,76.23
+Basketball,2021,148,Iona,0,0,0,1,80,-,76.23
+Basketball,2021,149,Hofstra,0,0,0,1,80,-,76.23
+Basketball,2021,150,Professional,0,0,0,1,80,-,76.23
+Basketball,2021,151,Hawaii,0,0,0,1,80,-,76.23
+Basketball,2021,152,Purdue Fort Wayne,0,0,0,1,80,-,76.23
+Basketball,2021,153,Indiana State,0,0,0,1,80,-,76.23
+Basketball,2021,154,Rhode Island,0,0,0,1,80,-,76.23
+Basketball,2021,155,Ohio,0,0,0,1,80,$8.2K,76.23
+Basketball,2021,156,North Central College,0,0,0,1,80,-,76.23
+Basketball,2021,157,Oakland,0,0,0,1,80,-,76.23
+Basketball,2021,158,Oral Roberts,0,0,0,1,80,-,76.23
+Basketball,2021,159,Northern Kentucky,0,0,0,1,80,-,76.23
+Basketball,2021,160,Northern Colorado,0,0,0,1,80,-,76.23
+Basketball,2021,161,Lehigh,0,0,0,1,80,-,76.23
+Basketball,2021,162,Kent State,0,0,0,1,80,$8.9K,76.23
+Basketball,2021,163,Loyola Chicago,0,0,0,1,80,-,76.23
+Basketball,2021,164,Elon,0,0,0,1,80,-,76.23
+Basketball,2021,165,Davidson,0,0,0,1,80,-,76.23
+Basketball,2021,166,Eastern Washington,0,0,0,1,80,-,76.23
+Basketball,2021,167,Eastern Michigan,0,0,0,1,80,$9.1K,76.23
+Basketball,2021,168,Evansville,0,0,0,1,80,-,76.23
+Basketball,2021,169,Dartmouth,0,0,0,1,80,-,76.23
+Basketball,2021,170,Saint Joseph's,0,0,0,1,80,-,76.23
+Basketball,2021,171,Sam Houston State,0,0,0,1,80,-,76.23
+Basketball,2021,172,Southern Illinois,0,0,0,1,80,-,76.23
+Basketball,2021,173,Massachusetts,0,0,0,1,80,-,76.23
+Basketball,2021,174,San Diego State,0,0,0,1,80,$11K,76.23
+Basketball,2021,175,San Francisco,0,0,0,1,80,-,76.23
+Basketball,2021,176,Saint Mary's,0,0,0,1,80,-,76.23
+Basketball,2021,177,San Jose State,0,0,0,1,80,-,76.23
+Basketball,2021,178,St. John Fisher,0,0,0,1,80,$36K,76.23
+Basketball,2021,179,St. Bonaventure,0,0,0,1,80,-,76.23
+Basketball,2021,180,Stetson,0,0,0,1,80,-,76.23
+Basketball,2021,181,St. Thomas,0,0,0,1,80,-,76.23
+Basketball,2021,182,Mount St. Mary's,0,0,0,1,80,-,76.23
+Basketball,2021,183,South Dakota State,0,0,0,1,80,$19.1K,76.23
+Basketball,2021,184,South Dakota,0,0,0,1,80,-,76.23
+Basketball,2021,185,New Mexico State,0,0,0,1,80,-,76.23
+Basketball,2021,186,Montana State,0,0,0,1,80,-,76.23
+Basketball,2021,187,Furman,0,0,0,1,80,-,76.23
+Basketball,2021,188,Fresno State,0,0,0,1,80,-,76.23
+Basketball,2021,189,Grand Canyon,0,0,0,1,80,-,76.23
+Basketball,2021,190,FIU,0,0,0,1,80,$7.1K,76.23
+Basketball,2021,191,Bucknell,0,0,0,1,80,-,76.23
+Basketball,2021,192,Bradley,0,0,0,1,80,$9.9K,76.23
+Basketball,2021,193,VMI,0,0,0,1,80,-,76.23
+Basketball,2021,194,Boston University,0,0,0,1,80,-,76.23
+Basketball,2021,195,USF,0,0,0,1,80,-,76.23
+Basketball,2021,196,Utah Valley,0,0,0,1,80,-,76.23
+Basketball,2021,197,Utah,0,0,0,1,80,$11.4K,76.23
+Basketball,2021,198,Utah State,0,0,0,1,80,-,76.23
+Basketball,2021,199,Brown,0,0,0,1,80,$8.7K,76.23
+Basketball,2021,200,The Citadel,0,0,0,1,80,-,76.23
+Basketball,2021,201,Coastal Carolina,0,0,0,1,80,-,76.23
+Basketball,2021,202,TCU,0,0,0,1,80,$9.3K,76.23
+Basketball,2021,203,Texas Southern,0,0,0,1,80,$788K,76.23
+Basketball,2021,204,Toledo,0,0,0,1,80,$8.4K,76.23
+Basketball,2021,205,Columbia,0,0,0,1,80,-,76.23
+Basketball,2021,206,Central Michigan,0,0,0,1,80,$221K,76.23
+Basketball,2021,207,Concordia,0,0,0,1,80,-,76.23
+Basketball,2021,208,UC San Diego,0,0,0,1,80,-,76.23

@@ -1,0 +1,266 @@
+#,Team,Conference,Subdivision,Tier
+1,Abilene Christian,United Athletic,FCS,Non-Power 4
+2,Air Force,Mountain West,FBS,Non-Power 4
+3,Akron,MAC,FBS,Non-Power 4
+4,Alabama,SEC,FBS,Power 4
+5,Alabama A&M,SWAC,FCS,Non-Power 4
+6,Alabama State,SWAC,FCS,Non-Power 4
+7,Alcorn State,SWAC,FCS,Non-Power 4
+8,Appalachian State,Sun Belt,FBS,Non-Power 4
+9,Arizona,Big 12,FBS,Power 4
+10,Arizona State,Big 12,FBS,Power 4
+11,Arkansas,SEC,FBS,Power 4
+12,Arkansas State,Sun Belt,FBS,Non-Power 4
+13,Arkansas-Pine Bluff,SWAC,FCS,Non-Power 4
+14,Army,American,FBS,Non-Power 4
+15,Auburn,SEC,FBS,Power 4
+16,Austin Peay,United Athletic,FCS,Non-Power 4
+17,BYU,Big 12,FBS,Power 4
+18,Ball State,MAC,FBS,Non-Power 4
+19,Baylor,Big 12,FBS,Power 4
+20,Bethune-Cookman,SWAC,FCS,Non-Power 4
+21,Boise State,Mountain West,FBS,Non-Power 4
+22,Boston College,ACC,FBS,Power 4
+23,Bowling Green,MAC,FBS,Non-Power 4
+24,Brown,Ivy League,FCS,Non-Power 4
+25,Bryant,CAA,FCS,Non-Power 4
+26,Bucknell,Patriot,FCS,Non-Power 4
+27,Buffalo,MAC,FBS,Non-Power 4
+28,Butler,Pioneer,FCS,Non-Power 4
+29,Cal Poly,Big Sky,FCS,Non-Power 4
+30,California,ACC,FBS,Power 4
+31,Campbell,CAA,FCS,Non-Power 4
+32,Central Arkansas,United Athletic,FCS,Non-Power 4
+33,Central Connecticut State,NEC,FCS,Non-Power 4
+34,Central Michigan,MAC,FBS,Non-Power 4
+35,Charleston Southern,OVC-Big South,FCS,Non-Power 4
+36,Charlotte,American,FBS,Non-Power 4
+37,Chattanooga,SoCon,FCS,Non-Power 4
+38,Cincinnati,Big 12,FBS,Power 4
+39,Clemson,ACC,FBS,Power 4
+40,Coastal Carolina,Sun Belt,FBS,Non-Power 4
+41,Colgate,Patriot,FCS,Non-Power 4
+42,Colorado,Big 12,FBS,Power 4
+43,Colorado State,Mountain West,FBS,Non-Power 4
+44,Columbia,Ivy League,FCS,Non-Power 4
+45,Cornell,Ivy League,FCS,Non-Power 4
+46,Dartmouth,Ivy League,FCS,Non-Power 4
+47,Davidson,Pioneer,FCS,Non-Power 4
+48,Dayton,Pioneer,FCS,Non-Power 4
+49,Delaware,Conference USA,FBS,Non-Power 4
+50,Delaware State,MEAC,FCS,Non-Power 4
+51,Drake,Pioneer,FCS,Non-Power 4
+52,Duke,ACC,FBS,Power 4
+53,Duquesne,NEC,FCS,Non-Power 4
+54,East Carolina,American,FBS,Non-Power 4
+55,East Tennessee State,SoCon,FCS,Non-Power 4
+56,East Texas A&M,Southland,FCS,Non-Power 4
+57,Eastern Illinois,OVC-Big South,FCS,Non-Power 4
+58,Eastern Kentucky,United Athletic,FCS,Non-Power 4
+59,Eastern Michigan,MAC,FBS,Non-Power 4
+60,Eastern Washington,Big Sky,FCS,Non-Power 4
+61,Elon,CAA,FCS,Non-Power 4
+62,FIU,Conference USA,FBS,Non-Power 4
+63,Florida,SEC,FBS,Power 4
+64,Florida A&M,SWAC,FCS,Non-Power 4
+65,Florida Atlantic,American,FBS,Non-Power 4
+66,Florida State,ACC,FBS,Power 4
+67,Fordham,Patriot,FCS,Non-Power 4
+68,Fresno State,Mountain West,FBS,Non-Power 4
+69,Furman,SoCon,FCS,Non-Power 4
+70,Gardner-Webb,OVC-Big South,FCS,Non-Power 4
+71,Georgetown,Patriot,FCS,Non-Power 4
+72,Georgia,SEC,FBS,Power 4
+73,Georgia Southern,Sun Belt,FBS,Non-Power 4
+74,Georgia State,Sun Belt,FBS,Non-Power 4
+75,Georgia Tech,ACC,FBS,Power 4
+76,Grambling State,SWAC,FCS,Non-Power 4
+77,Hampton,CAA,FCS,Non-Power 4
+78,Harvard,Ivy League,FCS,Non-Power 4
+79,Hawai'i,Mountain West,FBS,Non-Power 4
+80,Holy Cross,Patriot,FCS,Non-Power 4
+81,Houston,Big 12,FBS,Power 4
+82,Houston Christian,Southland,FCS,Non-Power 4
+83,Howard,MEAC,FCS,Non-Power 4
+84,Idaho,Big Sky,FCS,Non-Power 4
+85,Idaho State,Big Sky,FCS,Non-Power 4
+86,Illinois,Big Ten,FBS,Power 4
+87,Illinois State,MVFC,FCS,Non-Power 4
+88,Incarnate Word,Southland,FCS,Non-Power 4
+89,Indiana,Big Ten,FBS,Power 4
+90,Indiana State,MVFC,FCS,Non-Power 4
+91,Iowa,Big Ten,FBS,Power 4
+92,Iowa State,Big 12,FBS,Power 4
+93,Jackson State,SWAC,FCS,Non-Power 4
+94,Jacksonville State,Conference USA,FBS,Non-Power 4
+95,James Madison,Sun Belt,FBS,Non-Power 4
+96,Kansas,Big 12,FBS,Power 4
+97,Kansas State,Big 12,FBS,Power 4
+98,Kennesaw State,Conference USA,FBS,Non-Power 4
+99,Kent State,MAC,FBS,Non-Power 4
+100,Kentucky,SEC,FBS,Power 4
+101,LSU,SEC,FBS,Power 4
+102,Lafayette,Patriot,FCS,Non-Power 4
+103,Lamar,Southland,FCS,Non-Power 4
+104,Lehigh,Patriot,FCS,Non-Power 4
+105,Liberty,Conference USA,FBS,Non-Power 4
+106,Lindenwood,OVC-Big South,FCS,Non-Power 4
+107,Long Island University,NEC,FCS,Non-Power 4
+108,Louisiana,Sun Belt,FBS,Non-Power 4
+109,Louisiana Tech,Conference USA,FBS,Non-Power 4
+110,Louisiana-Monroe,Sun Belt,FBS,Non-Power 4
+111,Louisville,ACC,FBS,Power 4
+112,Maine,CAA,FCS,Non-Power 4
+113,Marist,Pioneer,FCS,Non-Power 4
+114,Marshall,Sun Belt,FBS,Non-Power 4
+115,Maryland,Big Ten,FBS,Power 4
+116,McNeese,Southland,FCS,Non-Power 4
+117,Memphis,American,FBS,Non-Power 4
+118,Mercer,SoCon,FCS,Non-Power 4
+119,Mercyhurst,NEC,FCS,Non-Power 4
+120,Merrimack,FCS Independent,FCS,Non-Power 4
+121,Miami (FL),ACC,FBS,Power 4
+122,Miami (OH),MAC,FBS,Non-Power 4
+123,Michigan,Big Ten,FBS,Power 4
+124,Michigan State,Big Ten,FBS,Power 4
+125,Middle Tennessee,Conference USA,FBS,Non-Power 4
+126,Minnesota,Big Ten,FBS,Power 4
+127,Mississippi State,SEC,FBS,Power 4
+128,Mississippi Valley State,SWAC,FCS,Non-Power 4
+129,Missouri,SEC,FBS,Power 4
+130,Missouri State,Conference USA,FBS,Non-Power 4
+131,Monmouth,CAA,FCS,Non-Power 4
+132,Montana,Big Sky,FCS,Non-Power 4
+133,Montana State,Big Sky,FCS,Non-Power 4
+134,Morehead State,Pioneer,FCS,Non-Power 4
+135,Morgan State,MEAC,FCS,Non-Power 4
+136,Murray State,MVFC,FCS,Non-Power 4
+137,NC State,ACC,FBS,Power 4
+138,Navy,American,FBS,Non-Power 4
+139,Nebraska,Big Ten,FBS,Power 4
+140,Nevada,Mountain West,FBS,Non-Power 4
+141,New Hampshire,CAA,FCS,Non-Power 4
+142,New Haven,NEC,FCS,Non-Power 4
+143,New Mexico,Mountain West,FBS,Non-Power 4
+144,New Mexico State,Conference USA,FBS,Non-Power 4
+145,Nicholls,Southland,FCS,Non-Power 4
+146,Norfolk State,MEAC,FCS,Non-Power 4
+147,North Alabama,United Athletic,FCS,Non-Power 4
+148,North Carolina,ACC,FBS,Power 4
+149,North Carolina A&T,CAA,FCS,Non-Power 4
+150,North Carolina Central,MEAC,FCS,Non-Power 4
+151,North Dakota,MVFC,FCS,Non-Power 4
+152,North Dakota State,MVFC,FCS,Non-Power 4
+153,North Texas,American,FBS,Non-Power 4
+154,Northern Arizona,Big Sky,FCS,Non-Power 4
+155,Northern Colorado,Big Sky,FCS,Non-Power 4
+156,Northern Illinois,MAC,FBS,Non-Power 4
+157,Northern Iowa,MVFC,FCS,Non-Power 4
+158,Northwestern,Big Ten,FBS,Power 4
+159,Northwestern State,Southland,FCS,Non-Power 4
+160,Notre Dame,FBS Independent,FBS,Non-Power 4
+161,Ohio,MAC,FBS,Non-Power 4
+162,Ohio State,Big Ten,FBS,Power 4
+163,Oklahoma,SEC,FBS,Power 4
+164,Oklahoma State,Big 12,FBS,Power 4
+165,Old Dominion,Sun Belt,FBS,Non-Power 4
+166,Ole Miss,SEC,FBS,Power 4
+167,Oregon,Big Ten,FBS,Power 4
+168,Oregon State,Pac-12,FBS,Non-Power 4
+169,Penn,Ivy League,FCS,Non-Power 4
+170,Penn State,Big Ten,FBS,Power 4
+171,Pittsburgh,ACC,FBS,Power 4
+172,Portland State,Big Sky,FCS,Non-Power 4
+173,Prairie View A&M,SWAC,FCS,Non-Power 4
+174,Presbyterian,Pioneer,FCS,Non-Power 4
+175,Princeton,Ivy League,FCS,Non-Power 4
+176,Purdue,Big Ten,FBS,Power 4
+177,Rhode Island,CAA,FCS,Non-Power 4
+178,Rice,American,FBS,Non-Power 4
+179,Richmond,Patriot,FCS,Non-Power 4
+180,Robert Morris,NEC,FCS,Non-Power 4
+181,Rutgers,Big Ten,FBS,Power 4
+182,SEMO,OVC-Big South,FCS,Non-Power 4
+183,SMU,ACC,FBS,Power 4
+184,Sacramento State,Big Sky,FCS,Non-Power 4
+185,Sacred Heart,FCS Independent,FCS,Non-Power 4
+186,Saint Francis U,NEC,FCS,Non-Power 4
+187,Sam Houston,Conference USA,FBS,Non-Power 4
+188,Samford,SoCon,FCS,Non-Power 4
+189,San Diego,Pioneer,FCS,Non-Power 4
+190,San Diego State,Mountain West,FBS,Non-Power 4
+191,San Jose State,Mountain West,FBS,Non-Power 4
+192,South Alabama,Sun Belt,FBS,Non-Power 4
+193,South Carolina,SEC,FBS,Power 4
+194,South Carolina State,MEAC,FCS,Non-Power 4
+195,South Dakota,MVFC,FCS,Non-Power 4
+196,South Dakota State,MVFC,FCS,Non-Power 4
+197,South Florida,American,FBS,Non-Power 4
+198,Southeastern Louisiana,Southland,FCS,Non-Power 4
+199,Southern,SWAC,FCS,Non-Power 4
+200,Southern Illinois,MVFC,FCS,Non-Power 4
+201,Southern Miss,Sun Belt,FBS,Non-Power 4
+202,Southern Utah,United Athletic,FCS,Non-Power 4
+203,St. Thomas,Pioneer,FCS,Non-Power 4
+204,Stanford,ACC,FBS,Power 4
+205,Stephen F. Austin,Southland,FCS,Non-Power 4
+206,Stetson,Pioneer,FCS,Non-Power 4
+207,Stonehill,NEC,FCS,Non-Power 4
+208,Stony Brook,CAA,FCS,Non-Power 4
+209,Syracuse,ACC,FBS,Power 4
+210,TCU,Big 12,FBS,Power 4
+211,Tarleton State,United Athletic,FCS,Non-Power 4
+212,Temple,American,FBS,Non-Power 4
+213,Tennessee,SEC,FBS,Power 4
+214,Tennessee State,OVC-Big South,FCS,Non-Power 4
+215,Tennessee Tech,OVC-Big South,FCS,Non-Power 4
+216,Texas,SEC,FBS,Power 4
+217,Texas A&M,SEC,FBS,Power 4
+218,Texas Southern,SWAC,FCS,Non-Power 4
+219,Texas State,Sun Belt,FBS,Non-Power 4
+220,Texas Tech,Big 12,FBS,Power 4
+221,The Citadel,SoCon,FCS,Non-Power 4
+222,Toledo,MAC,FBS,Non-Power 4
+223,Towson,CAA,FCS,Non-Power 4
+224,Troy,Sun Belt,FBS,Non-Power 4
+225,Tulane,American,FBS,Non-Power 4
+226,Tulsa,American,FBS,Non-Power 4
+227,UAB,American,FBS,Non-Power 4
+228,UAlbany,CAA,FCS,Non-Power 4
+229,UC Davis,Big Sky,FCS,Non-Power 4
+230,UCF,Big 12,FBS,Power 4
+231,UCLA,Big Ten,FBS,Power 4
+232,UConn,FBS Independent,FBS,Non-Power 4
+233,UMass,MAC,FBS,Non-Power 4
+234,UNLV,Mountain West,FBS,Non-Power 4
+235,USC,Big Ten,FBS,Power 4
+236,UT Martin,OVC-Big South,FCS,Non-Power 4
+237,UTEP,Conference USA,FBS,Non-Power 4
+238,UTRGV,Southland,FCS,Non-Power 4
+239,UTSA,American,FBS,Non-Power 4
+240,Utah,Big 12,FBS,Power 4
+241,Utah State,Mountain West,FBS,Non-Power 4
+242,Utah Tech,United Athletic,FCS,Non-Power 4
+243,VMI,SoCon,FCS,Non-Power 4
+244,Valparaiso,Pioneer,FCS,Non-Power 4
+245,Vanderbilt,SEC,FBS,Power 4
+246,Villanova,CAA,FCS,Non-Power 4
+247,Virginia,ACC,FBS,Power 4
+248,Virginia Tech,ACC,FBS,Power 4
+249,Wagner,NEC,FCS,Non-Power 4
+250,Wake Forest,ACC,FBS,Power 4
+251,Washington,Big Ten,FBS,Power 4
+252,Washington State,Pac-12,FBS,Non-Power 4
+253,Weber State,Big Sky,FCS,Non-Power 4
+254,West Georgia,United Athletic,FCS,Non-Power 4
+255,West Virginia,Big 12,FBS,Power 4
+256,Western Carolina,SoCon,FCS,Non-Power 4
+257,Western Illinois,OVC-Big South,FCS,Non-Power 4
+258,Western Kentucky,Conference USA,FBS,Non-Power 4
+259,Western Michigan,MAC,FBS,Non-Power 4
+260,William & Mary,CAA,FCS,Non-Power 4
+261,Wisconsin,Big Ten,FBS,Power 4
+262,Wofford,SoCon,FCS,Non-Power 4
+263,Wyoming,Mountain West,FBS,Non-Power 4
+264,Yale,Ivy League,FCS,Non-Power 4
+265,Youngstown State,MVFC,FCS,Non-Power 4

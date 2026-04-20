@@ -1,0 +1,43 @@
+NCAA NIL ASSIST DASHBOARD — DEAL DATA SUMMARY,,,,,,,,
+Source: NCAA NIL Assist Data Dashboard (nilassist.ncaa.org) | Segment: Exclude FCS & D1 No Football,,,,,,,,
+Extracted March 2026 | FBS-only programs (Power 5 + Group of 5),,,,,,,,
+,,,,,,,,
+CFB,,,,,,,,
+Metric,"Early NIL
+(Jul 2016–Dec 2023)","Post-Settlement
+(Jan 2024–Jan 2026)",Change ($),Change (%),,,,
+Avg Disclosure Value,1582,4752,3170,2.0037926675094817,,,,
+Median Disclosure Value,150,92,-58,-0.38666666666666666,,,,
+Avg Total Athlete Earnings,33083,39176,6093,0.1841731402835293,,,,
+Median Total Athlete Earnings,2403,1500,-903,-0.3757802746566791,,,,
+Avg/Median Ratio (inequality signal),10.5,51.7,41.2,← Higher = more top-heavy,,,,
+,,,,,,,,
+MBB,,,,,,,,
+Metric,"Early NIL
+(Jul 2016–Dec 2023)","Post-Settlement
+(Jan 2024–Jan 2026)",Change ($),Change (%),,,,
+Avg Disclosure Value,3897,8708,4811,1.2345393892738004,,,,
+Median Disclosure Value,500,81,-419,-0.838,,,,
+Avg Total Athlete Earnings,104578,63177,-41401,-0.39588632408345925,,,,
+Median Total Athlete Earnings,22187,5500,-16687,-0.7521070897372335,,,,
+Avg/Median Ratio (inequality signal),7.8,107.5,99.7,← Higher = more top-heavy,,,,
+,,,,,,,,
+WBB,,,,,,,,
+Metric,"Early NIL
+(Jul 2016–Dec 2023)","Post-Settlement
+(Jan 2024–Jan 2026)",Change ($),Change (%),,,,
+Avg Disclosure Value,1006,1554,548,0.5447316103379721,,,,
+Median Disclosure Value,100,54,-46,-0.46,,,,
+Avg Total Athlete Earnings,20479,13679,-6800,-0.33204746325504175,,,,
+Median Total Athlete Earnings,3000,1230,-1770,-0.59,,,,
+Avg/Median Ratio (inequality signal),10.1,28.8,18.700000000000003,← Higher = more top-heavy,,,,
+,,,,,,,,
+COMBINED (CFB+MBB+WBB),,,,,,,,
+Metric,"Early NIL
+(Jul 2016–Dec 2023)","Post-Settlement
+(Jan 2024–Jan 2026)",Change ($),Change (%),,,,
+Avg Disclosure Value,1945,5060,3115,1.601542416452442,,,,
+Median Disclosure Value,170,80,-90,-0.5294117647058824,,,,
+Avg Total Athlete Earnings,41436,39320,-2116,-0.05106670528043247,,,,
+Median Total Athlete Earnings,3248,1750,-1498,-0.46120689655172414,,,,
+Avg/Median Ratio (inequality signal),11.4,63.2,51.800000000000004,← Higher = more top-heavy,,,,
