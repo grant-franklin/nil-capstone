@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nil-capstone/static/css/main.105178e5.css",
+    "main.js": "/nil-capstone/static/js/main.99d36595.js",
+    "index.html": "/nil-capstone/index.html",
+    "main.105178e5.css.map": "/nil-capstone/static/css/main.105178e5.css.map",
+    "main.99d36595.js.map": "/nil-capstone/static/js/main.99d36595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.105178e5.css",
+    "static/js/main.99d36595.js"
+  ]
+}
