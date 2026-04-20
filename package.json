@@ -1,0 +1,40 @@
+{
+  "name": "nil-capstone",
+  "version": "1.0.0",
+  "description": "The NIL Divide: Money, Power & Competitive Balance - A Data-Driven Capstone Project on Name, Image, and Likeness in NCAA Division I Athletics",
+  "homepage": "https://grant-franklin.github.io/nil-capstone/",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "recharts": "^2.10.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
