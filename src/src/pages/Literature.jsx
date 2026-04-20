@@ -1,6 +1,61 @@
 import React, { useState } from 'react';
 import { theme } from '../styles/theme';
 
+const CollapsibleSection = ({ title, children }) => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  return (
+    <div style={{
+      background: theme.card,
+      border: `1px solid ${theme.border}`,
+      borderRadius: 10,
+      marginBottom: 16,
+      overflow: 'hidden',
+    }}>
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        style={{
+          width: '100%',
+          padding: '16px 20px',
+          background: 'transparent',
+          border: 'none',
+          cursor: 'pointer',
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          fontSize: 16,
+          fontWeight: 700,
+          color: theme.white,
+          transition: 'background 0.2s',
+        }}
+        onMouseEnter={(e) => e.target.style.background = theme.cardAlt}
+        onMouseLeave={(e) => e.target.style.background = 'transparent'}
+      >
+        {title}
+        <span style={{
+          display: 'inline-block',
+          transform: isOpen ? 'rotate(180deg)' : 'rotate(0deg)',
+          transition: 'transform 0.3s',
+          fontSize: 20,
+        }}>
+          ▼
+        </span>
+      </button>
+      {isOpen && (
+        <div style={{
+          padding: '0 20px 16px',
+          borderTop: `1px solid ${theme.border}`,
+          color: theme.text,
+          lineHeight: 1.75,
+          fontSize: 15,
+        }}>
+          {children}
+        </div>
+      )}
+    </div>
+  );
+};
+
 const SourceCard = ({ author, title, year, journal, annotation }) => {
   const [isExpanded, setIsExpanded] = useState(false);
 
@@ -157,6 +212,103 @@ export default function Literature() {
         maxWidth: 900,
         margin: '0 auto',
       }}>
+        {/* Header */}
+        <div style={{
+          marginBottom: 40,
+        }}>
+          <h1 style={{
+            fontSize: 32,
+            fontWeight: 800,
+            color: theme.white,
+            margin: '0 0 12px',
+          }}>
+            Literature Review
+          </h1>
+          <p style={{
+            fontSize: 15,
+            color: theme.muted,
+            lineHeight: 1.6,
+            margin: 0,
+          }}>
+            This section summarizes the current research landscape on NIL policy, financial inequality, and competitive balance in NCAA Division I athletics.
+          </p>
+        </div>
+
+        {/* Accordion Sections */}
+        <div style={{ marginBottom: 40 }}>
+          <CollapsibleSection title="Overview">
+            <p style={{ margin: 0 }}>
+              The literature on Name, Image, and Likeness (NIL) policy presents a rapidly evolving and often contradictory picture. Since the NCAA&apos;s 2021 policy shift, scholars, policy organizations, and industry analysts have documented major growth in athlete compensation opportunities, but they also highlight widening resource disparities between institutional tiers. Across the literature, three points recur: the NIL market is expanding quickly, top-end spending is highly concentrated in Power 4 ecosystems, and the relationship between spending and competitive outcomes is significant but not straightforward.
+            </p>
+          </CollapsibleSection>
+
+          <CollapsibleSection title="Key Themes">
+            <h3 style={{
+              color: theme.accent,
+              fontSize: 16,
+              fontWeight: 700,
+              margin: '16px 0 8px',
+            }}>
+              1) Historical Development
+            </h3>
+            <p style={{ margin: '0 0 12px' }}>
+              Early NIL discussions centered on fairness and athlete rights, but post-2021 scholarship has shifted toward market structure, spending concentration, and institutional adaptation. The legal transition from prohibition to permissive compensation created an immature marketplace where governance, valuation standards, and reporting practices are still unsettled.
+            </p>
+
+            <h3 style={{
+              color: theme.accent,
+              fontSize: 16,
+              fontWeight: 700,
+              margin: '0 0 8px',
+            }}>
+              2) Impact on Student-Athlete Compensation
+            </h3>
+            <p style={{ margin: '0 0 12px' }}>
+              Research and industry reporting agree that NIL has increased total compensation volume, but earnings are unevenly distributed. A small group of highly visible athletes capture outsized deals while most athletes receive comparatively modest compensation, indicating that NIL has expanded opportunity without producing equal benefit across the athlete population.
+            </p>
+
+            <h3 style={{
+              color: theme.accent,
+              fontSize: 16,
+              fontWeight: 700,
+              margin: '0 0 8px',
+            }}>
+              3) Institutional & NCAA Perspectives
+            </h3>
+            <p style={{ margin: '0 0 12px' }}>
+              Institutional and NCAA-focused sources emphasize structural constraints. Power 4 schools enter the NIL era with far greater baseline revenue, donor support, and media exposure, while non-Power 4 programs face steep budget limitations. Literature tied to House settlement discussions reinforces that these pre-existing financial asymmetries shape how effectively institutions can participate in NIL competition.
+            </p>
+
+            <h3 style={{
+              color: theme.accent,
+              fontSize: 16,
+              fontWeight: 700,
+              margin: '0 0 8px',
+            }}>
+              4) Comparative Analysis of State-Level Legislation
+            </h3>
+            <p style={{ margin: 0 }}>
+              Comparative legal analyses show that state-level NIL statutes vary widely in disclosure requirements, enforcement mechanisms, and institutional constraints. This fragmented legal environment creates uneven competitive conditions and reduces data comparability across states, limiting the precision of cross-institution and cross-conference analysis.
+            </p>
+          </CollapsibleSection>
+
+          <CollapsibleSection title="Notable Findings">
+            <ul style={{ margin: 0, paddingLeft: 20 }}>
+              <li style={{ marginBottom: 8 }}><strong>Market concentration is substantial:</strong> Power 4 institutions account for a disproportionate share of top NIL activity and aggregate spending.</li>
+              <li style={{ marginBottom: 8 }}><strong>Competitive effects are mixed:</strong> Some evidence suggests NIL can improve talent access for lower-ranked programs, while other work shows high transfer costs still favor wealthy institutions.</li>
+              <li style={{ marginBottom: 8 }}><strong>Financial inequality remains structural:</strong> Revenue gaps between Power 4 and non-Power 4 schools predate NIL and continue to shape post-policy outcomes.</li>
+              <li style={{ marginBottom: 8 }}><strong>Data quality is inconsistent:</strong> Reporting fragmentation and uneven disclosure standards weaken cross-study comparability and confidence in headline estimates.</li>
+              <li><strong>Correlation does not imply causation:</strong> NIL spending correlates with recruiting and performance indicators, but literature cautions against treating these relationships as direct causal effects.</li>
+            </ul>
+          </CollapsibleSection>
+
+          <CollapsibleSection title="Gaps This Project Addresses">
+            <p style={{ margin: 0 }}>
+              This project addresses a central gap in the literature by integrating financial, NIL, recruiting, and competitive performance data into one comparative framework that evaluates both institutional inequality and competitive outcomes at the same time. Existing studies often isolate one dimension—market size, legal context, recruiting, or win rates—without connecting them across tiers and time periods. By combining these dimensions in a single analysis, this study tests whether NIL expansion primarily reflects existing resource inequality or whether it has produced measurable shifts in competitive balance beyond pre-NIL trends.
+            </p>
+          </CollapsibleSection>
+        </div>
+
         {/* Synthesis Paragraph */}
         <div style={{
           background: theme.card,
