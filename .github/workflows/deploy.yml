@@ -30,6 +30,8 @@ jobs:
     
     - name: Build
       run: npm run build
+      env:
+        CI: false
     
     - name: Add .nojekyll file
       run: touch ./build/.nojekyll
