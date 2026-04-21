@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell, Area, ComposedChart } from "recharts";
+import NILEstimator from "./NILEstimator";
 
 // ═══════════════ THEME ═══════════════
 const T = {
@@ -130,6 +131,7 @@ const NAV = [
   { id: "recruiting", label: "Recruiting" },
   { id: "competitive", label: "Competitive Balance" },
   { id: "correlations", label: "Does Money Buy Wins?" },
+  { id: "estimator", label: "NIL Estimator" },
 ];
 
 // ═══════════════ MAIN ═══════════════
@@ -406,6 +408,14 @@ export default function Part4Dashboard() {
             </ResponsiveContainer>
             <Finding>Money buys talent (r=0.77), and talent predicts team quality (r=0.68) — but money does NOT reliably predict winning (r=0.25). Coaching, scheme fit, player development, and team chemistry all intervene between spending and results. The NIL market is still inefficient.</Finding>
           </ChartWrap>
+        </Section>
+
+        {/* ══════════════ SECTION 6: NIL ESTIMATOR ══════════════ */}
+        <Section id="estimator">
+          <H2 sub="Apply the findings: estimate NIL value for any athlete">Section 6: NIL Value Estimator</H2>
+          <P>This interactive tool applies the patterns we found in the data to estimate what an athlete might earn in NIL compensation. It uses real median NIL figures by conference, position multipliers derived from the NIL Top 100 distribution, and adjustments for star rating, transfer portal status, and social media presence.</P>
+          <P>Remember the key finding from Section 5: NIL spending strongly predicts recruiting quality (r=0.77) but only weakly predicts wins (r=0.25). Treat this tool as an estimate of market value for talent, not a prediction of on-field success.</P>
+          <NILEstimator />
         </Section>
       </div>
     </div>
