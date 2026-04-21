@@ -6,6 +6,7 @@ import Methodology from './pages/Methodology';
 import Findings from './pages/Findings';
 import Conclusion from './pages/Conclusion';
 import WorksCited from './pages/WorksCited';
+import Estimator from './pages/Estimator';
 import './App.css';
 
 const Navigation = () => {
@@ -18,6 +19,7 @@ const Navigation = () => {
     { path: '/findings', label: 'Findings' },
     { path: '/conclusion', label: 'Conclusion' },
     { path: '/works-cited', label: 'Works Cited' },
+    { path: '/estimator', label: 'NIL Estimator' },
   ];
 
   return (
@@ -60,6 +62,7 @@ function App() {
               <Route path="/findings" element={<Findings />} />
               <Route path="/conclusion" element={<Conclusion />} />
               <Route path="/works-cited" element={<WorksCited />} />
+              <Route path="/estimator" element={<Estimator />} />
             </Routes>
           </div>
         </main>
