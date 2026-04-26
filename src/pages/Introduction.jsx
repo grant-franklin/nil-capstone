@@ -11,19 +11,85 @@ const T = {
 };
 
 // ═══════════════ STAT CARD COMPONENT ═══════════════
-const Stat = ({ label, value, accent = T.accent }) => (
-  <div style={{
-    background: T.card, border: `1px solid ${T.border}`, borderLeft: `3px solid ${accent}`,
-    borderRadius: 10, padding: "16px 20px", flex: "1 1 140px", minWidth: 100,
-  }}>
-    <p style={{ fontSize: 11, color: T.muted, textTransform: 'uppercase', letterSpacing: 1, fontWeight: 700, margin: '0 0 8px' }}>
-      {label}
-    </p>
-    <p style={{ fontSize: 24, fontWeight: 800, color: T.white, margin: '4px 0' }}>
-      {value}
-    </p>
-  </div>
-);
+const Stat = ({ label, value, accent = T.accent, description }) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+
+  return (
+    <div style={{ flex: "1 1 140px", minWidth: 100 }}>
+      <button
+        onClick={() => setIsExpanded(!isExpanded)}
+        style={{
+          background: T.card,
+          border: `1px solid ${T.border}`,
+          borderLeft: `3px solid ${accent}`,
+          borderRadius: 10,
+          padding: "16px 20px",
+          width: '100%',
+          cursor: 'pointer',
+          transition: 'all 200ms ease',
+          textAlign: 'left',
+        }}
+        onMouseEnter={(e) => {
+          if (description) {
+            e.currentTarget.style.borderColor = accent;
+            e.currentTarget.style.boxShadow = `0 4px 16px ${accent}20`;
+          }
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.borderColor = T.border;
+          e.currentTarget.style.boxShadow = 'none';
+        }}
+      >
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+          <div style={{ flex: 1 }}>
+            <p style={{ fontSize: 11, color: T.muted, textTransform: 'uppercase', letterSpacing: 1, fontWeight: 700, margin: '0 0 8px' }}>
+              {label}
+            </p>
+            <p style={{ fontSize: 24, fontWeight: 800, color: T.white, margin: '4px 0' }}>
+              {value}
+            </p>
+          </div>
+          {description && (
+            <div style={{
+              fontSize: 16,
+              color: accent,
+              marginLeft: 12,
+              display: 'flex',
+              alignItems: 'center',
+              transition: 'transform 200ms ease',
+              transform: isExpanded ? 'rotate(180deg)' : 'rotate(0deg)',
+            }}>
+              ↓
+            </div>
+          )}
+        </div>
+      </button>
+
+      {/* Expandable description */}
+      {description && (
+        <div style={{
+          maxHeight: isExpanded ? '200px' : '0px',
+          overflow: 'hidden',
+          transition: 'max-height 300ms ease',
+          marginTop: isExpanded ? 12 : 0,
+        }}>
+          <div style={{
+            background: T.cardAlt,
+            border: `1px solid ${T.border}`,
+            borderRadius: 8,
+            padding: '12px 16px',
+            fontSize: 13,
+            color: T.muted,
+            lineHeight: 1.6,
+            fontStyle: 'italic',
+          }}>
+            {description}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+};
 
 // ═══════════════ NAVIGATION LINK CARD ═══════════════
 const NavCard = ({ number, title, description, route }) => {
@@ -128,10 +194,30 @@ export default function Introduction() {
 
       {/* KEY STATS STRIP */}
       <div style={{ maxWidth: 900, margin: '0 auto', padding: '0 24px 60px', display: 'flex', gap: 12, flexWrap: 'wrap', justifyContent: 'space-between' }}>
-        <Stat label="Revenue gap (2023)" value="$115M" accent={T.red} />
-        <Stat label="Top NIL athletes at Power 4" value="85 of 100" accent={T.blue} />
-        <Stat label="NIL → recruit quality" value="r = 0.77" accent={T.green} />
-        <Stat label="NIL → winning" value="r = 0.25" accent={T.accent} />
+        <Stat 
+          label="Revenue gap (2023)" 
+          value="$115M" 
+          accent={T.red}
+          description="The average revenue difference between Power 4 and Group of 5 athletic departments in 2023, illustrating the financial chasm that NIL operates on top of."
+        />
+        <Stat 
+          label="Top NIL athletes at Power 4" 
+          value="85 of 100" 
+          accent={T.blue}
+          description="Per On3's 2025 NIL 100 rankings, 85 of the top 100 highest-valued athletes play at Power 4 schools — evidence that NIL money concentrates where institutional resources already do."
+        />
+        <Stat 
+          label="NIL → recruit quality" 
+          value="r = 0.77" 
+          accent={T.green}
+          description="A strong positive correlation between program NIL spending and incoming recruiting class rankings, suggesting NIL is reshaping where top recruits land."
+        />
+        <Stat 
+          label="NIL → winning" 
+          value="r = 0.25" 
+          accent={T.accent}
+          description="A weak correlation between NIL spending and on-field wins, indicating money buys talent acquisition more reliably than it buys results."
+        />
       </div>
 
       {/* ABSTRACT SECTION */}
