@@ -47,7 +47,7 @@ const SECTIONS = [
     teaser: "230+ public Division I schools, three revenue sports, 2015–2026. About 12% of records dropped - mostly private schools excluded from EADA.",
     icon: "🎯",
     color: T.blue,
-... `Financial analysis covered all 230+ public Division I institutions tracked by Knight-Newhouse and the full EADA universe of Title IV schools. Competitive and recruiting analysis covered three revenue sports: FBS football, Division I men's basketball, and Division I women's basketball. Temporal coverage runs from 2015–2023 for financial data, 2018–2025 for competitive performance, and 2022–2026 for recruiting. Approximately 12% of team-year records were dropped due to unresolvable missing data - most often private schools excluded from EADA reporting (Duke, Stanford, USC, Notre Dame, and similar).
+    content: `Financial analysis covered all 230+ public Division I institutions tracked by Knight-Newhouse and the full EADA universe of Title IV schools. Competitive and recruiting analysis covered three revenue sports: FBS football, Division I men's basketball, and Division I women's basketball. Temporal coverage runs from 2015–2023 for financial data, 2018–2025 for competitive performance, and 2022–2026 for recruiting. Approximately 12% of team-year records were dropped due to unresolvable missing data - most often private schools excluded from EADA reporting (Duke, Stanford, USC, Notre Dame, and similar).
 
 Programs were grouped into three tiers following EADA conference classification. Basketball uses a slightly different tier structure than football because the Big East, West Coast Conference, and American have different competitive positions in basketball than they do in football.`,
   },

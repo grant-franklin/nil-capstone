@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nil-capstone/static/css/main.a8a12920.css",
-    "main.js": "/nil-capstone/static/js/main.86f702b4.js",
+    "main.js": "/nil-capstone/static/js/main.7803391c.js",
     "index.html": "/nil-capstone/index.html",
     "main.a8a12920.css.map": "/nil-capstone/static/css/main.a8a12920.css.map",
-    "main.86f702b4.js.map": "/nil-capstone/static/js/main.86f702b4.js.map"
+    "main.7803391c.js.map": "/nil-capstone/static/js/main.7803391c.js.map"
   },
   "entrypoints": [
     "static/css/main.a8a12920.css",
-    "static/js/main.86f702b4.js"
+    "static/js/main.7803391c.js"
   ]
 }
