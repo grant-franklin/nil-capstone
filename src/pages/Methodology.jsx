@@ -184,13 +184,14 @@ const Modal = ({ section, onClose }) => {
     return (
       <>
         {paragraphs.map((para, i) => {
-          if (para.startsWith('<h3>')) {
-            const title = para.replace(/<\/?h3>/g, '');
+          const trimmedPara = para.trim();
+          if (trimmedPara.startsWith('<h3>')) {
+            const title = trimmedPara.replace(/<\/?h3>/g, '');
             return <h3 key={i} style={{ fontSize: 17, fontWeight: 700, color: T.white, margin: '20px 0 12px', paddingBottom: 8, borderBottom: `1px solid ${T.border}` }}>{title}</h3>;
           }
           return (
             <p key={i} style={{ fontSize: 15, color: T.text, lineHeight: 1.75, marginBottom: 16 }}>
-              {para.split(/(<strong>.*?<\/strong>)/g).map((part, j) => {
+              {trimmedPara.split(/(<strong>.*?<\/strong>)/g).map((part, j) => {
                 if (part.startsWith('<strong>')) {
                   const text = part.replace(/<\/?strong>/g, '');
                   return <strong key={j} style={{ color: T.white }}>{text}</strong>;
