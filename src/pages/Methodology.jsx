@@ -106,19 +106,19 @@ The project also measures correlation and temporal change, not causation. When a
     color: T.accent,
     content: `I used Anthropic's Claude at multiple stages of this project. Honest disclosure is more useful than a generic acknowledgment, so what follows is a specific account of what I delegated, what I kept, and what I learned.
 
-<h3>What I used AI for</h3>
+<h3>What I Used AI For</h3>
 The most substantial assistance was in building the React application. I came into this project comfortable with Python and data analysis but had never built a React/Vite app from scratch or deployed to GitHub Pages. Claude acted as a pair programmer for the front-end build — I described what I wanted each page to do, and we iterated on JSX components together. I also used Claude for code generation in the data-cleaning pipeline (particularly team name normalization across datasets), for translating chart concepts into Recharts component code, and for drafting initial versions of several written sections on this site, which I then edited heavily for voice and accuracy.
 
-<h3>What I did not delegate</h3>
+<h3>What I Did Not Delegate</h3>
 The research question, hypothesis, data-source selection, and interpretation of findings are my own. I chose which sources to use, which comparisons to make, and what the results meant. I also kept all of the domain judgment calls — when data was ambiguous, I made the call myself after checking source reporting.
 
-<h3>What worked</h3>
+<h3>What Worked</h3>
 AI-assisted development let me spend more time on the analytical and interpretive work rather than fighting configuration issues. Claude was also a useful writing partner: I would draft or describe an idea, Claude would propose a cleaner version, and I would edit that for voice and accuracy. The final prose is mine; the velocity at which I produced it was accelerated.
 
-<h3>What didn't work</h3>
+<h3>What Didn't Work</h3>
 AI tools made confident errors that required verification. Early in the project, Claude gave me GitHub setup instructions in the wrong order (create remote repo before local init, which is backwards). I caught it because I had enough Git background to notice, but the experience made clear that AI-generated technical instructions need review even when they look authoritative. I also started out trying to embed Python-generated charts into a static HTML site via CDN scripts — an AI-suggested approach that worked in isolation but broke on deployment. Rebuilding as a proper React application was a significantly larger lift but produced a much cleaner result. The lesson: AI tools are good at generating options, not always at recommending the one that will hold up long-term.
 
-<h3>What I learned</h3>
+<h3>What I Learned</h3>
 Working with AI forced me to be more explicit about my intent at every step. When I couldn't cleanly describe what I wanted, the output was bad. When I could, the output was good. That discipline of articulating requirements before writing code is something I'll carry into future projects whether I'm using AI assistance or not. AI tools are excellent for reducing friction on technical implementation and polishing prose — but they are not a substitute for domain knowledge, judgment about what the data means, or the work of deciding what question is worth asking in the first place.`,
   },
 ];
