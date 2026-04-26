@@ -16,7 +16,7 @@ const CITATIONS = [
     category: "academic",
     type: "Peer-Reviewed Study",
     citation: <>Li, Ivan, and Tim Derdenger. "Does Personalized Pricing Increase Competition? Evidence from NIL in College Football." <em>Management Science</em>, 2025.</>,
-    annotation: "Central interpretive framework for this project. Argues NIL improved competitive balance by breaking up the NCAA's pricing cartel — the thesis this project tests against the data.",
+    annotation: "Central interpretive framework for this project. Argues NIL improved competitive balance by breaking up the NCAA's pricing cartel - the thesis this project tests against the data.",
     url: "https://doi.org/10.1287/mnsc.2024.06423",
   },
   {
@@ -314,7 +314,7 @@ export default function WorksCited() {
           title="Public Datasets"
           icon="📂"
           color={T.purple}
-          description="The primary quantitative sources — financial, NIL, and performance data — that power this project's analysis."
+          description="The primary quantitative sources - financial, NIL, and performance data - that power this project's analysis."
           citations={datasets}
         />
       </div>

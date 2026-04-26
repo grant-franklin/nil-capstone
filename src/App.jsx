@@ -42,7 +42,7 @@ const Hero = () => (
     <div className="hero-content">
       <span className="hero-label">DCDA Capstone Project</span>
       <h1 className="hero-title">The NIL Divide: Money, Power & Competitive Balance</h1>
-      <p className="hero-subtitle">Grant Franklin — DCDA Capstone — Spring 2026</p>
+      <p className="hero-subtitle">Grant Franklin - DCDA Capstone - Spring 2026</p>
     </div>
   </div>
 );

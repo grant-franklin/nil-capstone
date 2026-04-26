@@ -20,9 +20,9 @@ const SECTIONS = [
     color: T.accent,
     content: `The research question asked how NIL compensation has affected the financial divide and competitive balance between Power 4 and non-Power 4 NCAA Division I programs. The data answers the first half of that question clearly and the second half with important qualifications.
 
-The financial divide has widened substantially. The revenue gap between Power 5 and Group of 5 athletic departments grew from $80M in 2019 to $115M in 2023 — a 44% increase that coincides directly with the introduction of NIL. Eighty-five of the top 100 NIL-valued athletes attend Power 4 schools, only one is at a non-Power 4 program, and the correlation between NIL spending and recruit quality strengthened from r = 0.50 in 2023 to r = 0.77 in 2025. On the financial side, the evidence is consistent and unambiguous: the rich have gotten richer, faster.
+The financial divide has widened substantially. The revenue gap between Power 5 and Group of 5 athletic departments grew from $80M in 2019 to $115M in 2023 - a 44% increase that coincides directly with the introduction of NIL. Eighty-five of the top 100 NIL-valued athletes attend Power 4 schools, only one is at a non-Power 4 program, and the correlation between NIL spending and recruit quality strengthened from r = 0.50 in 2023 to r = 0.77 in 2025. On the financial side, the evidence is consistent and unambiguous: the rich have gotten richer, faster.
 
-The competitive balance question is more complicated. In football, the gap widened — Power conference teams went from winning at a rate 6.2 percentage points higher than Group of 5 teams before NIL to 8.0 percentage points higher after, and their SRS advantage grew from 5.6 to 7.2. But men's basketball moved in the opposite direction. Power conference teams actually got slightly worse post-NIL (58.8% win rate vs. 59.4% pre-NIL), while High-Major programs gained 1.5 percentage points. Women's basketball was essentially flat. The competitive effect of NIL is sport-dependent, not uniform.`,
+The competitive balance question is more complicated. In football, the gap widened - Power conference teams went from winning at a rate 6.2 percentage points higher than Group of 5 teams before NIL to 8.0 percentage points higher after, and their SRS advantage grew from 5.6 to 7.2. But men's basketball moved in the opposite direction. Power conference teams actually got slightly worse post-NIL (58.8% win rate vs. 59.4% pre-NIL), while High-Major programs gained 1.5 percentage points. Women's basketball was essentially flat. The competitive effect of NIL is sport-dependent, not ...
   },
   {
     id: 2,
@@ -31,9 +31,9 @@ The competitive balance question is more complicated. In football, the gap widen
     teaser: "Most clearly supported in basketball, partially supported in football, and supported by default in women's basketball.",
     icon: "✅",
     color: T.teal,
-    content: `The stated hypothesis — that NIL has widened the financial gap but that the competitive gap has not widened proportionally — is supported, with a caveat. It is most clearly supported in basketball, where the financial gap widened dramatically (NIL-per-recruit went from near-parity in 2022 to an 8x gap in 2026) while the competitive gap actually narrowed. It is only partially supported in football, where both gaps widened, though the competitive widening was meaningfully smaller than the financial widening would predict. Women's basketball supports the hypothesis by showing minimal movement.
+    content: `The stated hypothesis - that NIL has widened the financial gap but that the competitive gap has not widened proportionally - is supported, with a caveat. It is most clearly supported in basketball, where the financial gap widened dramatically (NIL-per-recruit went from near-parity in 2022 to an 8x gap in 2026) while the competitive gap actually narrowed. It is only partially supported in football, where both gaps widened, though the competitive widening was meaningfully smaller than the financial widening would predict. Women's basketball supports the hypothesis by showing minimal movement.
 
-The proposed mechanism — that NIL spending alone cannot override coaching, culture, scheme fit, and development — is borne out by the weak NIL-to-winning correlation (r ≈ 0.25). Money reliably buys recruits (r = 0.77), and recruits reliably produce team quality (r = 0.68), but the chain from spending to winning is broken by everything that happens between recruitment and game day. The NIL marketplace is still inefficient enough that high spending does not translate directly to high win totals.`,
+The proposed mechanism - that NIL spending alone cannot override coaching, culture, scheme fit, and development - is borne out by the weak NIL-to-winning correlation (r ≈ 0.25). Money reliably buys recruits (r = 0.77), and recruits reliably produce team quality (r = 0.68), but the chain from spending to winning is broken by everything that happens between recruitment and game day. The NIL marketplace is still inefficient enough that high spending does not translate directly to high win totals.`,
   },
   {
     id: 3,
@@ -48,10 +48,10 @@ The proposed mechanism — that NIL spending alone cannot override coaching, cul
 Li and Derdenger's 2025 Management Science study argued that NIL improved competitive balance. Pitts and Evans's 2025 Journal of Sports Economics study argued that NIL's impact on talent distribution is limited by prohibitive costs. Both arguments are defensible, and the existing literature has not adjudicated between them. This project's cross-sport comparison offers one piece of evidence: both are partially right, and which one is more right depends on the sport. Basketball fits the Li & Derdenger frame. Football fits the Pitts & Evans frame. Women's basketball fits neither cleanly.
 
 <h3>Second, it extends analysis beyond recruiting</h3>
-Most published NIL research measures effects on recruiting outcomes because recruiting data is more abundant. This project adds on-field performance data — win percentages, SRS values, and their pre/post changes — which is where the theoretically interesting disconnect actually shows up. The finding that NIL-to-recruiting is strong (r = 0.77) while NIL-to-winning is weak (r = 0.25) is not prominently documented in existing peer-reviewed research, and it has practical implications for how athletic administrators should think about NIL ROI.
+Most published NIL research measures effects on recruiting outcomes because recruiting data is more abundant. This project adds on-field performance data - win percentages, SRS values, and their pre/post changes - which is where the theoretically interesting disconnect actually shows up. The finding that NIL-to-recruiting is strong (r = 0.77) while NIL-to-winning is weak (r = 0.25) is not prominently documented in existing peer-reviewed research, and it has practical implications for how athletic administrators should think about NIL ROI.
 
 <h3>Third, it prioritizes accessibility</h3>
-The analysis is presented through interactive web dashboards rather than a traditional research report. Athletic directors, journalists, and fans who need to understand cross-conference NIL patterns can explore the data directly instead of interpreting someone else's static charts. This addresses a real gap — most NIL data is either paywalled in industry reports or buried in academic journals inaccessible to the general sports-literate public.`,
+The analysis is presented through interactive web dashboards rather than a traditional research report. Athletic directors, journalists, and fans who need to understand cross-conference NIL patterns can explore the data directly instead of interpreting someone else's static charts. This addresses a real gap - most NIL data is either paywalled in industry reports or buried in academic journals inaccessible to the general sports-literate public.`,
   },
   {
     id: 4,
@@ -63,10 +63,10 @@ The analysis is presented through interactive web dashboards rather than a tradi
     content: `Answering the research question surfaced several follow-up questions this project cannot address on its own.
 
 <h3>Why is the competitive effect sport-dependent?</h3>
-The clearest analytical puzzle is why football and basketball moved in opposite directions post-NIL. One theory is roster size — football's 105-player rosters dilute the impact of any single NIL signing, while basketball's 15-player rosters let a single star transform a program. Another is transfer portal dynamics; basketball's portal activity is proportionally larger. A third is that football's media rights disparities are so much larger than basketball's that the landscape was already tilted before NIL. Testing these explanations requires data this project did not collect.
+The clearest analytical puzzle is why football and basketball moved in opposite directions post-NIL. One theory is roster size - football's 105-player rosters dilute the impact of any single NIL signing, while basketball's 15-player rosters let a single star transform a program. Another is transfer portal dynamics; basketball's portal activity is proportionally larger. A third is that football's media rights disparities are so much larger than basketball's that the landscape was already tilted before NIL. Testing these explanations requires data this project did not collect.
 
 <h3>What happens when the NIL marketplace matures?</h3>
-The weak NIL-to-winning correlation is a snapshot of an immature marketplace, not a permanent feature. As valuations become more accurate and the NIL Go clearinghouse imposes more structured compliance, the marketplace should become more efficient — meaning the current disconnect between financial inequality and competitive balance may not last. Tracking that convergence is the most important follow-up question this project raises.
+The weak NIL-to-winning correlation is a snapshot of an immature marketplace, not a permanent feature. As valuations become more accurate and the NIL Go clearinghouse imposes more structured compliance, the marketplace should become more efficient - meaning the current disconnect between financial inequality and competitive balance may not last. Tracking that convergence is the most important follow-up question this project raises.
 
 <h3>How will the settlement era reshape non-revenue sports?</h3>
 This project focused on the three revenue sports. But the House v. NCAA settlement allows schools to fund revenue sharing out of total athletic budgets, which raises the question of what happens to Olympic and non-revenue sports when athletic departments need to find $20M annually in new compensation spending. Early reporting suggests some schools have begun cutting non-revenue sports, but systematic data does not yet exist.
@@ -78,14 +78,14 @@ WBB is the third-largest NIL sport and growing fast. Its competitive balance was
     id: 5,
     number: "05",
     title: "A Final Word",
-    teaser: "The financial arms race is real. The competitive monopoly hasn't arrived — but the window in which it can be resisted may be narrowing.",
+    teaser: "The financial arms race is real. The competitive monopoly hasn't arrived - but the window in which it can be resisted may be narrowing.",
     icon: "✍️",
     color: T.gold,
-    content: `The data confirms the hypothesis: the financial gap between Power 4 and non-Power 4 programs is widening dramatically in the NIL era, but the on-field competitive gap has not widened proportionally. Football shows the most concerning trend toward consolidation; basketball has actually become more competitive; women's basketball is still taking shape. The NIL marketplace remains immature and inefficient — high spending does not yet reliably translate to winning.
+    content: `The data confirms the hypothesis: the financial gap between Power 4 and non-Power 4 programs is widening dramatically in the NIL era, but the on-field competitive gap has not widened proportionally. Football shows the most concerning trend toward consolidation; basketball has actually become more competitive; women's basketball is still taking shape. The NIL marketplace remains immature and inefficient - high spending does not yet reliably translate to winning.
 
-The question for the future is whether this disconnect will hold. As the marketplace matures, valuations sharpen, and revenue sharing takes full effect, the weak correlation between spending and winning may strengthen. The window in which coaching, culture, and creativity can overcome a financial disadvantage may be narrowing — but it has not yet closed.`,
+The question for the future is whether this disconnect will hold. As the marketplace matures, valuations sharpen, and revenue sharing takes full effect, the weak correlation between spending and winning may strengthen. The window in which coaching, culture, and creativity can overcome a financial disadvantage may be narrowing - but it has not yet closed.`,
     hasBlockquote: true,
-    blockquoteText: "The financial arms race is real. The competitive monopoly hasn't arrived — but the window in which it can be resisted may be narrowing.",
+    blockquoteText: "The financial arms race is real. The competitive monopoly hasn't arrived - but the window in which it can be resisted may be narrowing.",
   },
 ];
 

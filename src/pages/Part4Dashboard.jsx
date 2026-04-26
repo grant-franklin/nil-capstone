@@ -177,11 +177,11 @@ export default function Part4Dashboard() {
         {/* ══════════════ SECTION 1: FINANCIAL DIVIDE ══════════════ */}
         <Section id="financial">
           <H2 sub="How wide is the gap, and is it growing?">Section 1: The Financial Divide</H2>
-          <P>The financial disparity between Power 5 and Group of 5 athletic departments has been growing for decades — but the NIL era has accelerated it dramatically. Using EADA data filed with the U.S. Department of Education, we can trace the revenue gap from 2015 to 2023 and measure exactly how much the landscape has shifted since NIL's introduction in July 2021.</P>
+          <P>The financial disparity between Power 5 and Group of 5 athletic departments has been growing for decades - but the NIL era has accelerated it dramatically. Using EADA data filed with the U.S. Department of Education, we can trace the revenue gap from 2015 to 2023 and measure exactly how much the landscape has shifted since NIL's introduction in July 2021.</P>
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>Average Total Athletic Revenue by Tier (2023)</h3>
-            <Source>EADA_CFB_MBB_WBB_Analysis.xlsx — Master Data, 2023 Grand Total Revenue by Tier</Source>
+            <Source>EADA_CFB_MBB_WBB_Analysis.xlsx - Master Data, 2023 Grand Total Revenue by Tier</Source>
             <ResponsiveContainer width="100%" height={280}>
               <BarChart data={revenueByTier} barGap={8}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -197,14 +197,14 @@ export default function Part4Dashboard() {
                 </Bar>
               </BarChart>
             </ResponsiveContainer>
-            <Finding>Power 5 schools average $161.8M in revenue — 3.5x more than Group of 5 ($46.5M) and 6.1x more than FCS ($26.4M). Zero Group of 5 schools have enough surplus to fund the $20.5M revenue sharing cap. Only 10% of Power 5 schools do.</Finding>
+            <Finding>Power 5 schools average $161.8M in revenue - 3.5x more than Group of 5 ($46.5M) and 6.1x more than FCS ($26.4M). Zero Group of 5 schools have enough surplus to fund the $20.5M revenue sharing cap. Only 10% of Power 5 schools do.</Finding>
           </ChartWrap>
 
-          <P>The gap isn't just big — it's compounding. The ratio of Power 5 to Group of 5 revenue has climbed steadily from 3.0x in 2015 to 3.5x in 2023. COVID briefly compressed the gap in 2020, but it rebounded sharply, and the post-COVID acceleration coincides directly with NIL's introduction.</P>
+          <P>The gap isn't just big - it's compounding. The ratio of Power 5 to Group of 5 revenue has climbed steadily from 3.0x in 2015 to 3.5x in 2023. COVID briefly compressed the gap in 2020, but it rebounded sharply, and the post-COVID acceleration coincides directly with NIL's introduction.</P>
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>Revenue Gap: Power 5 vs. Group of 5 (2015–2023)</h3>
-            <Source>EADA_CFB_MBB_WBB_Analysis.xlsx — Master Data, Grand Total Revenue by Tier by Year</Source>
+            <Source>EADA_CFB_MBB_WBB_Analysis.xlsx - Master Data, Grand Total Revenue by Tier by Year</Source>
             <ResponsiveContainer width="100%" height={300}>
               <ComposedChart data={revenueTimeline}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -222,7 +222,7 @@ export default function Part4Dashboard() {
               <span style={{ fontSize: 11, color: T.accent, fontWeight: 700, margin: "0 12px" }}>▼ NIL begins Jul 2021</span>
               <span style={{ fontSize: 11, color: T.muted }}> Post-NIL →</span>
             </div>
-            <Finding>The revenue gap grew from $80M (2019) to $115M (2023) — a 44% increase in just four years. That $35M increase alone exceeds the entire annual budget of many FCS programs.</Finding>
+            <Finding>The revenue gap grew from $80M (2019) to $115M (2023) - a 44% increase in just four years. That $35M increase alone exceeds the entire annual budget of many FCS programs.</Finding>
           </ChartWrap>
         </Section>
 
@@ -239,7 +239,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>NIL Top 100: Athletes by Conference</h3>
-            <Source>ON3_2025_NIL_TOP100.html — conf and nil valuation fields</Source>
+            <Source>ON3_2025_NIL_TOP100.html - conf and nil valuation fields</Source>
             <ResponsiveContainer width="100%" height={260}>
               <BarChart data={nilConf} layout="vertical">
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -251,14 +251,14 @@ export default function Part4Dashboard() {
                 </Bar>
               </BarChart>
             </ResponsiveContainer>
-            <Finding>The SEC and Big Ten together account for 51 of the top 100 athletes and $64M of $104.9M in known NIL valuations. These are the same conferences with the largest media rights deals — creating a reinforcing cycle of revenue, talent, and exposure.</Finding>
+            <Finding>The SEC and Big Ten together account for 51 of the top 100 athletes and $64M of $104.9M in known NIL valuations. These are the same conferences with the largest media rights deals - creating a reinforcing cycle of revenue, talent, and exposure.</Finding>
           </ChartWrap>
 
-          <P>The inequality extends beyond which schools get the money — it's also about how deals are structured. NCAA NIL Assist data reveals an extreme gap between average and median deal values, meaning a tiny number of massive deals distort the landscape while most athletes earn very little.</P>
+          <P>The inequality extends beyond which schools get the money - it's also about how deals are structured. NCAA NIL Assist data reveals an extreme gap between average and median deal values, meaning a tiny number of massive deals distort the landscape while most athletes earn very little.</P>
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>NIL Deal Inequality: Average vs. Median</h3>
-            <Source>NCAA_NIL_Assist_Deal_Data_summary.xlsx — Raw Data sheet</Source>
+            <Source>NCAA_NIL_Assist_Deal_Data_summary.xlsx - Raw Data sheet</Source>
             <ResponsiveContainer width="100%" height={260}>
               <BarChart data={nilDeals}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -270,7 +270,7 @@ export default function Part4Dashboard() {
                 <Bar dataKey="median" name="Median Deal" fill={T.accent} radius={[4,4,0,0]} />
               </BarChart>
             </ResponsiveContainer>
-            <Finding>Post-settlement, the average MBB deal ($8,708) is 107.5x the median ($81). Over 50% of all deals are under $100. The NIL system has created a superstar economy — not broad-based athlete compensation.</Finding>
+            <Finding>Post-settlement, the average MBB deal ($8,708) is 107.5x the median ($81). Over 50% of all deals are under $100. The NIL system has created a superstar economy - not broad-based athlete compensation.</Finding>
           </ChartWrap>
         </Section>
 
@@ -291,7 +291,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>Avg NIL Per Recruit: Power 4 vs. Non-Power 4 ({sportToggle === "fb" ? "Football" : "Basketball"})</h3>
-            <Source>ON3_Rankings_CLEANED.xlsx — Avg_NIL_Numeric by Tier, {sportToggle === "fb" ? "Football" : "Basketball"}</Source>
+            <Source>ON3_Rankings_CLEANED.xlsx - Avg_NIL_Numeric by Tier, {sportToggle === "fb" ? "Football" : "Basketball"}</Source>
             <ResponsiveContainer width="100%" height={300}>
               <BarChart data={nilRecruit} barGap={4}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -305,7 +305,7 @@ export default function Part4Dashboard() {
             </ResponsiveContainer>
             <Finding>
               {sportToggle === "fb"
-                ? "Football's NIL spending gap is 4.5x in 2026 ($57K vs $13K per recruit). Power 4 programs hold 96.9% of all 5-star recruits post-NIL — down only slightly from 100% pre-NIL."
+                ? "Football's NIL spending gap is 4.5x in 2026 ($57K vs $13K per recruit). Power 4 programs hold 96.9% of all 5-star recruits post-NIL - down only slightly from 100% pre-NIL."
                 : "Basketball's NIL gap exploded from near-parity in 2022 to 8x in 2026 ($368K vs $46K). Smaller rosters mean each recruit is a bigger share of the team, so schools concentrate spending on a few difference-makers."
               }
             </Finding>
@@ -315,7 +315,7 @@ export default function Part4Dashboard() {
         {/* ══════════════ SECTION 4: COMPETITIVE BALANCE ══════════════ */}
         <Section id="competitive">
           <H2 sub="Is the money gap producing a bigger gap on the field?">Section 4: Competitive Balance</H2>
-          <P>This is the central tension of the project. The financial gap is widening, NIL is concentrated at the top, and spending predicts recruiting quality — but does all of that actually translate to a wider competitive gap on the field? The answer depends on which sport you're watching.</P>
+          <P>This is the central tension of the project. The financial gap is widening, NIL is concentrated at the top, and spending predicts recruiting quality - but does all of that actually translate to a wider competitive gap on the field? The answer depends on which sport you're watching.</P>
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>CFB Win Percentage: Power vs. Group of 5 (2018–2025)</h3>
@@ -337,14 +337,14 @@ export default function Part4Dashboard() {
               <span style={{ fontSize: 11, color: T.accent, fontWeight: 700, margin: "0 12px" }}>▼ NIL Jul 2021</span>
               <span style={{ fontSize: 11, color: T.muted }}> Post-NIL →</span>
             </div>
-            <Finding>CFB's competitive gap widened from 6.2pp (2018-19) to 8.0pp (2022-25). Power teams aren't just winning more — their SRS advantage grew from 5.6 to 7.2, meaning they're winning by larger margins against stronger opponents.</Finding>
+            <Finding>CFB's competitive gap widened from 6.2pp (2018-19) to 8.0pp (2022-25). Power teams aren't just winning more - their SRS advantage grew from 5.6 to 7.2, meaning they're winning by larger margins against stronger opponents.</Finding>
           </ChartWrap>
 
           <P>But basketball tells a different story. Power conference teams actually saw their win percentage decline slightly post-NIL, while High-Major programs like Gonzaga, Marquette, and Saint Mary's gained ground. Women's basketball showed minimal change.</P>
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 12px" }}>Cross-Sport Competitive Balance Summary</h3>
-            <Source>Sports_Reference.xlsx — CFB, MBB, WBB Data sheets, pre-NIL vs. post-NIL averages</Source>
+            <Source>Sports_Reference.xlsx - CFB, MBB, WBB Data sheets, pre-NIL vs. post-NIL averages</Source>
             <div style={{ overflowX: "auto" }}>
               <table style={{ width: "100%", borderCollapse: "separate", borderSpacing: 0, fontSize: 13 }}>
                 <thead>
@@ -376,7 +376,7 @@ export default function Part4Dashboard() {
                 </tbody>
               </table>
             </div>
-            <Finding>The competitive impact of NIL is sport-dependent. Football is consolidating toward Power programs, but basketball actually became more competitive post-NIL — High-Majors gained +1.5pp. This supports the theory that NIL breaks up the NCAA "cartel" most effectively in sports with smaller rosters.</Finding>
+            <Finding>The competitive impact of NIL is sport-dependent. Football is consolidating toward Power programs, but basketball actually became more competitive post-NIL - High-Majors gained +1.5pp. This supports the theory that NIL breaks up the NCAA "cartel" most effectively in sports with smaller rosters.</Finding>
           </ChartWrap>
         </Section>
 
@@ -406,7 +406,7 @@ export default function Part4Dashboard() {
                 <Line dataKey="nilWin" name="NIL → Win%" stroke={T.accent} strokeWidth={3} dot={{ r: 5 }} />
               </LineChart>
             </ResponsiveContainer>
-            <Finding>Money buys talent (r=0.77), and talent predicts team quality (r=0.68) — but money does NOT reliably predict winning (r=0.25). Coaching, scheme fit, player development, and team chemistry all intervene between spending and results. The NIL market is still inefficient.</Finding>
+            <Finding>Money buys talent (r=0.77), and talent predicts team quality (r=0.68) - but money does NOT reliably predict winning (r=0.25). Coaching, scheme fit, player development, and team chemistry all intervene between spending and results. The NIL market is still inefficient.</Finding>
           </ChartWrap>
         </Section>
 

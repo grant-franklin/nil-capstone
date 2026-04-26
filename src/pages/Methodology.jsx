@@ -18,13 +18,13 @@ const SECTIONS = [
     teaser: "A mixed-methods design: primarily quantitative comparison across two eras (pre-NIL 2018–2021, post-NIL 2022–2026) and three program tiers.",
     icon: "🧭",
     color: T.accent,
-    content: `This project uses a mixed-methods design that is primarily quantitative, supported by qualitative context drawn from academic research, policy documents, and industry reports. The analytical frame is comparative and longitudinal: programs are grouped into three tiers (Power 5/Power 4, Group of 5/High-Major, and FCS/Low-Major) and compared across two eras — pre-NIL (2018–2021) and post-NIL (2022–2026). The research relies entirely on publicly available secondary data; no surveys, interviews, or proprietary datasets were used.`,
+    content: `This project uses a mixed-methods design that is primarily quantitative, supported by qualitative context drawn from academic research, policy documents, and industry reports. The analytical frame is comparative and longitudinal: programs are grouped into three tiers (Power 5/Power 4, Group of 5/High-Major, and FCS/Low-Major) and compared across two eras - pre-NIL (2018-2021) and post-NIL (2022-2026). The research relies entirely on publicly available secondary data; no surveys, interviews, or proprietary datasets were used.`,
   },
   {
     id: 2,
     number: "02",
     title: "Data Collection",
-    teaser: "Nine public datasets — EADA, Knight-Newhouse, NCAA NIL Assist, On3, Sports Reference, and more — consolidated into a single pipeline.",
+    teaser: "Nine public datasets - EADA, Knight-Newhouse, NCAA NIL Assist, On3, Sports Reference, and more - consolidated into a single pipeline.",
     icon: "📥",
     color: T.teal,
     content: `Nine public datasets were consolidated into a single analytical pipeline. Each was chosen for a specific role in the comparison. Data was downloaded in native formats (Excel, CSV, and in one case scraped from an embedded JavaScript object in the On3 Top 100 HTML page) and processed in Python.`,
@@ -44,10 +44,10 @@ const SECTIONS = [
     id: 3,
     number: "03",
     title: "Sample Size & Scope",
-    teaser: "230+ public Division I schools, three revenue sports, 2015–2026. About 12% of records dropped — mostly private schools excluded from EADA.",
+    teaser: "230+ public Division I schools, three revenue sports, 2015–2026. About 12% of records dropped - mostly private schools excluded from EADA.",
     icon: "🎯",
     color: T.blue,
-    content: `Financial analysis covered all 230+ public Division I institutions tracked by Knight-Newhouse and the full EADA universe of Title IV schools. Competitive and recruiting analysis covered three revenue sports: FBS football, Division I men's basketball, and Division I women's basketball. Temporal coverage runs from 2015–2023 for financial data, 2018–2025 for competitive performance, and 2022–2026 for recruiting. Approximately 12% of team-year records were dropped due to unresolvable missing data — most often private schools excluded from EADA reporting (Duke, Stanford, USC, Notre Dame, and similar).
+... `Financial analysis covered all 230+ public Division I institutions tracked by Knight-Newhouse and the full EADA universe of Title IV schools. Competitive and recruiting analysis covered three revenue sports: FBS football, Division I men's basketball, and Division I women's basketball. Temporal coverage runs from 2015–2023 for financial data, 2018–2025 for competitive performance, and 2022–2026 for recruiting. Approximately 12% of team-year records were dropped due to unresolvable missing data - most often private schools excluded from EADA reporting (Duke, Stanford, USC, Notre Dame, and similar).
 
 Programs were grouped into three tiers following EADA conference classification. Basketball uses a slightly different tier structure than football because the Big East, West Coast Conference, and American have different competitive positions in basketball than they do in football.`,
   },
@@ -84,7 +84,7 @@ Three correlations are central to the project's findings: NIL spending vs. recru
       { label: "Deployment", value: "GitHub Pages via the gh-pages package" },
       { label: "Version control", value: "Git and GitHub" },
     ],
-    techNote: "HashRouter was chosen over BrowserRouter because GitHub Pages does not support server-side route rewrites — a decision made after an initial BrowserRouter attempt produced broken links on deployed builds.",
+    techNote: "HashRouter was chosen over BrowserRouter because GitHub Pages does not support server-side route rewrites - a decision made after an initial BrowserRouter attempt produced broken links on deployed builds.",
   },
   {
     id: 6,
@@ -107,19 +107,19 @@ The project also measures correlation and temporal change, not causation. When a
     content: `I used Anthropic's Claude at multiple stages of this project. Honest disclosure is more useful than a generic acknowledgment, so what follows is a specific account of what I delegated, what I kept, and what I learned.
 
 <h3>What I Used AI For</h3>
-The most substantial assistance was in building the React application. I came into this project comfortable with Python and data analysis but had never built a React/Vite app from scratch or deployed to GitHub Pages. Claude acted as a pair programmer for the front-end build — I described what I wanted each page to do, and we iterated on JSX components together. I also used Claude for code generation in the data-cleaning pipeline (particularly team name normalization across datasets), for translating chart concepts into Recharts component code, and for drafting initial versions of several written sections on this site, which I then edited heavily for voice and accuracy.
+The most substantial assistance was in building the React application. I came into this project comfortable with Python and data analysis but had never built a React/Vite app from scratch or deployed to GitHub Pages. Claude acted as a pair programmer for the front-end build - I described what I wanted each page to do, and we iterated on JSX components together. I also used Claude for code generation in the data-cleaning pipeline (particularly team name normalization across datasets), for translating chart concepts into Recharts component code, and for drafting initial versions of several written sections on this site, which I then edited heavily for voice and accuracy.
 
 <h3>What I Did Not Delegate</h3>
-The research question, hypothesis, data-source selection, and interpretation of findings are my own. I chose which sources to use, which comparisons to make, and what the results meant. I also kept all of the domain judgment calls — when data was ambiguous, I made the call myself after checking source reporting.
+The research question, hypothesis, data-source selection, and interpretation of findings are my own. I chose which sources to use, which comparisons to make, and what the results meant. I also kept all of the domain judgment calls - when data was ambiguous, I made the call myself after checking source reporting.
 
 <h3>What Worked</h3>
 AI-assisted development let me spend more time on the analytical and interpretive work rather than fighting configuration issues. Claude was also a useful writing partner: I would draft or describe an idea, Claude would propose a cleaner version, and I would edit that for voice and accuracy. The final prose is mine; the velocity at which I produced it was accelerated.
 
 <h3>What Didn't Work</h3>
-AI tools made confident errors that required verification. Early in the project, Claude gave me GitHub setup instructions in the wrong order (create remote repo before local init, which is backwards). I caught it because I had enough Git background to notice, but the experience made clear that AI-generated technical instructions need review even when they look authoritative. I also started out trying to embed Python-generated charts into a static HTML site via CDN scripts — an AI-suggested approach that worked in isolation but broke on deployment. Rebuilding as a proper React application was a significantly larger lift but produced a much cleaner result. The lesson: AI tools are good at generating options, not always at recommending the one that will hold up long-term.
+AI tools made confident errors that required verification. Early in the project, Claude gave me GitHub setup instructions in the wrong order (create remote repo before local init, which is backwards). I caught it because I had enough Git background to notice, but the experience made clear that AI-generated technical instructions need review even when they look authoritative. I also started out trying to embed Python-generated charts into a static HTML site via CDN scripts - an AI-suggested approach that worked in isolation but broke on deployment. Rebuilding as a proper React application was a significantly larger lift but produced a much cleaner result. The lesson: AI tools are good at generating options, not always at recommending the one that will hold up long-term.
 
 <h3>What I Learned</h3>
-Working with AI forced me to be more explicit about my intent at every step. When I couldn't cleanly describe what I wanted, the output was bad. When I could, the output was good. That discipline of articulating requirements before writing code is something I'll carry into future projects whether I'm using AI assistance or not. AI tools are excellent for reducing friction on technical implementation and polishing prose — but they are not a substitute for domain knowledge, judgment about what the data means, or the work of deciding what question is worth asking in the first place.`,
+Working with AI forced me to be more explicit about my intent at every step. When I couldn't cleanly describe what I wanted, the output was bad. When I could, the output was good. That discipline of articulating requirements before writing code is something I'll carry into future projects whether I'm using AI assistance or not. AI tools are excellent for reducing friction on technical implementation and polishing prose - but they are not a substitute for domain knowledge, judgment about what the data means, or the work of deciding what question is worth asking in the first place.`,
   },
 ];
 
@@ -283,7 +283,7 @@ export default function Methodology() {
           Methodology
         </h1>
         <p style={{ fontSize: 15, color: T.muted, lineHeight: 1.6, maxWidth: 650, margin: 0 }}>
-          How the data was collected, processed, and analyzed — plus honest disclosure about scope, limits, and AI tool usage.
+          How the data was collected, processed, and analyzed - plus honest disclosure about scope, limits, and AI tool usage.
         </p>
       </div>
 

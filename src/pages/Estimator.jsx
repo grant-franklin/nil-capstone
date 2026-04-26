@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 /* ═══════════════════════════════════════════════════════════════════════
-   NIL VALUE ESTIMATOR — Capstone page
+   NIL VALUE ESTIMATOR - Capstone page
    Interactive tool + commentary/limitations accordions
    All figures derived from ON3_Rankings_CLEANED.xlsx, ON3_2025_NIL_TOP100.html,
    and NCAA_NIL_Assist_Deal_Data_summary.xlsx
@@ -42,7 +42,7 @@ const POS_MULT = {
     "RB": { mult: 1.0, label: "Running Back", note: "Declining positional value in modern offenses." },
     "OL": { mult: 0.9, label: "Offensive Line", note: "Essential but lower NIL visibility and marketability." },
     "LB": { mult: 0.85, label: "Linebacker", note: "Solid positional value, less marquee appeal." },
-    "DL": { mult: 0.9, label: "Defensive Line", note: "Similar to OL — high on-field value, lower NIL profile." },
+    "DL": { mult: 0.9, label: "Defensive Line", note: "Similar to OL - high on-field value, lower NIL profile." },
     "CB": { mult: 1.1, label: "Cornerback", note: "Playmakers with highlight potential." },
     "S": { mult: 0.85, label: "Safety", note: "Moderate NIL profile." },
     "TE": { mult: 1.0, label: "Tight End", note: "Growing positional value in modern offenses." },
@@ -52,7 +52,7 @@ const POS_MULT = {
     "PG": { mult: 1.8, label: "Point Guard", note: "Ball-dominant, high visibility. 5 of Top 100." },
     "SG": { mult: 1.4, label: "Shooting Guard", note: "Scorers command premium NIL value." },
     "SF": { mult: 1.5, label: "Small Forward", note: "Versatile wings are highly valued. 7 of Top 100." },
-    "PF": { mult: 1.6, label: "Power Forward", note: "11 of Top 100 — highest basketball representation." },
+    "PF": { mult: 1.6, label: "Power Forward", note: "11 of Top 100 - highest basketball representation." },
     "C": { mult: 1.3, label: "Center", note: "Size commands attention, especially elite bigs." },
   }
 };
@@ -224,7 +224,7 @@ export default function Estimator() {
         background: C.cardAlt, color: C.white, fontSize: 14, fontWeight: 600, cursor: "pointer", outline: "none",
       }}>
         {options.map(o => (
-          <option key={o} value={o}>{descriptions ? `${o} — ${descriptions[o]}` : o}</option>
+          <option key={o} value={o}>{descriptions ? `${o} - ${descriptions[o]}` : o}</option>
         ))}
       </select>
     </div>
@@ -391,7 +391,7 @@ export default function Estimator() {
                   );
                 })}
                 <p style={{ fontSize: 11, color: C.muted, marginTop: 12, fontStyle: "italic" }}>
-                  Source: ON3_Rankings_CLEANED.xlsx — Avg_NIL_Numeric by Conference, {sport}, 2025–2026
+                  Source: ON3_Rankings_CLEANED.xlsx - Avg_NIL_Numeric by Conference, {sport}, 2025–2026
                 </p>
               </div>
             </>
@@ -410,7 +410,7 @@ export default function Estimator() {
         </div>
 
         <p style={{ fontSize: 14, color: C.muted, lineHeight: 1.7, marginBottom: 28, textAlign: "center", maxWidth: 720, margin: "0 auto 28px" }}>
-          Click any section below to expand. These explanations cover what the estimator does, how the math works, and — critically — what it can't tell you.
+          Click any section below to expand. These explanations cover what the estimator does, how the math works, and - critically - what it can't tell you.
         </p>
 
         {/* ─── ABOUT THE TOOL ─── */}
@@ -419,7 +419,7 @@ export default function Estimator() {
             This estimator models what a hypothetical college athlete might earn in annual NIL compensation based on their conference, position, talent level, and transfer portal status. It's the interactive companion to this capstone's larger argument: that NIL dollars are heavily concentrated at Power 4 schools, and that position, talent, and market factors interact in compounding ways.
           </p>
           <p style={{ fontSize: 14, color: C.text, lineHeight: 1.75, margin: "0 0 14px" }}>
-            The tool is aimed at three audiences. First, <strong style={{ color: C.white }}>prospective student-athletes</strong> weighing offers across conferences — seeing how a conference change shifts earning potential at the same position and rating. Second, <strong style={{ color: C.white }}>athletic administrators at non-Power 4 programs</strong> assessing whether targeted NIL investment can realistically compete. Third, <strong style={{ color: C.white }}>fans, journalists, and researchers</strong> who want an intuition pump for how the NIL market prices talent.
+            The tool is aimed at three audiences. First, <strong style={{ color: C.white }}>prospective student-athletes</strong> weighing offers across conferences - seeing how a conference change shifts earning potential at the same position and rating. Second, <strong style={{ color: C.white }}>athletic administrators at non-Power 4 programs</strong> assessing whether targeted NIL investment can realistically compete. Third, <strong style={{ color: C.white }}>fans, journalists, and researchers</strong> who want an intuition pump for how the NIL market prices talent.
           </p>
           <p style={{ fontSize: 14, color: C.text, lineHeight: 1.75, margin: 0 }}>
             It is <strong style={{ color: C.accent }}>not</strong> a prediction. It's a data-grounded estimate built on aggregated market data, and like any model, its accuracy depends on how closely a real athlete's circumstances match the averages the tool is built from.
@@ -429,7 +429,7 @@ export default function Estimator() {
         {/* ─── HOW THE MATH WORKS ─── */}
         <Accordion title="How the Math Works" subtitle="The multiplier methodology" icon="×" accent={C.g5}>
           <p style={{ fontSize: 14, color: C.text, lineHeight: 1.75, margin: "0 0 14px" }}>
-            The estimator uses a multiplicative model. It starts with a real baseline — the <strong style={{ color: C.white }}>median NIL per recruit at the selected conference</strong> — and then applies four multipliers that stack:
+            The estimator uses a multiplicative model. It starts with a real baseline - the <strong style={{ color: C.white }}>median NIL per recruit at the selected conference</strong> - and then applies four multipliers that stack:
           </p>
 
           <div style={{ background: C.cardAlt, border: `1px solid ${C.border}`, borderRadius: 10, padding: 18, marginBottom: 16 }}>
@@ -460,7 +460,7 @@ export default function Estimator() {
             The <strong style={{ color: C.white }}>low and high estimates</strong> widen the star-rating band (a 5-star's range is 3.5x–8.0x rather than a fixed 5.0x) to reflect real-world variance at each talent tier. The high estimate is also capped at realistic ceilings ($7M football, $4.5M basketball) so outputs don't spiral past observed market maxima.
           </p>
           <p style={{ fontSize: 14, color: C.text, lineHeight: 1.75, margin: 0 }}>
-            Because the multipliers compound, a Power 4 SEC quarterback who's a 5-star Top 10 transfer with a social following produces a figure in the seven figures — which matches the public NIL valuations of athletes like AJ Dybantsa or the top SEC QBs. A 3-star Sun Belt offensive lineman lands in the low five figures, which matches the reporting on typical G5 deals.
+            Because the multipliers compound, a Power 4 SEC quarterback who's a 5-star Top 10 transfer with a social following produces a figure in the seven figures - which matches the public NIL valuations of athletes like AJ Dybantsa or the top SEC QBs. A 3-star Sun Belt offensive lineman lands in the low five figures, which matches the reporting on typical G5 deals.
           </p>
         </Accordion>
 
@@ -489,7 +489,7 @@ export default function Estimator() {
               },
               {
                 name: "EADA_CFB_MBB_WBB_Analysis.xlsx",
-                feeds: "Contextual framing — not used directly in the calculation, but informs the Power 4 vs. non-Power 4 tier boundaries.",
+                feeds: "Contextual framing - not used directly in the calculation, but informs the Power 4 vs. non-Power 4 tier boundaries.",
                 note: "Equity in Athletics Disclosure Act data filed with the U.S. Department of Education. Covers total athletic revenues and expenses.",
               },
             ].map((src, i) => (
@@ -509,7 +509,7 @@ export default function Estimator() {
           </p>
           <ul style={{ fontSize: 14, color: C.text, lineHeight: 1.75, margin: 0, paddingLeft: 20 }}>
             <li style={{ marginBottom: 10 }}>
-              <strong style={{ color: C.accent }}>Mid-range estimate.</strong> The most likely single value for the profile — the central tendency of the model. Treat this as the tool's best guess, not a guarantee.
+              <strong style={{ color: C.accent }}>Mid-range estimate.</strong> The most likely single value for the profile - the central tendency of the model. Treat this as the tool's best guess, not a guarantee.
             </li>
             <li style={{ marginBottom: 10 }}>
               <strong style={{ color: C.g5 }}>Low estimate.</strong> A reasonable floor. Athletes at this profile sometimes earn less (walk-on equivalents, depth roles, smaller markets), and this number reflects that tail.
@@ -521,7 +521,7 @@ export default function Estimator() {
               <strong style={{ color: C.white }}>Tier badge (Power 4 / Non-Power 4).</strong> Classifies the selected conference in the same tier system used throughout the capstone's analysis.
             </li>
             <li>
-              <strong style={{ color: C.white }}>Percentile badge.</strong> Where this estimate falls within the chosen conference's NIL distribution — so a $300K estimate can be "Top 10% in the MAC" or "Average in the SEC" depending on context.
+              <strong style={{ color: C.white }}>Percentile badge.</strong> Where this estimate falls within the chosen conference's NIL distribution - so a $300K estimate can be "Top 10% in the MAC" or "Average in the SEC" depending on context.
             </li>
           </ul>
         </Accordion>
@@ -536,14 +536,14 @@ export default function Estimator() {
 
           <Accordion title="What This Tool Can't Tell You" subtitle="The honest list of what's missing, approximate, or beyond the data" icon="!" accent={C.red} defaultOpen>
             <p style={{ fontSize: 14, color: C.text, lineHeight: 1.75, margin: "0 0 18px" }}>
-              No model covers everything. Here are the substantive blind spots in this estimator — read them before citing any number the tool produces:
+              No model covers everything. Here are the substantive blind spots in this estimator - read them before citing any number the tool produces:
             </p>
 
             <div style={{ display: "grid", gap: 10 }}>
               {[
                 {
                   title: "On3 valuations are algorithmic estimates, not verified transactions.",
-                  body: "The baseline conference medians are computed from On3's proprietary NIL Valuation algorithm, which blends projected roster value and endorsement potential. Real contracts — when disclosed — sometimes diverge substantially. Treat the tool's outputs as market-rate estimates, not legal signing figures.",
+                  body: "The baseline conference medians are computed from On3's proprietary NIL Valuation algorithm, which blends projected roster value and endorsement potential. Real contracts - when disclosed - sometimes diverge substantially. Treat the tool's outputs as market-rate estimates, not legal signing figures.",
                 },
                 {
                   title: "Extreme inequality within each tier.",
@@ -559,11 +559,11 @@ export default function Estimator() {
                 },
                 {
                   title: "Binary social media treatment.",
-                  body: "The social toggle is a flat 1.25x for 50K+ followers. Reality is continuous — an athlete with 2M followers is not treated differently from one with 60K in the model, even though the endorsement economics differ by an order of magnitude.",
+                  body: "The social toggle is a flat 1.25x for 50K+ followers. Reality is continuous - an athlete with 2M followers is not treated differently from one with 60K in the model, even though the endorsement economics differ by an order of magnitude.",
                 },
                 {
                   title: "No agent, negotiation, or deal-structure effects.",
-                  body: "Athletes with professional representation often secure better deals. Structure matters too — a guaranteed $200K contract is not equivalent to $200K in performance incentives. The estimator ignores both.",
+                  body: "Athletes with professional representation often secure better deals. Structure matters too - a guaranteed $200K contract is not equivalent to $200K in performance incentives. The estimator ignores both.",
                 },
                 {
                   title: "House v. NCAA revenue sharing is not modeled separately.",
@@ -571,7 +571,7 @@ export default function Estimator() {
                 },
                 {
                   title: "Football position groups are approximate.",
-                  body: "The tool uses broad categories (WR, OL, DL, etc.). Within each group there's enormous variance — a slot receiver and a No. 1 outside WR face different markets, as do a left tackle and a backup guard. The tool can't disambiguate.",
+                  body: "The tool uses broad categories (WR, OL, DL, etc.). Within each group there's enormous variance - a slot receiver and a No. 1 outside WR face different markets, as do a left tackle and a backup guard. The tool can't disambiguate.",
                 },
                 {
                   title: "Women's basketball is not modeled.",
@@ -609,7 +609,7 @@ export default function Estimator() {
 
         {/* Footer */}
         <p style={{ fontSize: 12, color: C.muted, marginTop: 32, textAlign: "center" }}>
-          Grant Franklin — DCDA Capstone — Spring 2026
+          Grant Franklin - DCDA Capstone - Spring 2026
         </p>
       </div>
     </div>

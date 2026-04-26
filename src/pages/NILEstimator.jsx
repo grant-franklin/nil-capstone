@@ -40,7 +40,7 @@ const POS_MULT = {
     "RB": { mult: 1.0, label: "Running Back", note: "Declining positional value in modern offenses." },
     "OL": { mult: 0.9, label: "Offensive Line", note: "Essential but lower NIL visibility and marketability." },
     "LB": { mult: 0.85, label: "Linebacker", note: "Solid positional value, less marquee appeal." },
-    "DL": { mult: 0.9, label: "Defensive Line", note: "Similar to OL — high on-field value, lower NIL profile." },
+    "DL": { mult: 0.9, label: "Defensive Line", note: "Similar to OL - high on-field value, lower NIL profile." },
     "CB": { mult: 1.1, label: "Cornerback", note: "Playmakers with highlight potential." },
     "S": { mult: 0.85, label: "Safety", note: "Moderate NIL profile." },
     "TE": { mult: 1.0, label: "Tight End", note: "Growing positional value in modern offenses." },
@@ -50,7 +50,7 @@ const POS_MULT = {
     "PG": { mult: 1.8, label: "Point Guard", note: "Ball-dominant, high visibility. 5 of Top 100." },
     "SG": { mult: 1.4, label: "Shooting Guard", note: "Scorers command premium NIL value." },
     "SF": { mult: 1.5, label: "Small Forward", note: "Versatile wings are highly valued. 7 of Top 100." },
-    "PF": { mult: 1.6, label: "Power Forward", note: "11 of Top 100 — highest basketball representation." },
+    "PF": { mult: 1.6, label: "Power Forward", note: "11 of Top 100 - highest basketball representation." },
     "C": { mult: 1.3, label: "Center", note: "Size commands attention, especially elite bigs." },
   }
 };
@@ -173,7 +173,7 @@ export default function NILEstimator() {
         background: COLORS.cardAlt, color: COLORS.white, fontSize: 14, fontWeight: 600, cursor: "pointer", outline: "none",
       }}>
         {options.map(o => (
-          <option key={o} value={o}>{descriptions ? `${o} — ${descriptions[o]}` : o}</option>
+          <option key={o} value={o}>{descriptions ? `${o} - ${descriptions[o]}` : o}</option>
         ))}
       </select>
     </div>
@@ -248,7 +248,7 @@ export default function NILEstimator() {
           <div style={{ background: COLORS.card, border: `1px solid ${COLORS.border}`, borderRadius: 12, padding: 20, marginTop: 16 }}>
             <h3 style={{ fontSize: 13, fontWeight: 700, color: COLORS.muted, margin: "0 0 8px", textTransform: "uppercase", letterSpacing: 0.5 }}>Methodology</h3>
             <p style={{ fontSize: 12, color: COLORS.muted, lineHeight: 1.6, margin: 0 }}>
-              Estimates are calculated by applying position, talent, and portal multipliers to real conference-level median NIL data from On3 (2025–26). Position multipliers are derived from the On3 NIL Top 100 position distribution. Star-level multipliers use actual average NIL values by recruit rating from ON3_Rankings_CLEANED.xlsx. These are estimates, not predictions — actual NIL values depend on market size, social media, school-specific collective budgets, and deal structure.
+              Estimates are calculated by applying position, talent, and portal multipliers to real conference-level median NIL data from On3 (2025-26). Position multipliers are derived from the On3 NIL Top 100 position distribution. Star-level multipliers use actual average NIL values by recruit rating from ON3_Rankings_CLEANED.xlsx. These are estimates, not predictions - actual NIL values depend on market size, social media, school-specific collective budgets, and deal structure.
             </p>
             <p style={{ fontSize: 11, color: COLORS.accent, marginTop: 8 }}>
               Sources: ON3_Rankings_CLEANED.xlsx · ON3_2025_NIL_TOP100.html · NCAA_NIL_Assist_Deal_Data_summary.xlsx
@@ -353,7 +353,7 @@ export default function NILEstimator() {
                   );
                 })}
                 <p style={{ fontSize: 11, color: COLORS.muted, marginTop: 12, fontStyle: "italic" }}>
-                  Source: ON3_Rankings_CLEANED.xlsx — Avg_NIL_Numeric by Conference, {sport}, 2025–2026
+                  Source: ON3_Rankings_CLEANED.xlsx - Avg_NIL_Numeric by Conference, {sport}, 2025–2026
                 </p>
               </div>
             </>
@@ -367,7 +367,7 @@ export default function NILEstimator() {
           <p style={{ fontSize: 12, color: COLORS.muted, lineHeight: 1.6, margin: 0 }}>
             <strong style={{ color: COLORS.accent }}>Disclaimer:</strong> This tool provides estimates based on aggregate data from On3, NCAA NIL Assist, and EADA databases. Actual NIL compensation depends on factors not captured here, including school-specific collective budgets, local market size, player social media following, agent representation, endorsement opportunities, and individual negotiation. On3 valuations are algorithmic estimates, not verified transaction data. The average-to-median ratio for NIL deals is 51.7x in CFB and 107.5x in MBB (per NCAA NIL Assist data), meaning individual outcomes vary enormously. This estimator is intended for educational and research purposes as part of a DCDA capstone project.
           </p>
-          <p style={{ fontSize: 11, color: COLORS.muted, marginTop: 8 }}>Grant Franklin — DCDA Capstone — Spring 2026</p>
+          <p style={{ fontSize: 11, color: COLORS.muted, marginTop: 8 }}>Grant Franklin - DCDA Capstone - Spring 2026</p>
         </div>
       </div>
     </div>
