@@ -181,7 +181,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>Average Total Athletic Revenue by Tier (2023)</h3>
-            <Source>EADA_CFB_MBB_WBB_Analysis.xlsx - Master Data, 2023 Grand Total Revenue by Tier</Source>
+            <Source><a href="https://ope.ed.gov/athletics/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>Equity in Athletics Disclosure Act (EADA), U.S. Department of Education</a></Source>
             <ResponsiveContainer width="100%" height={280}>
               <BarChart data={revenueByTier} barGap={8}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -204,7 +204,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>Revenue Gap: Power 5 vs. Group of 5 (2015–2023)</h3>
-            <Source>EADA_CFB_MBB_WBB_Analysis.xlsx - Master Data, Grand Total Revenue by Tier by Year</Source>
+            <Source><a href="https://ope.ed.gov/athletics/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>Equity in Athletics Disclosure Act (EADA), U.S. Department of Education</a></Source>
             <ResponsiveContainer width="100%" height={300}>
               <ComposedChart data={revenueTimeline}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -239,7 +239,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>NIL Top 100: Athletes by Conference</h3>
-            <Source>ON3_2025_NIL_TOP100.html - conf and nil valuation fields</Source>
+            <Source><a href="https://www.on3.com/nil/rankings/player/nil-100/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>On3 NIL Top 100 Rankings</a></Source>
             <ResponsiveContainer width="100%" height={260}>
               <BarChart data={nilConf} layout="vertical">
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -258,7 +258,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>NIL Deal Inequality: Average vs. Median</h3>
-            <Source>NCAA_NIL_Assist_Deal_Data_summary.xlsx - Raw Data sheet</Source>
+            <Source><a href="https://nilassist.ncaa.org/data-dashboard/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>NCAA NIL Assist Data Dashboard</a></Source>
             <ResponsiveContainer width="100%" height={260}>
               <BarChart data={nilDeals}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -291,7 +291,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>Avg NIL Per Recruit: Power 4 vs. Non-Power 4 ({sportToggle === "fb" ? "Football" : "Basketball"})</h3>
-            <Source>ON3_Rankings_CLEANED.xlsx - Avg_NIL_Numeric by Tier, {sportToggle === "fb" ? "Football" : "Basketball"}</Source>
+            <Source><a href="https://www.on3.com/nil/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>On3 NIL Valuations and Recruiting Rankings</a></Source>
             <ResponsiveContainer width="100%" height={300}>
               <BarChart data={nilRecruit} barGap={4}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -319,7 +319,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>CFB Win Percentage: Power vs. Group of 5 (2018–2025)</h3>
-            <Source>Sports_Reference.xlsx → CFB Data sheet (Win_Pct averaged by Tier and Year)</Source>
+            <Source><a href="https://www.sports-reference.com/cfb/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>Sports Reference — College Football</a></Source>
             <ResponsiveContainer width="100%" height={300}>
               <ComposedChart data={cfbBalance}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />
@@ -344,7 +344,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 12px" }}>Cross-Sport Competitive Balance Summary</h3>
-            <Source>Sports_Reference.xlsx - CFB, MBB, WBB Data sheets, pre-NIL vs. post-NIL averages</Source>
+            <Source><a href="https://www.sports-reference.com/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>Sports Reference — College Football and College Basketball</a></Source>
             <div style={{ overflowX: "auto" }}>
               <table style={{ width: "100%", borderCollapse: "separate", borderSpacing: 0, fontSize: 13 }}>
                 <thead>
@@ -393,7 +393,7 @@ export default function Part4Dashboard() {
 
           <ChartWrap>
             <h3 style={{ fontSize: 15, fontWeight: 700, color: T.white, margin: "0 0 4px" }}>Correlation Strength Over Time</h3>
-            <Source>Merged ON3_Rankings_CLEANED.xlsx + Sports_Reference.xlsx → CFB Data, Pearson r by year</Source>
+            <Source><a href="https://www.on3.com/nil/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>On3 NIL Rankings</a> and <a href="https://www.sports-reference.com/cfb/" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>Sports Reference</a> (merged on Team + Year)</Source>
             <ResponsiveContainer width="100%" height={300}>
               <LineChart data={corrData}>
                 <CartesianGrid strokeDasharray="3 3" stroke={T.border} />

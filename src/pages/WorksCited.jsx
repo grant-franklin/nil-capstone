@@ -116,6 +116,50 @@ const CITATIONS = [
     annotation: "Individual athlete NIL valuations and team-level roster value rankings. Source of the 85-of-100 Power 4 concentration finding and the NIL-per-recruit analysis.",
     url: "https://www.on3.com/nil/news/about-on3-nil-valuation-per-post-value/",
   },
+  {
+    category: "datasets",
+    type: "Financial Database",
+    citation: <>"College Sports Finances Database." <em>Sportico</em>, 18 Feb. 2025.</>,
+    annotation: "Real-time tracker of public FBS athletic department balance sheets. Cross-referenced with Knight-Newhouse data to identify which programs rely on institutional subsidies versus self-generated revenue.",
+    url: "https://www.sportico.com/leagues/college-sports/2023/college-sports-finances-database-intercollegiate-1234646029/",
+  },
+  {
+    category: "datasets",
+    type: "Performance Database",
+    citation: <>"College Football at Sports Reference" and "College Basketball at Sports Reference." <em>Sports Reference LLC</em>, 2026.</>,
+    annotation: "Source of all win percentage, SRS, and team-level performance data used in Section 4 (Competitive Balance) and Section 5 (Correlations). Covers FBS football and Division I men's and women's basketball.",
+    url: "https://www.sports-reference.com/cfb/",
+  },
+  {
+    category: "datasets",
+    type: "Transfer Portal Database",
+    citation: <>"Football, Men's Basketball, and Women's Basketball Transfer Portal Wires." <em>On3</em>, 2026, on3.com/transfer-portal/wire/football/; on3.com/transfer-portal/wire/basketball/; on3.com/transfer-portal/wire/womens-basketball/.</>,
+    annotation: "Real-time tracker of athlete transfer activity across football, men's basketball, and women's basketball. Used to contextualize how NIL incentives drive roster turnover and reshape competitive dynamics across all three sports analyzed.",
+    url: "https://www.on3.com/transfer-portal/wire/football/",
+  },
+  {
+    category: "datasets",
+    type: "Recruiting Database",
+    citation: <>"2026 Industry Team Rankings — Football, Men's Basketball, and Women's Basketball." <em>On3</em> / <em>Rivals</em>, 2026, on3.com/rivals/rankings/industry-team/football/2026/; on3.com/rivals/rankings/industry-team/basketball/2026/; on3.com/rivals/rankings/industry-team/womens-basketball/2026/.</>,
+    annotation: "Industry consensus team-level recruiting class rankings combining On3 and Rivals data. Underlies the recruiting class quality measures used in Section 3 (Recruiting & NIL Spending) and the recruit-rating-to-SRS correlation in Section 5.",
+    url: "https://www.on3.com/rivals/rankings/industry-team/football/2026/",
+  },
+
+  // AI TOOLS
+  {
+    category: "aitools",
+    type: "AI Assistant",
+    citation: <>Anthropic. "Assistance with data interpretation, MLA citation formatting, methodology drafting, and React component scaffolding." <em>Claude</em>, Jan.–May 2026.</>,
+    annotation: "Used for data interpretation, MLA citation formatting, methodology drafting, and React component scaffolding. Specific use is documented in the Methodology section.",
+    url: "https://claude.ai",
+  },
+  {
+    category: "aitools",
+    type: "AI Code Assistant",
+    citation: <>GitHub / Microsoft. "Code generation assistance for React/Vite capstone application." <em>GitHub Copilot</em>, Jan.–May 2026.</>,
+    annotation: "Used inside VS Code for component scaffolding, prop typing, and Recharts boilerplate during dashboard development.",
+    url: "https://github.com/features/copilot",
+  },
 ];
 
 // ═══════════════ STAT CARD ═══════════════
@@ -246,6 +290,7 @@ export default function WorksCited() {
   const industry = CITATIONS.filter(c => c.category === 'industry');
   const policy = CITATIONS.filter(c => c.category === 'policy');
   const datasets = CITATIONS.filter(c => c.category === 'datasets');
+  const aitools = CITATIONS.filter(c => c.category === 'aitools');
 
   return (
     <div style={{ fontFamily: "'DM Sans', sans-serif", background: T.bg, color: T.text, minHeight: '100vh' }}>
@@ -260,16 +305,18 @@ export default function WorksCited() {
           Works Cited
         </h1>
         <p style={{ fontSize: 15, color: T.muted, lineHeight: 1.6, maxWidth: 650, margin: 0 }}>
-          Fourteen sources spanning peer-reviewed research, industry reports, policy analysis, and public datasets. All citations in MLA 9th edition format.
+          Twenty sources spanning peer-reviewed research, industry reports, policy analysis, public datasets, and AI tools. All citations in MLA 9th edition format.
         </p>
       </div>
 
       {/* STATS STRIP */}
       <div style={{ maxWidth: 900, margin: '0 auto', padding: '0 24px 40px', display: 'flex', gap: 12, flexWrap: 'wrap', justifyContent: 'space-between' }}>
-        <Stat label="Total Sources" value="14" color={T.accent} />
+        <Stat label="Total Sources" value="20" color={T.accent} />
         <Stat label="Academic" value="2" sub="peer-reviewed" color={T.teal} />
         <Stat label="Industry" value="4" sub="reports & analysis" color={T.blue} />
-        <Stat label="Policy & Data" value="8" sub="public datasets" color={T.red} />
+        <Stat label="Policy & Legal" value="4" sub="policy & legal" color={T.red} />
+        <Stat label="Public Datasets" value="8" sub="data sources" color={T.purple} />
+        <Stat label="AI Tools" value="2" sub="assistants" color="#a855f7" />
       </div>
 
       {/* CATEGORY NAVIGATION PILLS */}
@@ -278,6 +325,7 @@ export default function WorksCited() {
         <CategoryPill label="Industry Reports" color={T.blue} categoryId="industry" />
         <CategoryPill label="Policy & Legal" color={T.red} categoryId="policy" />
         <CategoryPill label="Public Datasets" color={T.purple} categoryId="datasets" />
+        <CategoryPill label="AI Tools" color="#a855f7" categoryId="aitools" />
       </div>
 
       {/* CATEGORY SECTIONS */}
@@ -316,6 +364,15 @@ export default function WorksCited() {
           color={T.purple}
           description="The primary quantitative sources - financial, NIL, and performance data - that power this project's analysis."
           citations={datasets}
+        />
+
+        <CategorySection
+          categoryId="aitools"
+          title="AI Tools"
+          icon="🤖"
+          color="#a855f7"
+          description="AI assistants used during research, data analysis, and code development. Documented per academic integrity guidelines."
+          citations={aitools}
         />
       </div>
     </div>
