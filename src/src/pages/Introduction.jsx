@@ -108,6 +108,23 @@ export default function Introduction() {
         maxWidth: 900,
         margin: '0 auto',
       }}>
+        <h1 style={{
+          fontSize: 32,
+          fontWeight: 800,
+          color: theme.white,
+          margin: '0 0 8px',
+        }}>
+          The NIL Divide
+        </h1>
+        <p style={{
+          fontSize: 15,
+          color: theme.muted,
+          lineHeight: 1.6,
+          margin: '0 0 40px',
+        }}>
+          Welcome to The NIL Divide: Money, Power &amp; Competitive Balance — a Digital Culture and Data Analytics capstone project investigating how Name, Image, and Likeness (NIL) compensation has reshaped NCAA Division I athletics. This interactive site walks through a data-driven analysis of how the NIL era is reshaping the financial and competitive landscape of collegiate sports.
+        </p>
+
         {/* Research Question */}
         <div style={{
           background: theme.card,
@@ -134,43 +151,8 @@ export default function Introduction() {
             margin: '0 0 16px',
             lineHeight: 1.3,
           }}>
-            How has NIL compensation affected the financial divide and competitive balance between Power 4 and non-Power 4 NCAA Division I programs?
+            How has the introduction of Name, Image, and Likeness compensation affected the financial divide and competitive balance between Power 4 and non-Power 4 NCAA Division I programs?
           </h2>
-        </div>
-
-        {/* Hypothesis */}
-        <div style={{
-          background: theme.card,
-          border: `1px solid ${theme.border}`,
-          borderRadius: 12,
-          padding: 24,
-          marginBottom: 40,
-          borderLeft: `4px solid ${theme.accent}`,
-        }}>
-          <h3 style={{
-            fontSize: 18,
-            fontWeight: 800,
-            color: theme.white,
-            margin: '0 0 16px',
-          }}>
-            Hypothesis
-          </h3>
-          <p style={{
-            fontSize: 15,
-            color: theme.text,
-            lineHeight: 1.75,
-            margin: '0 0 12px',
-          }}>
-            NIL compensation has significantly widened the financial gap between Power 4 and non-Power 4 programs, but its effect on competitive balance is more nuanced than a simple "rich get richer" narrative suggests.
-          </p>
-          <p style={{
-            fontSize: 15,
-            color: theme.text,
-            lineHeight: 1.75,
-            margin: 0,
-          }}>
-            While resource-rich programs are spending dramatically more on athlete compensation, the on-field competitive gap — measured through win percentages, recruiting rankings, and postseason outcomes — has not widened proportionally. This is because money can't override other critical factors: coaching quality, institutional culture, geographic recruiting advantages, and the inefficiencies of an immature NIL marketplace where athlete valuations do not yet reliably predict performance.
-          </p>
         </div>
 
         {/* Key Statistics */}
@@ -208,22 +190,36 @@ export default function Introduction() {
 
         {/* Collapsible Sections */}
         <div style={{ marginBottom: 40 }}>
-          <CollapsibleSection title="📋 Research Statement">
+          <CollapsibleSection title="📋 Abstract">
             <p>
-              This capstone project examines the Name, Image, and Likeness (NIL) landscape in NCAA Division I athletics, specifically investigating how the 2021 NCAA policy shift enabling athlete compensation has affected both the financial divide between institutional tiers and competitive balance across sports. Through quantitative analysis of NIL spending data, revenue distributions, recruiting trends, and win percentages, combined with thematic analysis of institutional policies and athlete experiences, this study seeks to determine whether NIL policies have functioned as intended (creating athlete compensation opportunities) or primarily exacerbated existing inequalities between well-funded and under-resourced programs.
+              Since the NCAA&apos;s interim NIL policy took effect in July 2021 and the House v. NCAA settlement was approved in June 2025, college athletics has entered a new financial era. Schools can now compensate athletes up to $20.5 million annually through direct revenue sharing, and the third-party NIL market has grown to an estimated $2.3 billion. The dominant public narrative holds that this money is concentrating talent and wins at a handful of wealthy programs, producing a &quot;super league&quot; that leaves everyone else behind. This project tests that narrative against the data.
+            </p>
+            <p>
+              Drawing on nine public datasets spanning financial reporting (EADA, Knight-Newhouse), NIL valuations (On3, NCAA NIL Assist, Opendorse), recruiting rankings (On3, 247Sports), and on-field performance (Sports Reference), this study compares Power 4 and non-Power 4 programs across football, men&apos;s basketball, and women&apos;s basketball in the pre-NIL (2018–2021) and post-NIL (2022–2026) eras. Python was used for data cleaning and analysis; React and Recharts power the interactive visualizations.
+            </p>
+            <p>
+              The findings support a more nuanced conclusion than the headlines suggest. The financial gap between Power 5 and Group of 5 athletic departments grew 44% between 2019 and 2023 (from $80M to $115M). Eighty-five of the top 100 NIL-valued athletes attend Power 4 schools, and the correlation between NIL spending and recruit quality has strengthened from r = 0.50 (2023) to r = 0.77 (2025). Yet the competitive effect is sport-dependent: football&apos;s win-percentage gap widened post-NIL, while men&apos;s basketball actually became more competitive, with High-Major programs gaining ground. The correlation between NIL spending and winning remains weak (r ≈ 0.25), indicating that money reliably buys talent but does not yet reliably buy wins. The financial arms race is real — but the competitive monopoly many feared has not yet arrived.
             </p>
           </CollapsibleSection>
 
-          <CollapsibleSection title="🎯 Purpose & Audience">
-            <p>
-              This research is intended for academic audiences, NCAA policymakers, athletic directors, and student-athlete advocates who are tasked with understanding the systemic implications of NIL policies. The findings will help inform future policy decisions regarding athlete compensation, institutional spending caps, and competitive fairness in collegiate athletics. The research aims to move beyond anecdotal discussions about NIL and provide empirical evidence about its real-world impact on institutional economics and competitive outcomes.
-            </p>
-          </CollapsibleSection>
-
-          <CollapsibleSection title="⚡ Exigency">
-            <p>
-              Since the NCAA's 2021 decision to permit NIL deals, the collegiate athletics landscape has undergone rapid and largely unregulated change. Major programs have invested millions in athlete compensation, creating unprecedented financial disparities between Power 4 and non-Power 4 institutions. Yet despite these massive investments, on-field outcomes have not shifted as dramatically as stakeholders anticipated. This disconnect demands urgent investigation. Without empirical evidence about NIL's actual effects, policymakers risk either perpetuating a system that deepens inequality or implementing restrictions that undermine athlete compensation opportunities. This study provides the data needed to inform that critical conversation at a moment when NIL policies are still evolving and malleable.
-            </p>
+          <CollapsibleSection title="🗺️ How to Navigate This Site">
+            <ul style={{ margin: 0, paddingLeft: 20 }}>
+              <li>
+                <strong>Literature Review</strong> — the academic and industry research shaping this inquiry
+              </li>
+              <li>
+                <strong>Methodology</strong> — data sources, analytical framework, and AI tool reflection
+              </li>
+              <li>
+                <strong>Findings</strong> — interactive dashboards across five research questions
+              </li>
+              <li>
+                <strong>Conclusion</strong> — what the data reveals and what it leaves open
+              </li>
+              <li>
+                <strong>Works Cited</strong> — full bibliography in MLA format
+              </li>
+            </ul>
           </CollapsibleSection>
         </div>
       </div>
